@@ -1,0 +1,98 @@
+{
+  "audit_date": "2026-10-06",
+  "auditor": "Codex (AI-assisted reading and local data checks)",
+  "source_case": {
+    "case_id": "cap:5902584",
+    "cap_id": "5902584",
+    "name": "Illinois v. Caballes",
+    "citation": "543 U.S. 405"
+  },
+  "reference_url": "https://supreme.justia.com/cases/federal/us/543/405/",
+  "scope": "Distinct substantive SCOTUS precedents cited by the majority, including footnotes; syllabus and separate opinions excluded as source text. Procedural history separately recorded.",
+  "method": "Read majority text and footnotes, compare against Justia opinion text, transcribe expected citation set, check exact edge-set equality and target identity, and check separate-opinion exclusions. Regex full-citation comparison supplements the reading; it is not a general citation parser or independent proof of recall.",
+  "majority_footnotes_reviewed": 0,
+  "result": {
+    "status": "pass_for_substantive_precedent_edges",
+    "recorded_edges": 4,
+    "verified_edges": 4,
+    "missed_substantive_scotus_precedents": 0,
+    "separate_opinion_only_edges_in_graph": 0,
+    "dataset_corrections_required": false
+  },
+  "verified_edges": [
+    {
+      "cited_case_id": "cap:6193241",
+      "name": "United States v. Place",
+      "citation": "462 U.S. 696",
+      "first_full_citation_character_offset": 5147,
+      "first_full_citation_paragraph": 9
+    },
+    {
+      "cited_case_id": "cap:6194938",
+      "name": "United States v. Jacobsen",
+      "citation": "466 U.S. 109",
+      "first_full_citation_character_offset": 2422,
+      "first_full_citation_paragraph": 6
+    },
+    {
+      "cited_case_id": "cap:9312742",
+      "name": "Kyllo v. United States",
+      "citation": "533 U.S. 27",
+      "first_full_citation_character_offset": 6863,
+      "first_full_citation_paragraph": 11
+    },
+    {
+      "cited_case_id": "cap:9505377",
+      "name": "City of Indianapolis v. Edmond",
+      "citation": "531 U.S. 32",
+      "first_full_citation_character_offset": 5385,
+      "first_full_citation_paragraph": 9
+    }
+  ],
+  "separate_opinion_full_us_citations_absent_from_majority": [
+    "389 U.S. 347",
+    "392 U.S. 1",
+    "434 U.S. 106",
+    "453 U.S. 454",
+    "460 U.S. 491",
+    "468 U.S. 420",
+    "468 U.S. 705",
+    "469 U.S. 221",
+    "469 U.S. 325",
+    "476 U.S. 227",
+    "483 U.S. 868",
+    "496 U.S. 444",
+    "501 U.S. 429",
+    "525 U.S. 113",
+    "525 U.S. 83",
+    "529 U.S. 334",
+    "542 U.S. 177"
+  ],
+  "notes": "Short majority with two dissents; all four substantive SCOTUS precedents are present. State-court People v. Cox is outside the SCOTUS target scope.",
+  "procedural_history_exception": {
+    "citation": "541 U.S. 972",
+    "meaning": "Grant of certiorari in this same litigation",
+    "in_graph": false,
+    "current_pipeline_reason": "ambiguous_target",
+    "review_record": {
+      "source_case_id": "cap:5902584",
+      "source_case_name": "Illinois v. Caballes",
+      "citation_text": "541 U. S. 972",
+      "reason": "ambiguous_target",
+      "candidate_cap_ids": "[5869474, 5879975, 5874536, 5911047, 5902059, 5868909, 5907757, 5871023, 5877358, 5877875, 5920084, 5873175]"
+    },
+    "note": "Not a missed substantive precedent. Current omission is caused by ambiguous archive resolution, not a global procedural-history filter."
+  },
+  "limitations": [
+    "Purposive spot check, not a statistical estimate of dataset accuracy.",
+    "Citation mention counts and rhetorical roles were not audited.",
+    "No assertion that the full term is complete."
+  ],
+  "input_sha256": {
+    "data/term_2004/raw/source-cases.json": "37150a1980bd422e99843eac338a435b79289ba6bfedecc66eac954980a52440",
+    "data/term_2004/cases.csv": "8871d91f01f94784f53d29af845090a4c454a4597d3eed79336f032a66a96b43",
+    "data/term_2004/citations.csv": "b17ebaaacbaa02363904db6ea745a17974f4b84056387c3103e43729e824a873",
+    "data/term_2004/citation_review.csv": "a17d95dba89e98d5dc93b26f2eaa3e71c1b59d658597da78567e59e10fca72e2"
+  },
+  "majority_text_sha256": "53bc7e7376bbb5e9b4ff71cab1b6ac941f17e151beb5b6bfd389f2cfac96a3eb"
+}

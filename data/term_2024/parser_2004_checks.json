@@ -1,0 +1,45 @@
+{
+  "method": "Apply the new full US citation recognizer to the five previously audited 2004 majority texts; all known edges found. Each extra reference is the already documented certiorari grant. This checks citation recognition, not 2004 PDF segmentation or whole-dataset equivalence.",
+  "results": [
+    {
+      "case": "Leocal v. Ashcroft",
+      "expected_precedent_edges": 4,
+      "all_known_edges_found": true,
+      "additional_full_citations": [
+        "540:1176"
+      ]
+    },
+    {
+      "case": "Koons Buick Pontiac GMC, Inc. v. Nigh",
+      "expected_precedent_edges": 6,
+      "all_known_edges_found": true,
+      "additional_full_citations": [
+        "540:1148"
+      ]
+    },
+    {
+      "case": "Illinois v. Caballes",
+      "expected_precedent_edges": 4,
+      "all_known_edges_found": true,
+      "additional_full_citations": [
+        "541:972"
+      ]
+    },
+    {
+      "case": "Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing",
+      "expected_precedent_edges": 12,
+      "all_known_edges_found": true,
+      "additional_full_citations": [
+        "543:1042"
+      ]
+    },
+    {
+      "case": "Lingle v. Chevron U. S. A. Inc.",
+      "expected_precedent_edges": 30,
+      "all_known_edges_found": true,
+      "additional_full_citations": [
+        "543:924"
+      ]
+    }
+  ]
+}

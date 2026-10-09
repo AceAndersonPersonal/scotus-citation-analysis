@@ -1,0 +1,141 @@
+{
+  "audited_on": "2026-10-06",
+  "reviewer": "AI-assisted text audit",
+  "method": "Read complete extracted majority texts and footnotes for three nonempty opinions; inspect separate opinions for exclusion and one zero-citation dismissal. Visual spot checks performed for Bouarfa layout and Martin printed citation error.",
+  "source_opinions_checked": 4,
+  "nonempty_source_opinions_checked": 3,
+  "substantive_binary_links_checked": 29,
+  "shared_node_ids_checked": 104,
+  "structural_checks_passed": true,
+  "citation_review_counts": {
+    "unresolved_target": 65,
+    "ambiguous_target": 1,
+    "unpaginated_citation_needs_review": 2
+  },
+  "results": [
+    {
+      "scdb_id": "2024-001",
+      "case_name": "Bouarfa v. Mayorkas",
+      "source_url": "https://www.supremecourt.gov/opinions/24pdf/604us1r03_3f14.pdf",
+      "pdf_sha256": "20f6932b2c8343d956c6dfb0bc2d7819c4e01ea4bf02534d3cfcb8add6580e3d",
+      "expected_citations": [
+        "486 U.S. 592",
+        "509 U.S. 43",
+        "533 U.S. 289",
+        "558 U.S. 233",
+        "589 U.S. 221",
+        "590 U.S. 418",
+        "596 U.S. 328",
+        "597 U.S. 785"
+      ],
+      "actual_citations": [
+        "486 U.S. 592",
+        "509 U.S. 43",
+        "533 U.S. 289",
+        "558 U.S. 233",
+        "589 U.S. 221",
+        "590 U.S. 418",
+        "596 U.S. 328",
+        "597 U.S. 785"
+      ],
+      "separate_opinion_only_citations_excluded": [],
+      "unresolved_certiorari_order": "601 U.S. 1166",
+      "notes": "Bouarfa: read majority including five footnotes. Biden v. Texas reference crosses a page break interrupted by footnotes; supplemental body flow recovers it.",
+      "passed": true
+    },
+    {
+      "scdb_id": "2024-012",
+      "case_name": "E.M.D. Sales, Inc. v. Carrera",
+      "source_url": "https://www.supremecourt.gov/opinions/24pdf/604us1r06_5ifl.pdf",
+      "pdf_sha256": "3b868b209006015997d93f69e2884aad4583045b5cdb1df1ff6820fc362080d3",
+      "expected_citations": [
+        "232 U.S. 37",
+        "309 U.S. 350",
+        "320 U.S. 118",
+        "356 U.S. 129",
+        "376 U.S. 254",
+        "417 U.S. 188",
+        "418 U.S. 323",
+        "441 U.S. 418",
+        "455 U.S. 745",
+        "459 U.S. 375",
+        "462 U.S. 393",
+        "490 U.S. 228",
+        "498 U.S. 279",
+        "564 U.S. 91",
+        "567 U.S. 142",
+        "579 U.S. 93",
+        "601 U.S. 23",
+        "97 U.S. 237"
+      ],
+      "actual_citations": [
+        "232 U.S. 37",
+        "309 U.S. 350",
+        "320 U.S. 118",
+        "356 U.S. 129",
+        "376 U.S. 254",
+        "417 U.S. 188",
+        "418 U.S. 323",
+        "441 U.S. 418",
+        "455 U.S. 745",
+        "459 U.S. 375",
+        "462 U.S. 393",
+        "490 U.S. 228",
+        "498 U.S. 279",
+        "564 U.S. 91",
+        "567 U.S. 142",
+        "579 U.S. 93",
+        "601 U.S. 23",
+        "97 U.S. 237"
+      ],
+      "separate_opinion_only_citations_excluded": [
+        "501 U.S. 104",
+        "548 U.S. 1",
+        "572 U.S. 545"
+      ],
+      "unresolved_certiorari_order": "602 U.S. 1029",
+      "notes": "E.M.D. Sales: read majority and Gorsuch concurrence. Three concurrence-only authorities excluded; Microsoft appears in both and is retained.",
+      "passed": true
+    },
+    {
+      "scdb_id": "2024-023",
+      "case_name": "Dewberry Group, Inc. v. Dewberry Engineers Inc.",
+      "source_url": "https://www.supremecourt.gov/opinions/24pdf/604us1r15_dc8f.pdf",
+      "pdf_sha256": "97910a1eda9991ca6d6e17e93bfff2902ebae33effaec2473daf70d3f25d581d",
+      "expected_citations": [
+        "524 U.S. 51",
+        "538 U.S. 468",
+        "591 U.S. 430"
+      ],
+      "actual_citations": [
+        "524 U.S. 51",
+        "538 U.S. 468",
+        "591 U.S. 430"
+      ],
+      "separate_opinion_only_citations_excluded": [
+        "281 U.S. 111",
+        "333 U.S. 591",
+        "401 U.S. 321",
+        "469 U.S. 189",
+        "543 U.S. 426",
+        "591 U.S. 71"
+      ],
+      "unresolved_certiorari_order": "602 U.S. 1038",
+      "notes": "Dewberry: read majority including footnotes and full Sotomayor concurrence. All six concurrence-only precedents excluded.",
+      "passed": true
+    },
+    {
+      "scdb_id": "2024-013",
+      "case_name": "Facebook, Inc. v. Amalgamated Bank",
+      "source_url": "https://www.supremecourt.gov/opinions/24pdf/604us1r02_j4ek.pdf",
+      "pdf_sha256": "38509063dc07b5d012a6813596fb727e5328fb9f8ec9c83103b5e84dcfafaf98",
+      "expected_citations": [],
+      "actual_citations": [],
+      "separate_opinion_only_citations_excluded": [],
+      "unresolved_certiorari_order": null,
+      "notes": "Facebook: one-sentence argued per-curiam dismissal as improvidently granted; zero citations is valid.",
+      "passed": true
+    }
+  ],
+  "limits": "These are selected spot checks, not an estimate of whole-term recall. Unresolved certiorari orders remain in the review queue; they are not counted as substantive precedent edges in these fixtures. Full US/nominative citations are recognized; short forms and unpaginated citations require review when no complete citation establishes the case."
+}

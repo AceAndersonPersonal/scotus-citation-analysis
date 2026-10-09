@@ -1,0 +1,7 @@
+* text=auto
+# Preserve CSV bytes so provenance hashes match across checkouts.
+*.csv -text whitespace=cr-at-eol
+# Matplotlib emits spaces within multiline SVG path data.
+reports/*.svg whitespace=-blank-at-eol
+reports/*.html whitespace=-blank-at-eol
+reports/* linguist-generated=true

@@ -1,0 +1,434 @@
+{
+  "created_at": "2026-10-06T23:35:41.899770+00:00",
+  "term": 2004,
+  "source_case_ids": [
+    137725,
+    137726,
+    137728
+  ],
+  "cases": 43,
+  "edges": 41,
+  "scope": "Illustrative 2004-term sample selected by names Leocal, Koons, and Kirby; not a representative or complete term. Includes all available opinion types within each source cluster. Only resolved citations to SCOTUS cases; distinct case pairs, no self-edges. Cited-only nodes have not had their outgoing citations collected.",
+  "opinion_level_evidence": [
+    {
+      "citing_case": 137726,
+      "cited_case": 85382,
+      "citing_opinion": 137726,
+      "cited_opinion": 85382,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137726,
+      "cited_case": 88300,
+      "citing_opinion": 137726,
+      "cited_opinion": 88300,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137726,
+      "cited_case": 98108,
+      "citing_opinion": 137726,
+      "cited_opinion": 98108,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137726,
+      "cited_case": 99307,
+      "citing_opinion": 137726,
+      "cited_opinion": 99307,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137726,
+      "cited_case": 105147,
+      "citing_opinion": 137726,
+      "cited_opinion": 105147,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137726,
+      "cited_case": 105871,
+      "citing_opinion": 137726,
+      "cited_opinion": 105871,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137726,
+      "cited_case": 112609,
+      "citing_opinion": 137726,
+      "cited_opinion": 112609,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137726,
+      "cited_case": 117989,
+      "citing_opinion": 137726,
+      "cited_opinion": 117989,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137726,
+      "cited_case": 8180514,
+      "citing_opinion": 137726,
+      "cited_opinion": 8142433,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137726,
+      "cited_case": 8195883,
+      "citing_opinion": 137726,
+      "cited_opinion": 8157818,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137726,
+      "cited_case": 89038,
+      "citing_opinion": 137726,
+      "cited_opinion": 9416997,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137726,
+      "cited_case": 105170,
+      "citing_opinion": 137726,
+      "cited_opinion": 9421003,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137726,
+      "cited_case": 105270,
+      "citing_opinion": 137726,
+      "cited_opinion": 9421127,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137726,
+      "cited_case": 105825,
+      "citing_opinion": 137726,
+      "cited_opinion": 9421743,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137726,
+      "cited_case": 106209,
+      "citing_opinion": 137726,
+      "cited_opinion": 9422178,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137726,
+      "cited_case": 110310,
+      "citing_opinion": 137726,
+      "cited_opinion": 9427993,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137726,
+      "cited_case": 110759,
+      "citing_opinion": 137726,
+      "cited_opinion": 9428853,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137726,
+      "cited_case": 112115,
+      "citing_opinion": 137726,
+      "cited_opinion": 9431375,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137726,
+      "cited_case": 112479,
+      "citing_opinion": 137726,
+      "cited_opinion": 9432112,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137726,
+      "cited_case": 112930,
+      "citing_opinion": 137726,
+      "cited_opinion": 9432943,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137726,
+      "cited_case": 118091,
+      "citing_opinion": 137726,
+      "cited_opinion": 9842131,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137725,
+      "cited_case": 117985,
+      "citing_opinion": 137725,
+      "cited_opinion": 117985,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137725,
+      "cited_case": 112745,
+      "citing_opinion": 137725,
+      "cited_opinion": 9432568,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137725,
+      "cited_case": 118447,
+      "citing_opinion": 137725,
+      "cited_opinion": 9434114,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137725,
+      "cited_case": 112866,
+      "citing_opinion": 137725,
+      "cited_opinion": 9842126,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 101420,
+      "citing_opinion": 9434702,
+      "cited_opinion": 101420,
+      "citing_opinion_type": "020lead"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 111963,
+      "citing_opinion": 9434702,
+      "cited_opinion": 111963,
+      "citing_opinion_type": "020lead"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 111984,
+      "citing_opinion": 9434702,
+      "cited_opinion": 111984,
+      "citing_opinion_type": "020lead"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 112589,
+      "citing_opinion": 9434702,
+      "cited_opinion": 112589,
+      "citing_opinion_type": "020lead"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 112877,
+      "citing_opinion": 9434702,
+      "cited_opinion": 112877,
+      "citing_opinion_type": "020lead"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 112866,
+      "citing_opinion": 9434702,
+      "cited_opinion": 9842126,
+      "citing_opinion_type": "020lead"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 84791,
+      "citing_opinion": 9434703,
+      "cited_opinion": 84791,
+      "citing_opinion_type": "030concurrence"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 103369,
+      "citing_opinion": 9434703,
+      "cited_opinion": 103369,
+      "citing_opinion_type": "030concurrence"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 111403,
+      "citing_opinion": 9434703,
+      "cited_opinion": 9429994,
+      "citing_opinion_type": "030concurrence"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 111751,
+      "citing_opinion": 9434703,
+      "cited_opinion": 9430694,
+      "citing_opinion_type": "030concurrence"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 112636,
+      "citing_opinion": 9434703,
+      "cited_opinion": 9432371,
+      "citing_opinion_type": "030concurrence"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 145120,
+      "citing_opinion": 9434703,
+      "cited_opinion": 9434815,
+      "citing_opinion_type": "030concurrence"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 112204,
+      "citing_opinion": 9434704,
+      "cited_opinion": 9431575,
+      "citing_opinion_type": "030concurrence"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 112706,
+      "citing_opinion": 9434704,
+      "cited_opinion": 9432491,
+      "citing_opinion_type": "030concurrence"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 131159,
+      "citing_opinion": 9434704,
+      "cited_opinion": 9434536,
+      "citing_opinion_type": "030concurrence"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 131159,
+      "citing_opinion": 9434705,
+      "cited_opinion": 9434536,
+      "citing_opinion_type": "030concurrence"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 111963,
+      "citing_opinion": 9434706,
+      "cited_opinion": 111963,
+      "citing_opinion_type": "040dissent"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 112742,
+      "citing_opinion": 9434706,
+      "cited_opinion": 9432562,
+      "citing_opinion_type": "040dissent"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 131159,
+      "citing_opinion": 9434706,
+      "cited_opinion": 9434536,
+      "citing_opinion_type": "040dissent"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 84791,
+      "citing_opinion": 137728,
+      "cited_opinion": 84791,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 101420,
+      "citing_opinion": 137728,
+      "cited_opinion": 101420,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 103369,
+      "citing_opinion": 137728,
+      "cited_opinion": 103369,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 111963,
+      "citing_opinion": 137728,
+      "cited_opinion": 111963,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 111984,
+      "citing_opinion": 137728,
+      "cited_opinion": 111984,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 112589,
+      "citing_opinion": 137728,
+      "cited_opinion": 112589,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 112877,
+      "citing_opinion": 137728,
+      "cited_opinion": 112877,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 111403,
+      "citing_opinion": 137728,
+      "cited_opinion": 9429994,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 111751,
+      "citing_opinion": 137728,
+      "cited_opinion": 9430694,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 112204,
+      "citing_opinion": 137728,
+      "cited_opinion": 9431575,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 112636,
+      "citing_opinion": 137728,
+      "cited_opinion": 9432371,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 112706,
+      "citing_opinion": 137728,
+      "cited_opinion": 9432491,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 112742,
+      "citing_opinion": 137728,
+      "cited_opinion": 9432562,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 131159,
+      "citing_opinion": 137728,
+      "cited_opinion": 9434536,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 145120,
+      "citing_opinion": 137728,
+      "cited_opinion": 9434815,
+      "citing_opinion_type": "010combined"
+    },
+    {
+      "citing_case": 137728,
+      "cited_case": 112866,
+      "citing_opinion": 137728,
+      "cited_opinion": 9842126,
+      "citing_opinion_type": "010combined"
+    }
+  ]
+}

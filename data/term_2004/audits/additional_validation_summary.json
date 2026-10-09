@@ -1,0 +1,39 @@
+{
+  "audit_date": "2026-10-06",
+  "additional_cases": [
+    {
+      "name": "Illinois v. Caballes",
+      "audit_file": "illinois_caballes.json",
+      "verified_edges": 4,
+      "missing_precedents": 0,
+      "incorrect_edges": 0
+    },
+    {
+      "name": "Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing",
+      "audit_file": "grable.json",
+      "verified_edges": 12,
+      "missing_precedents": 0,
+      "incorrect_edges": 0
+    },
+    {
+      "name": "Lingle v. Chevron U. S. A. Inc.",
+      "audit_file": "lingle.json",
+      "verified_edges": 30,
+      "missing_precedents": 0,
+      "incorrect_edges": 0
+    }
+  ],
+  "additional_verified_edges": 46,
+  "result": "No graph corrections required for these three cases.",
+  "readiness": "Ready to begin expansion with the same documented scope and review queues. This is not full-dataset certification.",
+  "known_limitations": [
+    "Each audited case has an omitted certiorari-grant reference logged as ambiguous; keep procedural references separate from substantive precedent coverage.",
+    "The current 2004 dataset includes 70 source cases, not the complete term. Existing excluded cases and unresolved citation entries remain in their review files.",
+    "Apply the same source-opinion and target rules across comparison terms; audit any new source/parser before relying on comparisons."
+  ],
+  "prior_audits": {
+    "koons_buick": "Saved audit: six edges verified by Codex.",
+    "leocal": "User reported complete audit of four substantive precedents; not independently re-audited in this batch."
+  },
+  "expansion_scope": "Awaiting user preference: add 2024 term first or build 2000\u20132004 / 2020\u20132024 windows."
+}

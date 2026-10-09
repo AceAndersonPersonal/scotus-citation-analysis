@@ -1,0 +1,264 @@
+{
+  "audit_date": "2026-10-06",
+  "auditor": "Codex (AI-assisted reading and local data checks)",
+  "source_case": {
+    "case_id": "cap:5879370",
+    "cap_id": "5879370",
+    "name": "Lingle v. Chevron U. S. A. Inc.",
+    "citation": "544 U.S. 528"
+  },
+  "reference_url": "https://supreme.justia.com/cases/federal/us/544/528/",
+  "scope": "Distinct substantive SCOTUS precedents cited by the majority, including footnotes; syllabus and separate opinions excluded as source text. Procedural history separately recorded.",
+  "method": "Read majority text and footnotes, compare against Justia opinion text, transcribe expected citation set, check exact edge-set equality and target identity, and check separate-opinion exclusions. Regex full-citation comparison supplements the reading; it is not a general citation parser or independent proof of recall.",
+  "majority_footnotes_reviewed": 0,
+  "result": {
+    "status": "pass_for_substantive_precedent_edges",
+    "recorded_edges": 30,
+    "verified_edges": 30,
+    "missed_substantive_scotus_precedents": 0,
+    "separate_opinion_only_edges_in_graph": 0,
+    "dataset_corrections_required": false
+  },
+  "verified_edges": [
+    {
+      "cited_case_id": "cap:11133693",
+      "name": "City of Monterey v. Del Monte Dunes at Monterey, Ltd.",
+      "citation": "526 U.S. 687",
+      "first_full_citation_character_offset": 650,
+      "first_full_citation_paragraph": 3
+    },
+    {
+      "cited_case_id": "cap:11304710",
+      "name": "Andrus v. Allard",
+      "citation": "444 U.S. 51",
+      "first_full_citation_character_offset": 12923,
+      "first_full_citation_paragraph": 19
+    },
+    {
+      "cited_case_id": "cap:11305447",
+      "name": "Kaiser Aetna v. United States",
+      "citation": "444 U.S. 164",
+      "first_full_citation_character_offset": 16474,
+      "first_full_citation_paragraph": 22
+    },
+    {
+      "cited_case_id": "cap:1131074",
+      "name": "Keystone Bituminous Coal Ass'n v. DeBenedictis",
+      "citation": "480 U.S. 470",
+      "first_full_citation_character_offset": 29018,
+      "first_full_citation_paragraph": 36
+    },
+    {
+      "cited_case_id": "cap:1148101",
+      "name": "United States v. Pewee Coal Co.",
+      "citation": "341 U.S. 114",
+      "first_full_citation_character_offset": 11372,
+      "first_full_citation_paragraph": 18
+    },
+    {
+      "cited_case_id": "cap:11504410",
+      "name": "County of Sacramento v. Lewis",
+      "citation": "523 U.S. 833",
+      "first_full_citation_character_offset": 21577,
+      "first_full_citation_paragraph": 27
+    },
+    {
+      "cited_case_id": "cap:11926101",
+      "name": "Pennsylvania Coal Co. v. Mahon",
+      "citation": "260 U.S. 393",
+      "first_full_citation_character_offset": 11714,
+      "first_full_citation_paragraph": 18
+    },
+    {
+      "cited_case_id": "cap:12058121",
+      "name": "Rowan v. United States Post Office Department",
+      "citation": "397 U.S. 728",
+      "first_full_citation_character_offset": 20696,
+      "first_full_citation_paragraph": 26
+    },
+    {
+      "cited_case_id": "cap:1230090",
+      "name": "United States v. General Motors Corp.",
+      "citation": "323 U.S. 373",
+      "first_full_citation_character_offset": 11547,
+      "first_full_citation_paragraph": 18
+    },
+    {
+      "cited_case_id": "cap:1481136",
+      "name": "Lucas v. South Carolina Coastal Council",
+      "citation": "505 U.S. 1003",
+      "first_full_citation_character_offset": 11961,
+      "first_full_citation_paragraph": 18
+    },
+    {
+      "cited_case_id": "cap:1501273",
+      "name": "Village of Euclid v. Ambler Realty Co.",
+      "citation": "272 U.S. 365",
+      "first_full_citation_character_offset": 18732,
+      "first_full_citation_paragraph": 25
+    },
+    {
+      "cited_case_id": "cap:1765363",
+      "name": "Ferguson v. Skrupa",
+      "citation": "372 U.S. 726",
+      "first_full_citation_character_offset": 27983,
+      "first_full_citation_paragraph": 33
+    },
+    {
+      "cited_case_id": "cap:1769262",
+      "name": "Penn Central Transportation Co. v. New York City",
+      "citation": "438 U.S. 104",
+      "first_full_citation_character_offset": 14327,
+      "first_full_citation_paragraph": 21
+    },
+    {
+      "cited_case_id": "cap:28053",
+      "name": "Nollan v. California Coastal Commission",
+      "citation": "483 U.S. 825",
+      "first_full_citation_character_offset": 16388,
+      "first_full_citation_paragraph": 22
+    },
+    {
+      "cited_case_id": "cap:353603",
+      "name": "Tahoe-Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency",
+      "citation": "535 U.S. 302",
+      "first_full_citation_character_offset": 29501,
+      "first_full_citation_paragraph": 36
+    },
+    {
+      "cited_case_id": "cap:3566709",
+      "name": "Monongahela Navigation Co. v. United States",
+      "citation": "148 U.S. 312",
+      "first_full_citation_character_offset": 11169,
+      "first_full_citation_paragraph": 17
+    },
+    {
+      "cited_case_id": "cap:3574181",
+      "name": "Lawton v. Steele",
+      "citation": "152 U.S. 133",
+      "first_full_citation_character_offset": 20285,
+      "first_full_citation_paragraph": 26
+    },
+    {
+      "cited_case_id": "cap:3592880",
+      "name": "Chicago, Burlington & Quincy Railroad v. Chicago",
+      "citation": "166 U.S. 226",
+      "first_full_citation_character_offset": 10188,
+      "first_full_citation_paragraph": 17
+    },
+    {
+      "cited_case_id": "cap:3902736",
+      "name": "Nectow v. City of Cambridge",
+      "citation": "277 U.S. 183",
+      "first_full_citation_character_offset": 17299,
+      "first_full_citation_paragraph": 24
+    },
+    {
+      "cited_case_id": "cap:39741",
+      "name": "Dolan v. City of Tigard",
+      "citation": "512 U.S. 374",
+      "first_full_citation_character_offset": 16324,
+      "first_full_citation_paragraph": 22
+    },
+    {
+      "cited_case_id": "cap:6164087",
+      "name": "Armstrong v. United States",
+      "citation": "364 U.S. 40",
+      "first_full_citation_character_offset": 11096,
+      "first_full_citation_paragraph": 17
+    },
+    {
+      "cited_case_id": "cap:6169920",
+      "name": "Goldblatt v. Town of Hempstead",
+      "citation": "369 U.S. 590",
+      "first_full_citation_character_offset": 19953,
+      "first_full_citation_paragraph": 26
+    },
+    {
+      "cited_case_id": "cap:6178010",
+      "name": "Exxon Corp. v. Governor of Maryland",
+      "citation": "437 U.S. 117",
+      "first_full_citation_character_offset": 27932,
+      "first_full_citation_paragraph": 33
+    },
+    {
+      "cited_case_id": "cap:6183213",
+      "name": "Agins v. City of Tiburon",
+      "citation": "447 U.S. 255",
+      "first_full_citation_character_offset": 252,
+      "first_full_citation_paragraph": 3
+    },
+    {
+      "cited_case_id": "cap:6197836",
+      "name": "Williamson County Regional Planning Commission v. Hamilton Bank of Johnson City",
+      "citation": "473 U.S. 172",
+      "first_full_citation_character_offset": 20950,
+      "first_full_citation_paragraph": 26
+    },
+    {
+      "cited_case_id": "cap:6199684",
+      "name": "United States v. Riverside Bayview Homes, Inc.",
+      "citation": "474 U.S. 121",
+      "first_full_citation_character_offset": 29684,
+      "first_full_citation_paragraph": 36
+    },
+    {
+      "cited_case_id": "cap:6212935",
+      "name": "First English Evangelical Lutheran Church v. County of Los Angeles",
+      "citation": "482 U.S. 304",
+      "first_full_citation_character_offset": 10543,
+      "first_full_citation_paragraph": 17
+    },
+    {
+      "cited_case_id": "cap:6234399",
+      "name": "Yee v. City of Escondido",
+      "citation": "503 U.S. 519",
+      "first_full_citation_character_offset": 29609,
+      "first_full_citation_paragraph": 36
+    },
+    {
+      "cited_case_id": "cap:636616",
+      "name": "Loretto v. Teleprompter Manhattan CATV Corp.",
+      "citation": "458 U.S. 419",
+      "first_full_citation_character_offset": 13475,
+      "first_full_citation_paragraph": 20
+    },
+    {
+      "cited_case_id": "cap:9313494",
+      "name": "Palazzolo v. Rhode Island",
+      "citation": "533 U.S. 606",
+      "first_full_citation_character_offset": 15390,
+      "first_full_citation_paragraph": 21
+    }
+  ],
+  "separate_opinion_full_us_citations_absent_from_majority": [
+    "524 U.S. 498"
+  ],
+  "notes": "Longer majority with repeated, quoted, and nested citations; each target appears once as a binary edge. Eastern Enterprises (524 U.S. 498) appears only in Kennedy concurrence and is excluded. Justia slip text leaves the certiorari page blank; the cached bound-volume text supplies 543 U.S. 924.",
+  "procedural_history_exception": {
+    "citation": "543 U.S. 924",
+    "meaning": "Grant of certiorari in this same litigation",
+    "in_graph": false,
+    "current_pipeline_reason": "ambiguous_target",
+    "review_record": {
+      "source_case_id": "cap:5879370",
+      "source_case_name": "Lingle v. Chevron U. S. A. Inc.",
+      "citation_text": "543 U. S. 924",
+      "reason": "ambiguous_target",
+      "candidate_cap_ids": "[5967272, 5880498, 5979155, 5952661, 5913110, 5931190, 5902521, 5954587, 3444476]"
+    },
+    "note": "Not a missed substantive precedent. Current omission is caused by ambiguous archive resolution, not a global procedural-history filter."
+  },
+  "limitations": [
+    "Purposive spot check, not a statistical estimate of dataset accuracy.",
+    "Citation mention counts and rhetorical roles were not audited.",
+    "No assertion that the full term is complete."
+  ],
+  "input_sha256": {
+    "data/term_2004/raw/source-cases.json": "37150a1980bd422e99843eac338a435b79289ba6bfedecc66eac954980a52440",
+    "data/term_2004/cases.csv": "8871d91f01f94784f53d29af845090a4c454a4597d3eed79336f032a66a96b43",
+    "data/term_2004/citations.csv": "b17ebaaacbaa02363904db6ea745a17974f4b84056387c3103e43729e824a873",
+    "data/term_2004/citation_review.csv": "a17d95dba89e98d5dc93b26f2eaa3e71c1b59d658597da78567e59e10fca72e2"
+  },
+  "majority_text_sha256": "0588e8ecf71eb80a7bc15f3d5c904047db8d0e326d87f5faa71e1d531e894799"
+}

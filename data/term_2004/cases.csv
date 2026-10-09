@@ -1,0 +1,883 @@
+case_id,case_name,date_filed,is_sample_source,is_source,us_citation,cap_id,id_namespace,url
+cap:1929,Abood v. Detroit Board of Education,1977-05-23,False,False,431 U.S. 209,1929,harvard_cap,https://cite.case.law/us/431/209/
+cap:4609,Strauder v. West Virginia,1879-10,False,False,100 U.S. 303,4609,harvard_cap,https://cite.case.law/us/100/303/
+cap:4702,M'Culloch v. Maryland,1819-02,False,False,17 U.S. 316,4702,harvard_cap,https://cite.case.law/us/17/316/
+cap:4852,Employment Division v. Smith,1990-04-17,False,False,494 U.S. 872,4852,harvard_cap,https://cite.case.law/us/494/872/
+cap:4909,Boyde v. California,1990-03-05,False,False,494 U.S. 370,4909,harvard_cap,https://cite.case.law/us/494/370/
+cap:5046,Washington v. Harper,1990-02-27,False,False,494 U.S. 210,5046,harvard_cap,https://cite.case.law/us/494/210/
+cap:5088,Lewis v. Continental Bank Corp.,1990-03-05,False,False,494 U.S. 472,5088,harvard_cap,https://cite.case.law/us/494/472/
+cap:5186,United States Department of Labor v. Triplett,1990-03-27,False,False,494 U.S. 715,5186,harvard_cap,https://cite.case.law/us/494/715/
+cap:6079,Craig v. Boren,1976-12-20,False,False,429 U.S. 190,6079,harvard_cap,https://cite.case.law/us/429/190/
+cap:6530,Boston Stock Exchange v. State Tax Commission,1977-01-12,False,False,429 U.S. 318,6530,harvard_cap,https://cite.case.law/us/429/318/
+cap:6951,Village of Arlington Heights v. Metropolitan Housing Development Corp.,1977-01-11,False,False,429 U.S. 252,6951,harvard_cap,https://cite.case.law/us/429/252/
+cap:7501,Whalen v. Roe,1977-02-22,False,False,429 U.S. 589,7501,harvard_cap,https://cite.case.law/us/429/589/
+cap:8318,School District v. Schempp,1963-06-17,False,False,374 U.S. 203,8318,harvard_cap,https://cite.case.law/us/374/203/
+cap:8490,Sherbert v. Verner,1963-06-17,False,False,374 U.S. 398,8490,harvard_cap,https://cite.case.law/us/374/398/
+cap:8739,Totten v. United States,1875-10,False,False,92 U.S. 105,8739,harvard_cap,https://cite.case.law/us/92/105/
+cap:9443,United States v. Alaska,1975-06-23,False,False,422 U.S. 184,9443,harvard_cap,https://cite.case.law/us/422/184/
+cap:9513,"Doran v. Salem Inn, Inc.",1975-06-30,False,False,422 U.S. 922,9513,harvard_cap,https://cite.case.law/us/422/922/
+cap:9528,Warth v. Seldin,1975-06-25,False,False,422 U.S. 490,9528,harvard_cap,https://cite.case.law/us/422/490/
+cap:9550,United States v. Brignoni-Ponce,1975-06-30,False,False,422 U.S. 873,9550,harvard_cap,https://cite.case.law/us/422/873/
+cap:9981,Preiser v. Rodriguez,1973-05-07,False,False,411 U.S. 475,9981,harvard_cap,https://cite.case.law/us/411/475/
+cap:10002,McDonnell Douglas Corp. v. Green,1973-05-14,False,False,411 U.S. 792,10002,harvard_cap,https://cite.case.law/us/411/792/
+cap:10205,Tollett v. Henderson,1973-04-17,False,False,411 U.S. 258,10205,harvard_cap,https://cite.case.law/us/411/258/
+cap:10615,Mahoney v. Joseph Triner Corp.,1938-05-23,False,False,304 U.S. 401,10615,harvard_cap,https://cite.case.law/us/304/401/
+112866,Smith v. United States,1993-06-01,False,False,508 U.S. 223,11457,courtlistener,https://cite.case.law/us/508/223/
+112877,"United States National Bank v. Independent Insurance Agents of America, Inc.",1993-06-07,False,False,508 U.S. 439,11519,courtlistener,https://cite.case.law/us/508/439/
+cap:11672,"Commissioner v. Keystone Consolidated Industries, Inc.",1993-05-24,False,False,508 U.S. 152,11672,harvard_cap,https://cite.case.law/us/508/152/
+cap:11787,"Church of the Lukumi Babalu Aye, Inc. v. City of Hialeah",1993-06-11,False,False,508 U.S. 520,11787,harvard_cap,https://cite.case.law/us/508/520/
+cap:11850,Stinson v. United States,1993-05-03,False,False,508 U.S. 36,11850,harvard_cap,https://cite.case.law/us/508/36/
+cap:12066,Lincoln v. Vigil,1993-05-24,False,False,508 U.S. 182,12066,harvard_cap,https://cite.case.law/us/508/182/
+cap:12401,Smalis v. Pennsylvania,1986-05-05,False,False,476 U.S. 140,12401,harvard_cap,https://cite.case.law/us/476/140/
+cap:12427,Brown-Forman Distillers Corp. v. New York State Liquor Authority,1986-06-03,False,False,476 U.S. 573,12427,harvard_cap,https://cite.case.law/us/476/573/
+cap:12787,Batson v. Kentucky,1986-04-30,False,False,476 U.S. 79,12787,harvard_cap,https://cite.case.law/us/476/79/
+cap:12972,"Three Affiliated Tribes of the Fort Berthold Reservation v. Wold Engineering, P. C.",1986-06-16,False,False,476 U.S. 877,12972,harvard_cap,https://cite.case.law/us/476/877/
+cap:13007,Bowen v. Roy,1986-06-11,False,False,476 U.S. 693,13007,harvard_cap,https://cite.case.law/us/476/693/
+cap:14057,Edward J. DeBartolo Corp. v. Florida Gulf Coast Building & Construction Trades Council,1988-04-20,False,False,485 U.S. 568,14057,harvard_cap,https://cite.case.law/us/485/568/
+cap:14213,Basic Inc. v. Levinson,1988-03-07,False,False,485 U.S. 224,14213,harvard_cap,https://cite.case.law/us/485/224/
+cap:28052,"Agency Holding Corp. v. Malley-Duff & Associates, Inc.",1987-06-22,False,False,483 U.S. 143,28052,harvard_cap,https://cite.case.law/us/483/143/
+cap:28053,Nollan v. California Coastal Commission,1987-06-26,False,False,483 U.S. 825,28053,harvard_cap,https://cite.case.law/us/483/825/
+cap:28169,Burger v. Kemp,1987-06-26,False,False,483 U.S. 776,28169,harvard_cap,https://cite.case.law/us/483/776/
+cap:28203,Corporation of the Presiding Bishop of Church of Jesus Christ of Latter-Day Saints v. Amos,1987-06-24,False,False,483 U.S. 327,28203,harvard_cap,https://cite.case.law/us/483/327/
+cap:28213,McNally v. United States,1987-06-24,False,False,483 U.S. 350,28213,harvard_cap,https://cite.case.law/us/483/350/
+cap:28358,American Trucking Associations v. Scheiner,1987-06-23,False,False,483 U.S. 266,28358,harvard_cap,https://cite.case.law/us/483/266/
+cap:39205,Simmons v. South Carolina,1994-06-17,False,False,512 U.S. 154,39205,harvard_cap,https://cite.case.law/us/512/154/
+cap:39425,Livadas v. Bradshaw,1994-06-13,False,False,512 U.S. 107,39425,harvard_cap,https://cite.case.law/us/512/107/
+cap:39619,"Turner Broadcasting System, Inc. v. Federal Communications Commission",1994-06-27,False,False,512 U.S. 622,39619,harvard_cap,https://cite.case.law/us/512/622/
+cap:39646,Johnson v. De Grandy,1994-06-30,False,False,512 U.S. 997,39646,harvard_cap,https://cite.case.law/us/512/997/
+cap:39683,Reed v. Farley,1994-06-20,False,False,512 U.S. 339,39683,harvard_cap,https://cite.case.law/us/512/339/
+cap:39741,Dolan v. City of Tigard,1994-06-24,False,False,512 U.S. 374,39741,harvard_cap,https://cite.case.law/us/512/374/
+cap:39841,Board of Education v. Grumet,1994-06-27,False,False,512 U.S. 687,39841,harvard_cap,https://cite.case.law/us/512/687/
+cap:39851,Consolidated Rail Corp. v. Gottshall,1994-06-24,False,False,512 U.S. 532,39851,harvard_cap,https://cite.case.law/us/512/532/
+cap:39868,Heck v. Humphrey,1994-06-24,False,False,512 U.S. 477,39868,harvard_cap,https://cite.case.law/us/512/477/
+cap:81093,Westfall v. United States,1927-05-16,False,False,274 U.S. 256,81093,harvard_cap,https://cite.case.law/us/274/256/
+cap:84435,Scheuer v. Rhodes,1974-04-17,False,False,416 U.S. 232,84435,harvard_cap,https://cite.case.law/us/416/232/
+cap:232397,Schiro v. Farley,1994-01-19,False,False,510 U.S. 222,232397,harvard_cap,https://cite.case.law/us/510/222/
+112930,American Dredging Co. v. Miller,1994-02-23,False,False,510 U.S. 443,233169,courtlistener,https://cite.case.law/us/510/443/
+cap:233509,Hagen v. Utah,1994-02-23,False,False,510 U.S. 399,233509,harvard_cap,https://cite.case.law/us/510/399/
+cap:302178,Norton v. Warner Co.,1944-03-27,False,False,321 U.S. 565,302178,harvard_cap,https://cite.case.law/us/321/565/
+cap:303868,Wickard v. Filburn,1942-11-09,False,False,317 U.S. 111,303868,harvard_cap,https://cite.case.law/us/317/111/
+8195883,Garrett v. Moore-McCormack Co.,1942-12-14,False,False,317 U.S. 239,304053,courtlistener,https://cite.case.law/us/317/239/
+cap:323790,Matsushita Electric Industrial Co. v. Epstein,1996-02-27,False,False,516 U.S. 367,323790,harvard_cap,https://cite.case.law/us/516/367/
+117989,Yamaha Motor Corp. v. Calhoun,1996-01-09,False,False,516 U.S. 199,325256,courtlistener,https://cite.case.law/us/516/199/
+117985,Bailey v. United States,1995-12-06,False,False,516 U.S. 137,326878,courtlistener,https://cite.case.law/us/516/137/
+cap:327837,Neal v. United States,1996-01-22,False,False,516 U.S. 284,327837,harvard_cap,https://cite.case.law/us/516/284/
+cap:341518,Smith v. Kansas City Title & Trust Co.,1921-02-28,False,False,255 U.S. 180,341518,harvard_cap,https://cite.case.law/us/255/180/
+cap:341585,Supreme Tribe of Ben-Hur v. Cauble,1921-03-07,False,False,255 U.S. 356,341585,harvard_cap,https://cite.case.law/us/255/356/
+cap:343144,Hopkins v. Walker,1917-06-11,False,False,244 U.S. 486,343144,harvard_cap,https://cite.case.law/us/244/486/
+cap:351774,Verizon Communications Inc. v. Federal Communications Commission,2002-05-13,False,False,535 U.S. 467,351774,harvard_cap,https://cite.case.law/us/535/467/
+cap:353603,"Tahoe-Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency",2002-04-23,False,False,535 U.S. 302,353603,harvard_cap,https://cite.case.law/us/535/302/
+cap:353633,Everson v. Board of Education,1947-02-10,False,False,330 U.S. 1,353633,harvard_cap,https://cite.case.law/us/330/1/
+cap:354073,Verizon Maryland Inc. v. Public Service Commission,2002-05-20,False,False,535 U.S. 635,354073,harvard_cap,https://cite.case.law/us/535/635/
+cap:354232,United States v. Craft,2002-04-17,False,False,535 U.S. 274,354232,harvard_cap,https://cite.case.law/us/535/274/
+cap:354940,Bell v. Cone,2002-05-28,False,False,535 U.S. 685,354940,harvard_cap,https://cite.case.law/us/535/685/
+cap:354957,Barnhart v. Walton,2002-03-27,False,False,535 U.S. 212,354957,harvard_cap,https://cite.case.law/us/535/212/
+cap:355530,Godinez v. Moran,1993-06-24,False,False,509 U.S. 389,355530,harvard_cap,https://cite.case.law/us/509/389/
+cap:355584,Harper v. Virginia Department of Taxation,1993-06-18,False,False,509 U.S. 86,355584,harvard_cap,https://cite.case.law/us/509/86/
+cap:355802,Johnson v. Texas,1993-06-24,False,False,509 U.S. 350,355802,harvard_cap,https://cite.case.law/us/509/350/
+cap:355840,Shaw v. Reno,1993-06-28,False,False,509 U.S. 630,355840,harvard_cap,https://cite.case.law/us/509/630/
+cap:355912,St. Mary's Honor Center v. Hicks,1993-06-25,False,False,509 U.S. 502,355912,harvard_cap,https://cite.case.law/us/509/502/
+cap:359225,United States v. Darby,1941-02-03,False,False,312 U.S. 100,359225,harvard_cap,https://cite.case.law/us/312/100/
+cap:359292,Railroad Commission v. Pullman Co.,1941-03-03,False,False,312 U.S. 496,359292,harvard_cap,https://cite.case.law/us/312/496/
+cap:362430,United States v. Gerlach Live Stock Co.,1950-06-05,False,False,339 U.S. 725,362430,harvard_cap,https://cite.case.law/us/339/725/
+cap:362663,Darr v. Burford,1950-04-03,False,False,339 U.S. 200,362663,harvard_cap,https://cite.case.law/us/339/200/
+cap:366560,West Virginia State Board of Education v. Barnette,1943-06-14,False,False,319 U.S. 624,366560,harvard_cap,https://cite.case.law/us/319/624/
+cap:366586,Burford v. Sun Oil Co.,1943-05-24,False,False,319 U.S. 315,366586,harvard_cap,https://cite.case.law/us/319/315/
+cap:366608,United States ex rel. Tennessee Valley Authority v. Powelson,1943-05-17,False,False,319 U.S. 266,366608,harvard_cap,https://cite.case.law/us/319/266/
+cap:369864,Powell v. Alabama,1932-11-07,False,False,287 U.S. 45,369864,harvard_cap,https://cite.case.law/us/287/45/
+cap:372534,United States v. Reynolds,1953-03-09,False,False,345 U.S. 1,372534,harvard_cap,https://cite.case.law/us/345/1/
+cap:372567,Avery v. Georgia,1953-05-25,False,False,345 U.S. 559,372567,harvard_cap,https://cite.case.law/us/345/559/
+cap:377002,Fishgold v. Sullivan Drydock & Repair Corp.,1946-05-27,False,False,328 U.S. 275,377002,harvard_cap,https://cite.case.law/us/328/275/
+cap:377243,Swanson v. Marra Bros.,1946-04-22,False,False,328 U.S. 1,377243,harvard_cap,https://cite.case.law/us/328/1/
+cap:379447,Banco Nacional de Cuba v. Sabbatino,1964-03-23,False,False,376 U.S. 398,379447,harvard_cap,https://cite.case.law/us/376/398/
+cap:407774,McClellan v. Carland,1910-04-11,False,False,217 U.S. 268,407774,harvard_cap,https://cite.case.law/us/217/268/
+cap:407817,Weems v. United States,1910-05-02,False,False,217 U.S. 349,407817,harvard_cap,https://cite.case.law/us/217/349/
+cap:414169,Heiser v. Woodruff,1946-04-22,False,False,327 U.S. 726,414169,harvard_cap,https://cite.case.law/us/327/726/
+cap:429954,Lynch v. United States,1934-06-04,False,False,292 U.S. 571,429954,harvard_cap,https://cite.case.law/us/292/571/
+cap:434101,McBoyle v. United States,1931-03-09,False,False,283 U.S. 25,434101,harvard_cap,https://cite.case.law/us/283/25/
+cap:443544,The Osceola,1903-03-02,False,False,189 U.S. 158,443544,harvard_cap,https://cite.case.law/us/189/158/
+cap:450732,National Ass'n for the Advancement of Colored People v. Button,1963-01-14,False,False,371 U.S. 415,450732,harvard_cap,https://cite.case.law/us/371/415/
+cap:468276,Plessy v. Ferguson,1896-05-18,False,False,163 U.S. 537,468276,harvard_cap,https://cite.case.law/us/163/537/
+cap:541055,Alyeska Pipeline Service Co. v. Wilderness Society,1975-05-12,False,False,421 U.S. 240,541055,harvard_cap,https://cite.case.law/us/421/240/
+cap:547892,National Labor Relations Board v. Jones & Laughlin Steel Corp.,1937-04-12,False,False,301 U.S. 1,547892,harvard_cap,https://cite.case.law/us/301/1/
+cap:572495,Commissioner v. Culbertson,1949-06-27,False,False,337 U.S. 733,572495,harvard_cap,https://cite.case.law/us/337/733/
+cap:572499,Williams v. New York,1949-06-06,False,False,337 U.S. 241,572499,harvard_cap,https://cite.case.law/us/337/241/
+111984,"United Savings Ass'n v. Timbers of Inwood Forest Associates, Ltd.",1988-01-20,False,False,484 U.S. 365,599703,courtlistener,https://cite.case.law/us/484/365/
+cap:601099,Carpenter v. United States,1987-11-16,False,False,484 U.S. 19,601099,harvard_cap,https://cite.case.law/us/484/19/
+111963,Church of Scientology v. Internal Revenue Service,1987-11-10,False,False,484 U.S. 9,602055,courtlistener,https://cite.case.law/us/484/9/
+cap:602206,Taylor v. Illinois,1988-01-25,False,False,484 U.S. 400,602206,harvard_cap,https://cite.case.law/us/484/400/
+cap:604929,Martin v. Wilks,1989-06-12,False,False,490 U.S. 755,604929,harvard_cap,https://cite.case.law/us/490/755/
+cap:604961,Finley v. United States,1989-05-22,False,False,490 U.S. 545,604961,harvard_cap,https://cite.case.law/us/490/545/
+cap:605006,"Newman-Green, Inc. v. Alfonzo-Larrain",1989-06-12,False,False,490 U.S. 826,605006,harvard_cap,https://cite.case.law/us/490/826/
+cap:605334,Kentucky Department of Corrections v. Thompson,1989-05-15,False,False,490 U.S. 454,605334,harvard_cap,https://cite.case.law/us/490/454/
+cap:605341,"de Quijas v. Shearson/American Express, Inc.",1989-05-15,False,False,490 U.S. 477,605341,harvard_cap,https://cite.case.law/us/490/477/
+cap:605535,Graham v. Connor,1989-05-15,False,False,490 U.S. 386,605535,harvard_cap,https://cite.case.law/us/490/386/
+cap:605746,Asarco Inc. v. Kadish,1989-05-30,False,False,490 U.S. 605,605746,harvard_cap,https://cite.case.law/us/490/605/
+cap:605806,Thornburgh v. Abbott,1989-05-15,False,False,490 U.S. 401,605806,harvard_cap,https://cite.case.law/us/490/401/
+cap:633903,North Dakota v. United States,1990-05-21,False,False,495 U.S. 423,633903,harvard_cap,https://cite.case.law/us/495/423/
+cap:634237,Venegas v. Mitchell,1990-04-18,False,False,495 U.S. 82,634237,harvard_cap,https://cite.case.law/us/495/82/
+cap:636586,Enmund v. Florida,1982-07-02,False,False,458 U.S. 782,636586,harvard_cap,https://cite.case.law/us/458/782/
+cap:636616,Loretto v. Teleprompter Manhattan CATV Corp.,1982-06-30,False,False,458 U.S. 419,636616,harvard_cap,https://cite.case.law/us/458/419/
+cap:636723,Washington v. Seattle School District No. 1,1982-06-30,False,False,458 U.S. 457,636723,harvard_cap,https://cite.case.law/us/458/457/
+cap:915698,City of Boerne v. Flores,1997-06-25,False,False,521 U.S. 507,915698,harvard_cap,https://cite.case.law/us/521/507/
+cap:915758,Lindh v. Murphy,1997-06-23,False,False,521 U.S. 320,915758,harvard_cap,https://cite.case.law/us/521/320/
+cap:915867,United States v. Alaska,1997-06-19,False,False,521 U.S. 1,915867,harvard_cap,https://cite.case.law/us/521/1/
+cap:915883,Agostini v. Felton,1997-06-23,False,False,521 U.S. 203,915883,harvard_cap,https://cite.case.law/us/521/203/
+cap:915949,United States v. O'Hagan,1997-06-25,False,False,521 U.S. 642,915949,harvard_cap,https://cite.case.law/us/521/642/
+cap:916108,Glickman v. Wileman Bros.,1997-06-25,False,False,521 U.S. 457,916108,harvard_cap,https://cite.case.law/us/521/457/
+cap:1105068,Griffin v. Illinois,1956-04-23,False,False,351 U.S. 12,1105068,harvard_cap,https://cite.case.law/us/351/12/
+112636,Wisconsin Public Intervenor v. Mortier,1991-06-21,False,False,501 U.S. 597,1107682,courtlistener,https://cite.case.law/us/501/597/
+cap:1107758,Freytag v. Commissioner,1991-06-27,False,False,501 U.S. 868,1107758,harvard_cap,https://cite.case.law/us/501/868/
+cap:1107767,Harmelin v. Michigan,1991-06-27,False,False,501 U.S. 957,1107767,harvard_cap,https://cite.case.law/us/501/957/
+cap:1108007,Oklahoma v. New Mexico,1991-06-17,False,False,501 U.S. 221,1108007,harvard_cap,https://cite.case.law/us/501/221/
+cap:1108013,Schad v. Arizona,1991-06-21,False,False,501 U.S. 624,1108013,harvard_cap,https://cite.case.law/us/501/624/
+cap:1108039,Florida v. Bostick,1991-06-20,False,False,501 U.S. 429,1108039,harvard_cap,https://cite.case.law/us/501/429/
+cap:1108159,Astoria Federal Savings & Loan Ass'n v. Solimino,1991-06-10,False,False,501 U.S. 104,1108159,harvard_cap,https://cite.case.law/us/501/104/
+cap:1131074,Keystone Bituminous Coal Ass'n v. DeBenedictis,1987-03-09,False,False,480 U.S. 470,1131074,harvard_cap,https://cite.case.law/us/480/470/
+cap:1131385,Hobbie v. Unemployment Appeals Commission,1987-02-25,False,False,480 U.S. 136,1131385,harvard_cap,https://cite.case.law/us/480/136/
+cap:1131466,"Alaska Airlines, Inc. v. Brock",1987-03-25,False,False,480 U.S. 678,1131466,harvard_cap,https://cite.case.law/us/480/678/
+cap:1134245,Canal Co. v. Clark,1871-12,False,False,80 U.S. 311,1134245,harvard_cap,https://cite.case.law/us/80/311/
+cap:1134251,United States v. Klein,1871-12,False,False,80 U.S. 128,1134251,harvard_cap,https://cite.case.law/us/80/128/
+cap:1146500,Ticor Title Insurance v. Brown,1994-04-04,False,False,511 U.S. 117,1146500,harvard_cap,https://cite.case.law/us/511/117/
+cap:1146506,United States v. Alvarez-Sanchez,1994-05-02,False,False,511 U.S. 350,1146506,harvard_cap,https://cite.case.law/us/511/350/
+cap:1146879,Key Tronic Corp. v. United States,1994-06-06,False,False,511 U.S. 809,1146879,harvard_cap,https://cite.case.law/us/511/809/
+cap:1146992,"Central Bank of Denver, N. A. v. First Interstate Bank of Denver, N. A.",1994-04-19,False,False,511 U.S. 164,1146992,harvard_cap,https://cite.case.law/us/511/164/
+cap:1147199,Custis v. United States,1994-05-23,False,False,511 U.S. 485,1147199,harvard_cap,https://cite.case.law/us/511/485/
+cap:1147262,Department of Revenue v. Kurth Ranch,1994-06-06,False,False,511 U.S. 767,1147262,harvard_cap,https://cite.case.law/us/511/767/
+cap:1147349,"Oregon Waste Systems, Inc. v. Department of Environmental Quality",1994-04-04,False,False,511 U.S. 93,1147349,harvard_cap,https://cite.case.law/us/511/93/
+cap:1147542,Kokkonen v. Guardian Life Insurance Co. of America,1994-05-16,False,False,511 U.S. 375,1147542,harvard_cap,https://cite.case.law/us/511/375/
+cap:1147591,"C & A Carbone, Inc. v. Town of Clarkstown",1994-05-16,False,False,511 U.S. 383,1147591,harvard_cap,https://cite.case.law/us/511/383/
+cap:1147675,J. E. B. v. Alabama ex rel. T. B.,1994-04-19,False,False,511 U.S. 127,1147675,harvard_cap,https://cite.case.law/us/511/127/
+cap:1147999,West Virginia ex rel. Dyer v. Sims,1951-04-09,False,False,341 U.S. 22,1147999,harvard_cap,https://cite.case.law/us/341/22/
+cap:1148101,United States v. Pewee Coal Co.,1951-04-30,False,False,341 U.S. 114,1148101,harvard_cap,https://cite.case.law/us/341/114/
+cap:1175221,Crowell v. Benson,1932-02-23,False,False,285 U.S. 22,1175221,harvard_cap,https://cite.case.law/us/285/22/
+cap:1229444,Singer v. United States,1945-01-02,False,False,323 U.S. 338,1229444,harvard_cap,https://cite.case.law/us/323/338/
+cap:1229661,Tiller v. Atlantic Coast Line Railroad,1945-01-15,False,False,323 U.S. 574,1229661,harvard_cap,https://cite.case.law/us/323/574/
+cap:1229739,"Spector Motor Service, Inc. v. McLaughlin",1944-12-04,False,False,323 U.S. 101,1229739,harvard_cap,https://cite.case.law/us/323/101/
+cap:1230090,United States v. General Motors Corp.,1945-01-08,False,False,323 U.S. 373,1230090,harvard_cap,https://cite.case.law/us/323/373/
+cap:1248042,City of Chicago v. Morales,1999-06-10,False,False,527 U.S. 41,1248042,harvard_cap,https://cite.case.law/us/527/41/
+cap:1248146,Olmstead v. L.C.,1999-06-22,False,False,527 U.S. 581,1248146,harvard_cap,https://cite.case.law/us/527/581/
+cap:1248184,Neder v. United States,1999-06-10,False,False,527 U.S. 1,1248184,harvard_cap,https://cite.case.law/us/527/1/
+cap:1254507,Ring v. Arizona,2002-06-24,False,False,536 U.S. 584,1254507,harvard_cap,https://cite.case.law/us/536/584/
+cap:1254550,Gonzaga University v. Doe,2002-06-20,False,False,536 U.S. 273,1254550,harvard_cap,https://cite.case.law/us/536/273/
+cap:1254644,Franconia Associates v. United States,2002-06-10,False,False,536 U.S. 129,1254644,harvard_cap,https://cite.case.law/us/536/129/
+cap:1254843,Harris v. United States,2002-06-24,False,False,536 U.S. 545,1254843,harvard_cap,https://cite.case.law/us/536/545/
+cap:1254908,Zelman v. Simmons-Harris,2002-06-27,False,False,536 U.S. 639,1254908,harvard_cap,https://cite.case.law/us/536/639/
+cap:1255220,Hope v. Pelzer,2002-06-27,False,False,536 U.S. 730,1255220,harvard_cap,https://cite.case.law/us/536/730/
+cap:1255281,Carey v. Saffold,2002-06-17,False,False,536 U.S. 214,1255281,harvard_cap,https://cite.case.law/us/536/214/
+cap:1255406,Atkins v. Virginia,2002-06-20,False,False,536 U.S. 304,1255406,harvard_cap,https://cite.case.law/us/536/304/
+cap:1276214,Massachusetts v. New York,1926-04-12,False,False,271 U.S. 65,1276214,harvard_cap,https://cite.case.law/us/271/65/
+cap:1276228,Evansville & Bowling Green Packet Co. v. Chero Cola Bottling Co.,1926-04-12,False,False,271 U.S. 19,1276228,harvard_cap,https://cite.case.law/us/271/19/
+cap:1285808,McGowan v. Maryland,1961-05-29,False,False,366 U.S. 420,1285808,harvard_cap,https://cite.case.law/us/366/420/
+cap:1313660,"Federated Department Stores, Inc. v. Moitie",1981-06-15,False,False,452 U.S. 394,1313660,harvard_cap,https://cite.case.law/us/452/394/
+cap:1313927,Michigan v. Summers,1981-06-22,False,False,452 U.S. 692,1313927,harvard_cap,https://cite.case.law/us/452/692/
+cap:1313944,Hodel v. Virginia Surface Mining & Reclamation Ass'n,1981-06-15,False,False,452 U.S. 264,1313944,harvard_cap,https://cite.case.law/us/452/264/
+cap:1330519,United States v. Shabani,1994-11-01,False,False,513 U.S. 10,1330519,harvard_cap,https://cite.case.law/us/513/10/
+cap:1332234,"United States v. X-Citement Video, Inc.",1994-11-29,False,False,513 U.S. 64,1332234,harvard_cap,https://cite.case.law/us/513/64/
+cap:1333576,Schlup v. Delo,1995-01-23,False,False,513 U.S. 298,1333576,harvard_cap,https://cite.case.law/us/513/298/
+cap:1334726,"Jerome B. Grubart, Inc. v. Great Lakes Dredge & Dock Co.",1995-02-22,False,False,513 U.S. 527,1334726,harvard_cap,https://cite.case.law/us/513/527/
+cap:1338997,"Oklahoma Tax Commission v. Jefferson Lines, Inc.",1995-04-03,False,False,514 U.S. 175,1338997,harvard_cap,https://cite.case.law/us/514/175/
+cap:1339053,New York State Conference of Blue Cross & Blue Shield Plans v. Travelers Insurance,1995-04-26,False,False,514 U.S. 645,1339053,harvard_cap,https://cite.case.law/us/514/645/
+cap:1339146,Kansas v. Colorado,1995-05-15,False,False,514 U.S. 673,1339146,harvard_cap,https://cite.case.law/us/514/673/
+cap:1339171,United States v. Lopez,1995-04-26,False,False,514 U.S. 549,1339171,harvard_cap,https://cite.case.law/us/514/549/
+cap:1339528,Reynoldsville Casket Co. v. Hyde,1995-05-15,False,False,514 U.S. 749,1339528,harvard_cap,https://cite.case.law/us/514/749/
+cap:1340390,Purkett v. Elem,1995-05-15,False,False,514 U.S. 765,1340390,harvard_cap,https://cite.case.law/us/514/765/
+cap:1421263,Gibbons v. Ogden,1824-03-02,False,False,22 U.S. 1,1421263,harvard_cap,https://cite.case.law/us/22/1/
+cap:1427693,Strawbridge v. Curtiss,1806-02,False,False,7 U.S. 267,1427693,harvard_cap,https://cite.case.law/us/7/159/
+cap:1434791,The Antelope,1825-03-18,False,False,23 U.S. 66,1434791,harvard_cap,https://cite.case.law/us/23/66/
+cap:1443475,United States v. Palmer,1818-03-14,False,False,16 U.S. 610,1443475,harvard_cap,https://cite.case.law/us/16/610/
+cap:1446267,Owings v. Norwood's Lessee,1809-02,False,False,9 U.S. 344,1446267,harvard_cap,https://cite.case.law/us/9/344/
+cap:1480767,Sawyer v. Whitley,1992-06-22,False,False,505 U.S. 333,1480767,harvard_cap,https://cite.case.law/us/505/333/
+cap:1480868,Lee v. Weisman,1992-06-24,False,False,505 U.S. 577,1480868,harvard_cap,https://cite.case.law/us/505/577/
+cap:1480976,Georgia v. McCollum,1992-06-18,False,False,505 U.S. 42,1480976,harvard_cap,https://cite.case.law/us/505/42/
+cap:1481077,"Two Pesos, Inc. v. Taco Cabana, Inc.",1992-06-26,False,False,505 U.S. 763,1481077,harvard_cap,https://cite.case.law/us/505/763/
+cap:1481129,"Cipollone v. Liggett Group, Inc.",1992-06-24,False,False,505 U.S. 504,1481129,harvard_cap,https://cite.case.law/us/505/504/
+cap:1481136,Lucas v. South Carolina Coastal Council,1992-06-29,False,False,505 U.S. 1003,1481136,harvard_cap,https://cite.case.law/us/505/1003/
+cap:1481163,R. A. V. v. City of St. Paul,1992-06-22,False,False,505 U.S. 377,1481163,harvard_cap,https://cite.case.law/us/505/377/
+cap:1488093,Coffin v. United States,1895-03-04,False,False,156 U.S. 432,1488093,harvard_cap,https://cite.case.law/us/156/432/
+cap:1490177,"Memphis Light, Gas & Water Division v. Craft",1978-05-01,False,False,436 U.S. 1,1490177,harvard_cap,https://cite.case.law/us/436/1/
+cap:1490215,Scott v. United States,1978-05-15,False,False,436 U.S. 128,1490215,harvard_cap,https://cite.case.law/us/436/128/
+cap:1490426,United States v. California,1978-05-15,False,False,436 U.S. 32,1490426,harvard_cap,https://cite.case.law/us/436/32/
+cap:1493613,Owens v. Okure,1989-01-10,False,False,488 U.S. 235,1493613,harvard_cap,https://cite.case.law/us/488/235/
+cap:1493881,City of Richmond v. J. A. Croson Co.,1989-01-23,False,False,488 U.S. 469,1493881,harvard_cap,https://cite.case.law/us/488/469/
+cap:1494127,Goldberg v. Sweet,1989-01-10,False,False,488 U.S. 252,1494127,harvard_cap,https://cite.case.law/us/488/252/
+cap:1494660,Mistretta v. United States,1989-01-18,False,False,488 U.S. 361,1494660,harvard_cap,https://cite.case.law/us/488/361/
+cap:1494800,Reed v. United Transportation Union,1989-01-11,False,False,488 U.S. 319,1494800,harvard_cap,https://cite.case.law/us/488/319/
+cap:1499496,Clark v. Nash,1905-05-15,False,False,198 U.S. 361,1499496,harvard_cap,https://cite.case.law/us/198/361/
+cap:1501272,Yankton Sioux Tribe of Indians v. United States,1926-11-22,False,False,272 U.S. 351,1501272,harvard_cap,https://cite.case.law/us/272/351/
+cap:1501273,Village of Euclid v. Ambler Realty Co.,1926-11-22,False,False,272 U.S. 365,1501273,harvard_cap,https://cite.case.law/us/272/365/
+cap:1512250,"Estate of Thornton v. Caldor, Inc.",1985-06-26,False,False,472 U.S. 703,1512250,harvard_cap,https://cite.case.law/us/472/703/
+cap:1512457,Wallace v. Jaffree,1985-06-04,False,False,472 U.S. 38,1512457,harvard_cap,https://cite.case.law/us/472/38/
+cap:1519385,Pell v. Procunier,1974-06-24,False,False,417 U.S. 817,1519385,harvard_cap,https://cite.case.law/us/417/817/
+cap:1519590,Vermont v. New York,1974-06-03,False,False,417 U.S. 270,1519590,harvard_cap,https://cite.case.law/us/417/270/
+cap:1519804,Ross v. Moffitt,1974-06-17,False,False,417 U.S. 600,1519804,harvard_cap,https://cite.case.law/us/417/600/
+cap:1524661,Swain v. Alabama,1965-03-08,False,False,380 U.S. 202,1524661,harvard_cap,https://cite.case.law/us/380/202/
+cap:1524753,United States v. Seeger,1965-03-08,False,False,380 U.S. 163,1524753,harvard_cap,https://cite.case.law/us/380/163/
+cap:1525344,Dombrowski v. Pfister,1965-04-26,False,False,380 U.S. 479,1525344,harvard_cap,https://cite.case.law/us/380/479/
+cap:1531902,United States v. Rutherford,1979-06-18,False,False,442 U.S. 544,1531902,harvard_cap,https://cite.case.law/us/442/544/
+cap:1532005,Great American Federal Savings & Loan Ass'n v. Novotny,1979-06-11,False,False,442 U.S. 366,1532005,harvard_cap,https://cite.case.law/us/442/366/
+cap:1532158,Greenholtz v. Inmates of the Nebraska Penal & Correctional Complex,1979-05-29,False,False,442 U.S. 1,1532158,harvard_cap,https://cite.case.law/us/442/1/
+cap:1563685,"Chandris, Inc. v. Latsis",1995-06-14,False,False,515 U.S. 347,1563685,harvard_cap,https://cite.case.law/us/515/347/
+cap:1563793,Witte v. United States,1995-06-14,False,False,515 U.S. 389,1563793,harvard_cap,https://cite.case.law/us/515/389/
+cap:1563796,United States v. Aguilar,1995-06-21,False,False,515 U.S. 593,1563796,harvard_cap,https://cite.case.law/us/515/593/
+cap:1563831,"Hurley v. Irish-American Gay, Lesbian & Bisexual Group of Boston, Inc.",1995-06-19,False,False,515 U.S. 557,1563831,harvard_cap,https://cite.case.law/us/515/557/
+cap:1563880,Sandin v. Conner,1995-06-19,False,False,515 U.S. 472,1563880,harvard_cap,https://cite.case.law/us/515/472/
+cap:1564137,Rosenberger v. Rector & Visitors of University of Virginia,1995-06-29,False,False,515 U.S. 819,1564137,harvard_cap,https://cite.case.law/us/515/819/
+cap:1564172,Capitol Square Review & Advisory Board v. Pinette,1995-06-29,False,False,515 U.S. 753,1564172,harvard_cap,https://cite.case.law/us/515/753/
+cap:1564216,Commissioner v. Schleier,1995-06-14,False,False,515 U.S. 323,1564216,harvard_cap,https://cite.case.law/us/515/323/
+cap:1564227,United States v. Gaudin,1995-06-19,False,False,515 U.S. 506,1564227,harvard_cap,https://cite.case.law/us/515/506/
+cap:1564297,"Adarand Constructors, Inc. v. Pena",1995-06-12,False,False,515 U.S. 200,1564297,harvard_cap,https://cite.case.law/us/515/200/
+cap:1564484,North Star Steel Co. v. Thomas,1995-05-30,False,False,515 U.S. 29,1564484,harvard_cap,https://cite.case.law/us/515/29/
+cap:1729752,Leavitt v. Jane L.,1996-06-17,False,False,518 U.S. 137,1729752,harvard_cap,https://cite.case.law/us/518/137/
+cap:1729857,United States v. Winstar Corp.,1996-07-01,False,False,518 U.S. 839,1729857,harvard_cap,https://cite.case.law/us/518/839/
+cap:1729885,"Denver Area Educational Telecommunications Consortium, Inc. v. Federal Communications Commission",1996-06-28,False,False,518 U.S. 727,1729885,harvard_cap,https://cite.case.law/us/518/727/
+cap:1729920,Lane v. Pena,1996-06-20,False,False,518 U.S. 187,1729920,harvard_cap,https://cite.case.law/us/518/187/
+cap:1729949,Lewis v. Casey,1996-06-24,False,False,518 U.S. 343,1729949,harvard_cap,https://cite.case.law/us/518/343/
+cap:1730146,"Medtronic, Inc. v. Lohr",1996-06-26,False,False,518 U.S. 470,1730146,harvard_cap,https://cite.case.law/us/518/470/
+cap:1730168,Koon v. United States,1996-06-13,False,False,518 U.S. 81,1730168,harvard_cap,https://cite.case.law/us/518/81/
+cap:1765282,Douglas v. California,1963-03-18,False,False,372 U.S. 353,1765282,harvard_cap,https://cite.case.law/us/372/353/
+cap:1765333,Gideon v. Wainwright,1963-03-18,False,False,372 U.S. 335,1765333,harvard_cap,https://cite.case.law/us/372/335/
+cap:1765363,Ferguson v. Skrupa,1963-04-22,False,False,372 U.S. 726,1765363,harvard_cap,https://cite.case.law/us/372/726/
+cap:1769214,California v. United States,1978-07-03,False,False,438 U.S. 645,1769214,harvard_cap,https://cite.case.law/us/438/645/
+cap:1769215,Lockett v. Ohio,1978-07-03,False,False,438 U.S. 586,1769215,harvard_cap,https://cite.case.law/us/438/586/
+cap:1769241,United States v. Grayson,1978-06-26,False,False,438 U.S. 41,1769241,harvard_cap,https://cite.case.law/us/438/41/
+cap:1769262,Penn Central Transportation Co. v. New York City,1978-06-26,False,False,438 U.S. 104,1769262,harvard_cap,https://cite.case.law/us/438/104/
+cap:1769263,Furnco Construction Corp. v. Waters,1978-06-29,False,False,438 U.S. 567,1769263,harvard_cap,https://cite.case.law/us/438/567/
+cap:1769280,Swisher v. Brady,1978-06-28,False,False,438 U.S. 204,1769280,harvard_cap,https://cite.case.law/us/438/204/
+cap:1771616,Red Lion Broadcasting Co. v. Federal Communications Commission,1969-06-09,False,False,395 U.S. 367,1771616,harvard_cap,https://cite.case.law/us/395/367/
+cap:1771759,Boykin v. Alabama,1969-06-02,False,False,395 U.S. 238,1771759,harvard_cap,https://cite.case.law/us/395/238/
+cap:1771825,Leary v. United States,1969-05-19,False,False,395 U.S. 6,1771825,harvard_cap,https://cite.case.law/us/395/6/
+cap:1774727,Thompson v. Oklahoma,1988-06-29,False,False,487 U.S. 815,1774727,harvard_cap,https://cite.case.law/us/487/815/
+cap:1774738,Watson v. Fort Worth Bank & Trust,1988-06-29,False,False,487 U.S. 977,1774738,harvard_cap,https://cite.case.law/us/487/977/
+cap:1774797,Bowen v. Kendrick,1988-06-29,False,False,487 U.S. 589,1774797,harvard_cap,https://cite.case.law/us/487/589/
+cap:1774898,Houston v. Lack,1988-06-24,False,False,487 U.S. 266,1774898,harvard_cap,https://cite.case.law/us/487/266/
+112115,"Stewart Organization, Inc. v. Ricoh Corp.",1988-06-20,False,False,487 U.S. 22,1774917,courtlistener,https://cite.case.law/us/487/22/
+cap:1775136,Pierce v. Underwood,1988-06-27,False,False,487 U.S. 552,1775136,harvard_cap,https://cite.case.law/us/487/552/
+cap:1777810,"California Retail Liquor Dealers Ass'n v. Midcal Aluminum, Inc.",1980-03-03,False,False,445 U.S. 97,1777810,harvard_cap,https://cite.case.law/us/445/97/
+cap:1777844,Trammel v. United States,1980-02-27,False,False,445 U.S. 40,1777844,harvard_cap,https://cite.case.law/us/445/40/
+cap:1777850,Vitek v. Jones,1980-03-25,False,False,445 U.S. 480,1777850,harvard_cap,https://cite.case.law/us/445/480/
+cap:1777878,Lewis v. United States,1980-02-27,False,False,445 U.S. 55,1777878,harvard_cap,https://cite.case.law/us/445/55/
+cap:1780023,Cannon v. University of Chicago,1979-05-14,False,False,441 U.S. 677,1780023,harvard_cap,https://cite.case.law/us/441/677/
+cap:1780381,Hughes v. Oklahoma,1979-04-24,False,False,441 U.S. 322,1780381,harvard_cap,https://cite.case.law/us/441/322/
+cap:1782791,Furman v. Georgia,1972-06-29,False,False,408 U.S. 238,1782791,harvard_cap,https://cite.case.law/us/408/238/
+cap:1782797,Morrissey v. Brewer,1972-06-29,False,False,408 U.S. 471,1782797,harvard_cap,https://cite.case.law/us/408/471/
+cap:1782964,Board of Regents of State Colleges v. Roth,1972-06-29,False,False,408 U.S. 564,1782964,harvard_cap,https://cite.case.law/us/408/564/
+cap:1787584,Dawson Chemical Co. v. Rohm & Haas Co.,1980-06-27,False,False,448 U.S. 176,1787584,harvard_cap,https://cite.case.law/us/448/176/
+cap:1787653,Maine v. Thiboutot,1980-06-25,False,False,448 U.S. 1,1787653,harvard_cap,https://cite.case.law/us/448/1/
+cap:3325279,Bowman v. Wathen,1843-01,False,False,42 U.S. 189,3325279,harvard_cap,https://cite.case.law/us/42/189/
+cap:3376783,"The ""Virginia Ehrman""",1877-10,False,False,97 U.S. 309,3376783,harvard_cap,https://cite.case.law/us/97/309/
+cap:3392890,McQuiddy v. Ware,1873-10,False,False,87 U.S. 14,3392890,harvard_cap,https://cite.case.law/us/87/14/
+89038,The Lottawanna,1874-10,False,False,88 U.S. 558,3410965,courtlistener,https://cite.case.law/us/88/558/
+88300,Insurance Co. v. Dunham,1870-12,False,False,78 U.S. 1,3413765,courtlistener,https://cite.case.law/us/78/1/
+cap:3427198,Florida v. Nixon,2004-12-13,True,True,543 U.S. 175,3427198,harvard_cap,https://cite.case.law/us/543/175/
+cap:3427314,Cherokee Nation v. Leavitt,2005-03-01,True,True,543 U.S. 631,3427314,harvard_cap,https://cite.case.law/us/543/631/
+cap:3440584,Johnson v. California,2005-02-23,True,True,543 U.S. 499,3440584,harvard_cap,https://cite.case.law/us/543/499/
+cap:3441929,Kowalski v. Tesmer,2004-12-13,True,True,543 U.S. 125,3441929,harvard_cap,https://cite.case.law/us/543/125/
+137725,Leocal v. Ashcroft,2004-11-09,True,True,543 U.S. 1,3442217,courtlistener,https://cite.case.law/us/543/1/
+cap:3442797,Clark v. Martinez,2005-01-12,True,True,543 U.S. 371,3442797,harvard_cap,https://cite.case.law/us/543/371/
+cap:3458315,The New York Indians,1866-12,False,False,72 U.S. 761,3458315,harvard_cap,https://cite.case.law/us/72/761/
+cap:3459295,The Kansas Indians,1866-12,False,False,72 U.S. 737,3459295,harvard_cap,https://cite.case.law/us/72/737/
+cap:3464659,"Washington, Alexandria, & Georgetown Steam-Packet Co. v. Sickles",1860-12,False,False,65 U.S. 333,3464659,harvard_cap,https://cite.case.law/us/65/333/
+cap:3471225,Baldwin v. Hale,1863-12,False,False,68 U.S. 223,3471225,harvard_cap,https://cite.case.law/us/68/223/
+cap:3516218,Walling v. Michigan,1886-01-18,False,False,116 U.S. 446,3516218,harvard_cap,https://cite.case.law/us/116/446/
+cap:3523081,Mugler v. Kansas,1887-12-05,False,False,123 U.S. 623,3523081,harvard_cap,https://cite.case.law/us/123/623/
+cap:3528160,Southern Development Co. v. Silva,1888-03-19,False,False,125 U.S. 247,3528160,harvard_cap,https://cite.case.law/us/125/247/
+cap:3528419,Bowman v. Chicago & Northwestern Railway Co.,1888-03-19,False,False,125 U.S. 465,3528419,harvard_cap,https://cite.case.law/us/125/465/
+cap:3531752,Wisconsin v. Pelican Insurance,1888-05-14,False,False,127 U.S. 265,3531752,harvard_cap,https://cite.case.law/us/127/265/
+cap:3537908,Jackson v. Birmingham Board of Education,2005-03-29,True,True,544 U.S. 167,3537908,harvard_cap,https://cite.case.law/us/544/167/
+cap:3543491,Leisy v. Hardin,1890-04-28,False,False,135 U.S. 100,3543491,harvard_cap,https://cite.case.law/us/135/100/
+cap:3561742,Felix v. Patrick,1892-05-16,False,False,145 U.S. 317,3561742,harvard_cap,https://cite.case.law/us/145/317/
+cap:3562181,Galliher v. Cadwell,1892-05-16,False,False,145 U.S. 368,3562181,harvard_cap,https://cite.case.law/us/145/368/
+cap:3563904,Huntington v. Attrill,1892-12-12,False,False,146 U.S. 657,3563904,harvard_cap,https://cite.case.law/us/146/657/
+cap:3566709,Monongahela Navigation Co. v. United States,1893-03-27,False,False,148 U.S. 312,3566709,harvard_cap,https://cite.case.law/us/148/312/
+cap:3574181,Lawton v. Steele,1894-03-05,False,False,152 U.S. 133,3574181,harvard_cap,https://cite.case.law/us/152/133/
+cap:3576671,McKane v. Durston,1894-05-14,False,False,153 U.S. 684,3576671,harvard_cap,https://cite.case.law/us/153/684/
+cap:3591459,Allen v. United States,1896-12-07,False,False,164 U.S. 492,3591459,harvard_cap,https://cite.case.law/us/164/492/
+cap:3591504,Fallbrook Irrigation District v. Bradley,1896-11-16,False,False,164 U.S. 112,3591504,harvard_cap,https://cite.case.law/us/164/112/
+cap:3591947,Missouri Pacific Railway Co. v. Nebraska,1896-11-30,False,False,164 U.S. 403,3591947,harvard_cap,https://cite.case.law/us/164/403/
+cap:3592880,"Chicago, Burlington & Quincy Railroad v. Chicago",1897-03-01,False,False,166 U.S. 226,3592880,harvard_cap,https://cite.case.law/us/166/226/
+cap:3593439,Oxley Stave Co. v. Butler County,1897-04-19,False,False,166 U.S. 648,3593439,harvard_cap,https://cite.case.law/us/166/648/
+cap:3599304,Vance v. W. A. Vandercook Co.,1898-05-09,False,False,170 U.S. 438,3599304,harvard_cap,https://cite.case.law/us/170/438/
+cap:3599666,Rhodes v. Iowa,1898-05-09,False,False,170 U.S. 412,3599666,harvard_cap,https://cite.case.law/us/170/412/
+cap:3599795,New York Indians v. United States,1898-04-11,False,False,170 U.S. 1,3599795,harvard_cap,https://cite.case.law/us/170/1/
+cap:3622511,New York Central Railroad v. New York,1902-06-02,False,False,186 U.S. 269,3622511,harvard_cap,https://cite.case.law/us/186/269/
+cap:3633280,Iowa v. Tovar,2004-03-08,False,False,541 U.S. 77,3633280,harvard_cap,https://cite.case.law/us/541/77/
+cap:3641945,Hairston v. Danville & Western Railway Co.,1908-02-24,False,False,208 U.S. 598,3641945,harvard_cap,https://cite.case.law/us/208/598/
+cap:3642433,Herring-Hall-Marvin Safe Co. v. Hall's Safe Co.,1908-02-24,False,False,208 U.S. 554,3642433,harvard_cap,https://cite.case.law/us/208/554/
+cap:3643161,Hyde v. Shine,1905-05-29,False,False,199 U.S. 62,3643161,harvard_cap,https://cite.case.law/us/199/62/
+105825,Romero v. International Terminal Operating Co.,1959-02-24,False,False,358 U.S. 354,3652963,courtlistener,https://cite.case.law/us/358/354/
+8180514,"Interstate Commerce Commission v. Delaware, Lackawanna & Western Railroad",1911-04-03,False,False,220 U.S. 235,3657661,courtlistener,https://cite.case.law/us/220/235/
+cap:3658991,Baglin v. Cusenier Co.,1911-05-29,False,False,221 U.S. 580,3658991,harvard_cap,https://cite.case.law/us/221/580/
+cap:3660519,Kalem Co. v. Harper Bros.,1911-11-13,False,False,222 U.S. 55,3660519,harvard_cap,https://cite.case.law/us/222/55/
+cap:3665951,Nash v. United States,1913-06-09,False,False,229 U.S. 373,3665951,harvard_cap,https://cite.case.law/us/229/373/
+cap:3668927,Henry v. A. B. Dick Co.,1912-03-11,False,False,224 U.S. 1,3668927,harvard_cap,https://cite.case.law/us/224/1/
+98108,Great Northern Railway Co. v. O'Connor,1914-02-24,False,False,232 U.S. 508,3672709,courtlistener,https://cite.case.law/us/232/508/
+cap:3674334,Washington v. Miller,1914-12-14,False,False,235 U.S. 422,3674334,harvard_cap,https://cite.case.law/us/235/422/
+cap:3681098,"United States v. Standard Brewery, Inc.",1920-01-05,False,False,251 U.S. 210,3681098,harvard_cap,https://cite.case.law/us/251/210/
+99307,North Pacific Steamship Co. v. Hall Bros. Marine Railway & Shipbuilding Co.,1919-03-03,False,False,249 U.S. 119,3686692,courtlistener,https://cite.case.law/us/249/119/
+cap:3689227,United States v. Doremus,1919-03-03,False,False,249 U.S. 86,3689227,harvard_cap,https://cite.case.law/us/249/86/
+cap:3689289,Mt. Vernon-Woodberry Cotton Duck Co. v. Alabama Interstate Power Co.,1916-01-24,False,False,240 U.S. 30,3689289,harvard_cap,https://cite.case.law/us/240/30/
+cap:3692764,Motion Picture Patents Co. v. Universal Film Manufacturing Co.,1917-04-09,False,False,243 U.S. 502,3692764,harvard_cap,https://cite.case.law/us/243/502/
+cap:3902629,Panhandle Oil Co. v. Mississippi ex rel. Knox,1928-05-14,False,False,277 U.S. 218,3902629,harvard_cap,https://cite.case.law/us/277/218/
+cap:3902736,Nectow v. City of Cambridge,1928-05-14,False,False,277 U.S. 183,3902736,harvard_cap,https://cite.case.law/us/277/183/
+cap:3907393,McDonald v. United States,1929-02-18,False,False,279 U.S. 12,3907393,harvard_cap,https://cite.case.law/us/279/12/
+101420,Roschen v. Ward,1929-04-22,False,False,279 U.S. 337,3907508,courtlistener,https://cite.case.law/us/279/337/
+cap:3912159,Cincinnati v. Vester,1930-05-19,False,False,281 U.S. 439,3912159,harvard_cap,https://cite.case.law/us/281/439/
+cap:3912728,Kentucky v. Indiana,1930-04-14,False,False,281 U.S. 163,3912728,harvard_cap,https://cite.case.law/us/281/163/
+cap:3913100,Moore v. Mitchell,1930-02-24,False,False,281 U.S. 18,3913100,harvard_cap,https://cite.case.law/us/281/18/
+cap:3914322,Lucas v. Earl,1930-03-17,False,False,281 U.S. 111,3914322,harvard_cap,https://cite.case.law/us/281/111/
+cap:3917920,McCormick & Co. v. Brown,1932-05-16,False,False,286 U.S. 131,3917920,harvard_cap,https://cite.case.law/us/286/131/
+cap:3922825,Norris v. Alabama,1935-04-01,False,False,294 U.S. 587,3922825,harvard_cap,https://cite.case.law/us/294/587/
+cap:3922861,"Baldwin v. G. A. F. Seelig, Inc.",1935-03-04,False,False,294 U.S. 511,3922861,harvard_cap,https://cite.case.law/us/294/511/
+cap:3923947,Perry v. United States,1935-02-18,False,False,294 U.S. 330,3923947,harvard_cap,https://cite.case.law/us/294/330/
+cap:3931046,Warner v. Goltra,1934-11-05,False,False,293 U.S. 155,3931046,harvard_cap,https://cite.case.law/us/293/155/
+cap:3933647,O'Neill v. Leamer,1915-11-29,False,False,239 U.S. 244,3933647,harvard_cap,https://cite.case.law/us/239/244/
+cap:3934188,Clark Distilling Co. v. Western Maryland Railway Co.,1917-01-08,False,False,242 U.S. 311,3934188,harvard_cap,https://cite.case.law/us/242/311/
+cap:3936028,"H. P. Hood & Sons, Inc. v. Du Mond",1949-04-04,False,False,336 U.S. 525,3936028,harvard_cap,https://cite.case.law/us/336/525/
+cap:3936304,Foley Bros. v. Filardo,1949-03-07,False,False,336 U.S. 281,3936304,harvard_cap,https://cite.case.law/us/336/281/
+cap:3943445,Commissioner v. Jacobson,1949-01-17,False,False,336 U.S. 28,3943445,harvard_cap,https://cite.case.law/us/336/28/
+cap:3943769,Brinegar v. United States,1949-06-27,False,False,338 U.S. 160,3943769,harvard_cap,https://cite.case.law/us/338/160/
+cap:5616896,Crowell v. Randell,1836-01,False,False,35 U.S. 368,5616896,harvard_cap,https://cite.case.law/us/35/368/
+cap:5629300,Tiernan v. Rinker,1880-10,False,False,102 U.S. 123,5629300,harvard_cap,https://cite.case.law/us/102/123/
+cap:5655323,Ward v. Maryland,1870-12,False,False,79 U.S. 418,5655323,harvard_cap,https://cite.case.law/us/79/418/
+cap:5701854,Durland v. United States,1896-03-02,False,False,161 U.S. 306,5701854,harvard_cap,https://cite.case.law/us/161/306/
+cap:5705174,Shoshone Mining Co. v. Rutter,1900-04-30,False,False,177 U.S. 505,5705174,harvard_cap,https://cite.case.law/us/177/505/
+cap:5722055,State Board of Equalization v. Young's Market Co.,1936-11-09,False,False,299 U.S. 59,5722055,harvard_cap,https://cite.case.law/us/299/59/
+cap:5722113,United States v. Curtiss-Wright Export Corp.,1936-12-21,False,False,299 U.S. 304,5722113,harvard_cap,https://cite.case.law/us/299/304/
+cap:5722175,Gully v. First National Bank,1936-11-09,False,False,299 U.S. 109,5722175,harvard_cap,https://cite.case.law/us/299/109/
+cap:5722825,Landis v. North American Co.,1936-12-07,False,False,299 U.S. 248,5722825,harvard_cap,https://cite.case.law/us/299/248/
+cap:5727771,Posadas v. National City Bank,1936-01-06,False,False,296 U.S. 497,5727771,harvard_cap,https://cite.case.law/us/296/497/
+cap:5856684,Hibbs v. Winn,2004-06-14,False,False,542 U.S. 88,5856684,harvard_cap,https://cite.case.law/us/542/88/
+cap:5857349,F. Hoffmann-La Roche Ltd. v. Empagran S. A.,2004-06-14,False,False,542 U.S. 155,5857349,harvard_cap,https://cite.case.law/us/542/155/
+cap:5860439,Ashcroft v. American Civil Liberties Union,2004-06-29,False,False,542 U.S. 656,5860439,harvard_cap,https://cite.case.law/us/542/656/
+cap:5861582,Pliler v. Ford,2004-06-21,False,False,542 U.S. 225,5861582,harvard_cap,https://cite.case.law/us/542/225/
+cap:5867237,Stewart v. Dutra Construction Co.,2005-02-22,True,True,543 U.S. 481,5867237,harvard_cap,https://cite.case.law/us/543/481/
+cap:5868041,Blakely v. Washington,2004-06-24,False,False,542 U.S. 296,5868041,harvard_cap,https://cite.case.law/us/542/296/
+cap:5868782,Cutter v. Wilkinson,2005-05-31,True,True,544 U.S. 709,5868782,harvard_cap,https://cite.case.law/us/544/709/
+cap:5869317,Deck v. Missouri,2005-05-23,True,True,544 U.S. 622,5869317,harvard_cap,https://cite.case.law/us/544/622/
+cap:5869462,Pace v. DiGuglielmo,2005-04-27,True,True,544 U.S. 408,5869462,harvard_cap,https://cite.case.law/us/544/408/
+cap:5870337,Jones v. R. R. Donnelley & Sons Co.,2004-05-03,False,False,541 U.S. 369,5870337,harvard_cap,https://cite.case.law/us/541/369/
+cap:5870372,Rousey v. Jacoway,2005-04-04,True,True,544 U.S. 320,5870372,harvard_cap,https://cite.case.law/us/544/320/
+cap:5872909,Johanns v. Livestock Marketing Ass'n,2005-05-23,True,True,544 U.S. 550,5872909,harvard_cap,https://cite.case.law/us/544/550/
+cap:5872977,Brown v. Payton,2005-03-22,True,True,544 U.S. 133,5872977,harvard_cap,https://cite.case.law/us/544/133/
+cap:5874681,Rhines v. Weber,2005-03-30,True,True,544 U.S. 269,5874681,harvard_cap,https://cite.case.law/us/544/269/
+cap:5875345,Johnson v. United States,2005-04-04,True,True,544 U.S. 295,5875345,harvard_cap,https://cite.case.law/us/544/295/
+cap:5875683,Johnson v. California,2004-05-03,False,False,541 U.S. 428,5875683,harvard_cap,https://cite.case.law/us/541/428/
+cap:5878906,Medellin v. Dretke,2005-05-23,True,True,544 U.S. 660,5878906,harvard_cap,https://cite.case.law/us/544/660/
+cap:5879370,Lingle v. Chevron U. S. A. Inc.,2005-05-23,True,True,544 U.S. 528,5879370,harvard_cap,https://cite.case.law/us/544/528/
+cap:5880369,Bates v. Dow Agrosciences LLC,2005-04-27,True,True,544 U.S. 431,5880369,harvard_cap,https://cite.case.law/us/544/431/
+cap:5881392,Tory v. Cochran,2005-05-31,True,True,544 U.S. 734,5881392,harvard_cap,https://cite.case.law/us/544/734/
+cap:5881890,Granholm v. Heald,2005-05-16,True,True,544 U.S. 460,5881890,harvard_cap,https://cite.case.law/us/544/460/
+cap:5883661,"Household Credit Services, Inc. v. Pfennig",2004-04-21,False,False,541 U.S. 232,5883661,harvard_cap,https://cite.case.law/us/541/232/
+cap:5883694,Nixon v. Missouri Municipal League,2004-03-24,False,False,541 U.S. 125,5883694,harvard_cap,https://cite.case.law/us/541/125/
+cap:5883802,Wilkinson v. Dotson,2005-03-07,True,True,544 U.S. 74,5883802,harvard_cap,https://cite.case.law/us/544/74/
+cap:5884234,Jama v. Immigration & Customs Enforcement,2005-01-12,True,True,543 U.S. 335,5884234,harvard_cap,https://cite.case.law/us/543/335/
+cap:5885592,Tenet v. Doe,2005-03-02,True,True,544 U.S. 1,5885592,harvard_cap,https://cite.case.law/us/544/1/
+cap:5888862,City of Rancho Palos Verdes v. Abrams,2005-03-22,True,True,544 U.S. 113,5888862,harvard_cap,https://cite.case.law/us/544/113/
+cap:5891064,Ballard v. Commissioner,2005-03-07,True,True,544 U.S. 40,5891064,harvard_cap,https://cite.case.law/us/544/40/
+cap:5891157,"Dura Pharmaceuticals, Inc. v. Broudo",2005-04-19,True,True,544 U.S. 336,5891157,harvard_cap,https://cite.case.law/us/544/336/
+cap:5892363,Baldwin v. Reese,2004-03-02,False,False,541 U.S. 27,5892363,harvard_cap,https://cite.case.law/us/541/27/
+cap:5902037,Muehler v. Mena,2005-03-22,True,True,544 U.S. 93,5902037,harvard_cap,https://cite.case.law/us/544/93/
+cap:5902584,Illinois v. Caballes,2005-01-24,True,True,543 U.S. 405,5902584,harvard_cap,https://cite.case.law/us/543/405/
+cap:5907297,Pasquantino v. United States,2005-04-26,True,True,544 U.S. 349,5907297,harvard_cap,https://cite.case.law/us/544/349/
+cap:5909771,Arthur Andersen LLP v. United States,2005-05-31,True,True,544 U.S. 696,5909771,harvard_cap,https://cite.case.law/us/544/696/
+cap:5913534,City of Sherrill v. Oneida Indian Nation,2005-03-29,True,True,544 U.S. 197,5913534,harvard_cap,https://cite.case.law/us/544/197/
+cap:5914041,Small v. United States,2005-04-26,True,True,544 U.S. 385,5914041,harvard_cap,https://cite.case.law/us/544/385/
+cap:5916387,"KP Permanent Make-Up, Inc. v. Lasting Impression I, Inc.",2004-12-08,True,True,543 U.S. 111,5916387,harvard_cap,https://cite.case.law/us/543/111/
+137726,"Norfolk Southern Railway Co. v. James N. Kirby, Pty Ltd.",2004-11-09,True,True,543 U.S. 14,5916516,courtlistener,https://cite.case.law/us/543/14/
+cap:5916678,Devenpeck v. Alford,2004-12-13,True,True,543 U.S. 146,5916678,harvard_cap,https://cite.case.law/us/543/146/
+cap:5919359,"Cooper Industries, Inc. v. Aviall Services, Inc.",2004-12-13,True,True,543 U.S. 157,5919359,harvard_cap,https://cite.case.law/us/543/157/
+cap:5920475,Vieth v. Jubelirer,2004-04-28,False,False,541 U.S. 267,5920475,harvard_cap,https://cite.case.law/us/541/267/
+cap:5920496,Exxon Mobil Corp. v. Saudi Basic Industries Corp.,2005-03-30,True,True,544 U.S. 280,5920496,harvard_cap,https://cite.case.law/us/544/280/
+cap:5925862,United States v. Booker,2005-01-12,True,True,543 U.S. 220,5925862,harvard_cap,https://cite.case.law/us/543/220/
+cap:5928574,Roper v. Simmons,2005-03-01,True,True,543 U.S. 551,5928574,harvard_cap,https://cite.case.law/us/543/551/
+cap:5948643,Whitfield v. United States,2005-01-11,True,True,543 U.S. 209,5948643,harvard_cap,https://cite.case.law/us/543/209/
+137728,"Koons Buick Pontiac GMC, Inc. v. Nigh",2004-11-30,True,True,543 U.S. 50,5956351,courtlistener,https://cite.case.law/us/543/50/
+cap:5963304,Kansas v. Colorado,2004-12-07,True,True,543 U.S. 86,5963304,harvard_cap,https://cite.case.law/us/543/86/
+cap:5967659,Smith v. Massachusetts,2005-02-22,True,True,543 U.S. 462,5967659,harvard_cap,https://cite.case.law/us/543/462/
+cap:5977915,Commissioner v. Banks,2005-01-24,True,True,543 U.S. 426,5977915,harvard_cap,https://cite.case.law/us/543/426/
+cap:5980411,Howell v. Mississippi,2005-01-24,True,True,543 U.S. 440,5980411,harvard_cap,https://cite.case.law/us/543/440/
+85382,Green v. Biddle,1821-03-05,False,False,21 U.S. 1,6136159,courtlistener,https://cite.case.law/us/21/1/
+cap:6136182,Southern Pacific Railroad v. United States,1897-10-18,False,False,168 U.S. 1,6136182,harvard_cap,https://cite.case.law/us/168/1/
+cap:6137159,United States v. Holt State Bank,1926-02-01,False,False,270 U.S. 49,6137159,harvard_cap,https://cite.case.law/us/270/49/
+cap:6137206,McGoldrick v. Berwind-White Coal Mining Co.,1940-01-29,False,False,309 U.S. 33,6137206,harvard_cap,https://cite.case.law/us/309/33/
+cap:6137769,United States v. Socony-Vacuum Oil Co.,1940-05-06,False,False,310 U.S. 150,6137769,harvard_cap,https://cite.case.law/us/310/150/
+cap:6137947,"Ziffrin, Inc. v. Reeves",1939-11-13,False,False,308 U.S. 132,6137947,harvard_cap,https://cite.case.law/us/308/132/
+cap:6138060,Wagner v. Baird,1849-01,False,False,48 U.S. 234,6138060,harvard_cap,https://cite.case.law/us/48/234/
+cap:6138065,Helvering v. Horst,1940-11-25,False,False,311 U.S. 112,6138065,harvard_cap,https://cite.case.law/us/311/112/
+cap:6138075,United States ex rel. Vajtauer v. Commissioner of Immigration,1927-01-03,False,False,273 U.S. 103,6138075,harvard_cap,https://cite.case.law/us/273/103/
+cap:6138175,Helvering v. Eubank,1940-11-25,False,False,311 U.S. 122,6138175,harvard_cap,https://cite.case.law/us/311/122/
+cap:6138280,Smith v. Texas,1940-11-25,False,False,311 U.S. 128,6138280,harvard_cap,https://cite.case.law/us/311/128/
+cap:6138344,Cantwell v. Connecticut,1940-05-20,False,False,310 U.S. 296,6138344,harvard_cap,https://cite.case.law/us/310/296/
+cap:6139900,Michigan v. Wisconsin,1926-03-01,False,False,270 U.S. 295,6139900,harvard_cap,https://cite.case.law/us/270/295/
+cap:6140102,Pierre v. Louisiana,1939-02-27,False,False,306 U.S. 354,6140102,harvard_cap,https://cite.case.law/us/306/354/
+cap:6140189,Board of County Commissioners v. United States,1939-12-18,False,False,308 U.S. 343,6140189,harvard_cap,https://cite.case.law/us/308/343/
+cap:6140852,United States v. Morgan,1941-05-26,False,False,313 U.S. 409,6140852,harvard_cap,https://cite.case.law/us/313/409/
+cap:6141704,Indianapolis Brewing Co. v. Liquor Control Commission,1939-01-03,False,False,305 U.S. 391,6141704,harvard_cap,https://cite.case.law/us/305/391/
+cap:6141782,Finch v. McKittrick,1939-01-03,False,False,305 U.S. 395,6141782,harvard_cap,https://cite.case.law/us/305/395/
+cap:6142023,Colorado v. Kansas,1943-12-06,False,False,320 U.S. 383,6142023,harvard_cap,https://cite.case.law/us/320/383/
+cap:6142375,Sanitary District of Chicago v. United States,1925-01-05,False,False,266 U.S. 405,6142375,harvard_cap,https://cite.case.law/us/266/405/
+cap:6142391,"Clark v. Paul Gray, Inc.",1939-04-17,False,False,306 U.S. 583,6142391,harvard_cap,https://cite.case.law/us/306/583/
+cap:6142400,United States v. Trenton Potteries Co.,1927-02-21,False,False,273 U.S. 392,6142400,harvard_cap,https://cite.case.law/us/273/392/
+cap:6142415,Rooker v. Fidelity Trust Co.,1923-12-10,False,False,263 U.S. 413,6142415,harvard_cap,https://cite.case.law/us/263/413/
+cap:6143363,William R. Warner & Co. v. Eli Lilly & Co.,1924-06-09,False,False,265 U.S. 526,6143363,harvard_cap,https://cite.case.law/us/265/526/
+cap:6143405,Webster v. Fall,1925-01-05,False,False,266 U.S. 507,6143405,harvard_cap,https://cite.case.law/us/266/507/
+cap:6157296,"Chicago & Southern Air Lines, Inc. v. Waterman Steamship Corp.",1948-02-09,False,False,333 U.S. 103,6157296,harvard_cap,https://cite.case.law/us/333/103/
+cap:6157471,Rice v. Santa Fe Elevator Corp.,1947-05-05,False,False,331 U.S. 218,6157471,harvard_cap,https://cite.case.law/us/331/218/
+cap:6157880,Price v. Johnston,1948-05-24,False,False,334 U.S. 266,6157880,harvard_cap,https://cite.case.law/us/334/266/
+cap:6157961,Louisiana ex rel. Francis v. Resweber,1947-01-13,False,False,329 U.S. 459,6157961,harvard_cap,https://cite.case.law/us/329/459/
+cap:6158777,Commissioner v. Sunnen,1948-04-05,False,False,333 U.S. 591,6158777,harvard_cap,https://cite.case.law/us/333/591/
+cap:6158897,"Central Greyhound Lines, Inc. v. Mealey",1948-06-14,False,False,334 U.S. 653,6158897,harvard_cap,https://cite.case.law/us/334/653/
+cap:6160026,Service v. Dulles,1957-06-17,False,False,354 U.S. 363,6160026,harvard_cap,https://cite.case.law/us/354/363/
+cap:6160607,Klapprott v. United States,1949-01-17,False,False,335 U.S. 601,6160607,harvard_cap,https://cite.case.law/us/335/601/
+cap:6161306,Trop v. Dulles,1958-03-31,False,False,356 U.S. 86,6161306,harvard_cap,https://cite.case.law/us/356/86/
+cap:6161421,Senko v. LaCrosse Dredging Corp.,1957-02-25,False,False,352 U.S. 370,6161421,harvard_cap,https://cite.case.law/us/352/370/
+cap:6161625,United States v. Turley,1957-02-25,False,False,352 U.S. 407,6161625,harvard_cap,https://cite.case.law/us/352/407/
+cap:6161668,Leng May Ma v. Barber,1958-06-16,False,False,357 U.S. 185,6161668,harvard_cap,https://cite.case.law/us/357/185/
+cap:6161830,Conley v. Gibson,1957-11-18,False,False,355 U.S. 41,6161830,harvard_cap,https://cite.case.law/us/355/41/
+cap:6162926,Flora v. United States,1960-03-21,False,False,362 U.S. 145,6162926,harvard_cap,https://cite.case.law/us/362/145/
+cap:6163120,"Monrosa v. Carbon Black Export, Inc.",1959-03-30,False,False,359 U.S. 180,6163120,harvard_cap,https://cite.case.law/us/359/180/
+cap:6164087,Armstrong v. United States,1960-06-27,False,False,364 U.S. 40,6164087,harvard_cap,https://cite.case.law/us/364/40/
+105871,Robert C. Herd & Co. v. Krawill Machinery Corp.,1959-04-20,False,False,359 U.S. 297,6164545,courtlistener,https://cite.case.law/us/359/297/
+cap:6165750,West v. United States,1959-12-07,False,False,361 U.S. 118,6165750,harvard_cap,https://cite.case.law/us/361/118/
+cap:6165831,Fong Foo v. United States,1962-03-19,False,False,369 U.S. 141,6165831,harvard_cap,https://cite.case.law/us/369/141/
+cap:6166086,Federal Trade Commission v. Mandel Bros.,1959-05-04,False,False,359 U.S. 385,6166086,harvard_cap,https://cite.case.law/us/359/385/
+cap:6166491,Roper v. United States,1961-11-06,False,False,368 U.S. 20,6166491,harvard_cap,https://cite.case.law/us/368/20/
+cap:6166727,Provident Tradesmens Bank & Trust Co. v. Patterson,1968-01-29,False,False,390 U.S. 102,6166727,harvard_cap,https://cite.case.law/us/390/102/
+cap:6167210,Cooper v. Pate,1964-06-22,False,False,378 U.S. 546,6167210,harvard_cap,https://cite.case.law/us/378/546/
+cap:6167274,Washington v. Texas,1967-06-12,False,False,388 U.S. 14,6167274,harvard_cap,https://cite.case.law/us/388/14/
+cap:6168237,United States v. Louisiana,1969-03-03,False,False,394 U.S. 11,6168237,harvard_cap,https://cite.case.law/us/394/11/
+cap:6168485,Vitarelli v. Seaton,1959-06-01,False,False,359 U.S. 535,6168485,harvard_cap,https://cite.case.law/us/359/535/
+cap:6168633,Maryland v. Wirtz,1968-06-10,False,False,392 U.S. 183,6168633,harvard_cap,https://cite.case.law/us/392/183/
+cap:6168882,Chapman v. California,1967-02-20,False,False,386 U.S. 18,6168882,harvard_cap,https://cite.case.law/us/386/18/
+cap:6168986,Hostetter v. Idlewild Bon Voyage Liquor Corp.,1964-06-01,False,False,377 U.S. 324,6168986,harvard_cap,https://cite.case.law/us/377/456/
+cap:6169086,Department of Revenue v. James B. Beam Distilling Co.,1964-06-01,False,False,377 U.S. 341,6169086,harvard_cap,https://cite.case.law/us/377/473/
+cap:6169743,United States v. Sisson,1970-06-29,False,False,399 U.S. 267,6169743,harvard_cap,https://cite.case.law/us/399/267/
+cap:6169863,Robinson v. California,1962-06-25,False,False,370 U.S. 660,6169863,harvard_cap,https://cite.case.law/us/370/660/
+cap:6169920,Goldblatt v. Town of Hempstead,1962-05-14,False,False,369 U.S. 590,6169920,harvard_cap,https://cite.case.law/us/369/590/
+cap:6170209,Lee v. Washington,1968-03-11,False,False,390 U.S. 333,6170209,harvard_cap,https://cite.case.law/us/390/333/
+106209,Kossick v. United Fruit Co.,1961-04-17,False,False,365 U.S. 731,6170595,courtlistener,https://cite.case.law/us/365/731/
+cap:6170618,Atlantic Coast Line Railroad v. Brotherhood of Locomotive Engineers,1970-06-08,False,False,398 U.S. 281,6170618,harvard_cap,https://cite.case.law/us/398/281/
+cap:6170654,Swenson v. Bosler,1967-03-13,False,False,386 U.S. 258,6170654,harvard_cap,https://cite.case.law/us/386/258/
+cap:6170822,Aro Manufacturing Co. v. Convertible Top Replacement Co.,1964-06-08,False,False,377 U.S. 476,6170822,harvard_cap,https://cite.case.law/us/377/608/
+cap:6170963,Price v. Georgia,1970-06-15,False,False,398 U.S. 323,6170963,harvard_cap,https://cite.case.law/us/398/323/
+cap:6171157,Welsh v. United States,1970-06-15,False,False,398 U.S. 333,6171157,harvard_cap,https://cite.case.law/us/398/333/
+cap:6172057,Griswold v. Connecticut,1965-06-07,False,False,381 U.S. 479,6172057,harvard_cap,https://cite.case.law/us/381/479/
+cap:6172169,Wilwording v. Swenson,1971-12-14,False,False,404 U.S. 249,6172169,harvard_cap,https://cite.case.law/us/404/249/
+cap:6172479,Picard v. Connor,1971-12-20,False,False,404 U.S. 270,6172479,harvard_cap,https://cite.case.law/us/404/270/
+cap:6172683,Hill v. United States,1962-01-22,False,False,368 U.S. 424,6172683,harvard_cap,https://cite.case.law/us/368/424/
+cap:6173129,United States v. Bass,1971-12-20,False,False,404 U.S. 336,6173129,harvard_cap,https://cite.case.law/us/404/336/
+cap:6173247,Cardinale v. Louisiana,1969-04-01,False,False,394 U.S. 437,6173247,harvard_cap,https://cite.case.law/us/394/437/
+cap:6173832,Wolff v. McDonnell,1974-06-26,False,False,418 U.S. 539,6173832,harvard_cap,https://cite.case.law/us/418/539/
+cap:6174258,Aldinger v. Howard,1976-06-24,False,False,427 U.S. 1,6174258,harvard_cap,https://cite.case.law/us/427/1/
+cap:6174582,Mathews v. Diaz,1976-06-01,False,False,426 U.S. 67,6174582,harvard_cap,https://cite.case.law/us/426/67/
+cap:6175010,Ernst & Ernst v. Hochfelder,1976-03-30,False,False,425 U.S. 185,6175010,harvard_cap,https://cite.case.law/us/425/185/
+cap:6175267,United States v. Moore,1975-12-09,False,False,423 U.S. 122,6175267,harvard_cap,https://cite.case.law/us/423/122/
+cap:6175285,United Mine Workers of America v. Gibbs,1966-03-28,False,False,383 U.S. 715,6175285,harvard_cap,https://cite.case.law/us/383/715/
+cap:6175486,Meachum v. Fano,1976-06-25,False,False,427 U.S. 215,6175486,harvard_cap,https://cite.case.law/us/427/215/
+cap:6175698,Washington v. Davis,1976-06-07,False,False,426 U.S. 229,6175698,harvard_cap,https://cite.case.law/us/426/229/
+cap:6176664,Burks v. United States,1978-06-14,False,False,437 U.S. 1,6176664,harvard_cap,https://cite.case.law/us/437/1/
+cap:6176749,Gregg v. Georgia,1976-07-02,False,False,428 U.S. 153,6176749,harvard_cap,https://cite.case.law/us/428/153/
+cap:6177021,Wainwright v. Sykes,1977-06-23,False,False,433 U.S. 72,6177021,harvard_cap,https://cite.case.law/us/433/72/
+cap:6177327,State Farm Fire & Casualty Co. v. Tashire,1967-04-10,False,False,386 U.S. 523,6177327,harvard_cap,https://cite.case.law/us/386/523/
+cap:6177463,Sanabria v. United States,1978-06-14,False,False,437 U.S. 54,6177463,harvard_cap,https://cite.case.law/us/437/54/
+cap:6177476,Steffel v. Thompson,1974-03-19,False,False,415 U.S. 452,6177476,harvard_cap,https://cite.case.law/us/415/452/
+cap:6177768,United States v. Watson,1976-01-26,False,False,423 U.S. 411,6177768,harvard_cap,https://cite.case.law/us/423/411/
+cap:6178010,Exxon Corp. v. Governor of Maryland,1978-06-14,False,False,437 U.S. 117,6178010,harvard_cap,https://cite.case.law/us/437/117/
+cap:6178901,United States v. Martinez-Fuerte,1976-07-06,False,False,428 U.S. 543,6178901,harvard_cap,https://cite.case.law/us/428/543/
+cap:6179268,Hunt v. Washington State Apple Advertising Commission,1977-06-20,False,False,432 U.S. 333,6179268,harvard_cap,https://cite.case.law/us/432/333/
+cap:6179579,Estelle v. Williams,1976-05-03,False,False,425 U.S. 501,6179579,harvard_cap,https://cite.case.law/us/425/501/
+cap:6179887,Nebraska Press Ass'n v. Stuart,1976-06-30,False,False,427 U.S. 539,6179887,harvard_cap,https://cite.case.law/us/427/539/
+cap:6180200,Califano v. Westcott,1979-06-25,False,False,443 U.S. 76,6180200,harvard_cap,https://cite.case.law/us/443/76/
+cap:6180306,Owen Equipment & Erection Co. v. Kroger,1978-06-21,False,False,437 U.S. 365,6180306,harvard_cap,https://cite.case.law/us/437/365/
+cap:6180580,Coker v. Georgia,1977-06-29,False,False,433 U.S. 584,6180580,harvard_cap,https://cite.case.law/us/433/584/
+cap:6181278,Henderson v. Morgan,1976-06-17,False,False,426 U.S. 637,6181278,harvard_cap,https://cite.case.law/us/426/637/
+cap:6181865,California v. Nevada,1980-06-10,False,False,447 U.S. 125,6181865,harvard_cap,https://cite.case.law/us/447/125/
+cap:6181992,Huddleston v. United States,1974-03-26,False,False,415 U.S. 814,6181992,harvard_cap,https://cite.case.law/us/415/814/
+cap:6182103,Pennhurst State School & Hospital v. Halderman,1981-04-20,False,False,451 U.S. 1,6182103,harvard_cap,https://cite.case.law/us/451/1/
+cap:6182157,"Browder v. Director, Department of Corrections",1978-01-10,False,False,434 U.S. 257,6182157,harvard_cap,https://cite.case.law/us/434/257/
+cap:6182629,Anders v. California,1967-05-08,False,False,386 U.S. 738,6182629,harvard_cap,https://cite.case.law/us/386/738/
+cap:6182779,"Northwest Airlines, Inc. v. Transport Workers Union",1981-04-20,False,False,451 U.S. 77,6182779,harvard_cap,https://cite.case.law/us/451/77/
+cap:6183213,Agins v. City of Tiburon,1980-06-10,False,False,447 U.S. 255,6183213,harvard_cap,https://cite.case.law/us/447/255/
+cap:6183310,City of Philadelphia v. New Jersey,1978-06-23,False,False,437 U.S. 617,6183310,harvard_cap,https://cite.case.law/us/437/617/
+cap:6183794,Godfrey v. Georgia,1980-05-19,False,False,446 U.S. 420,6183794,harvard_cap,https://cite.case.law/us/446/420/
+cap:6183919,Fair Assessment in Real Estate Ass'n v. McNary,1981-12-01,False,False,454 U.S. 100,6183919,harvard_cap,https://cite.case.law/us/454/100/
+cap:6184063,Rose v. Mitchell,1979-07-02,False,False,443 U.S. 545,6184063,harvard_cap,https://cite.case.law/us/443/545/
+cap:6184115,Weinberger v. Catholic Action of Hawaii/Peace Education Project,1981-12-01,False,False,454 U.S. 139,6184115,harvard_cap,https://cite.case.law/us/454/139/
+cap:6185056,Texas v. New Mexico,1980-05-19,False,False,446 U.S. 540,6185056,harvard_cap,https://cite.case.law/us/446/540/
+cap:6185389,United States v. Mendenhall,1980-05-27,False,False,446 U.S. 544,6185389,harvard_cap,https://cite.case.law/us/446/544/
+cap:6185612,National Labor Relations Board v. Catholic Bishop,1979-03-21,False,False,440 U.S. 490,6185612,harvard_cap,https://cite.case.law/us/440/490/
+cap:6185662,"Harrison v. PPG Industries, Inc.",1980-05-27,False,False,446 U.S. 578,6185662,harvard_cap,https://cite.case.law/us/446/578/
+110310,National Labor Relations Board v. International Longshoremen's Ass'n,1980-06-20,False,False,447 U.S. 490,6186086,courtlistener,https://cite.case.law/us/447/490/
+cap:6186809,Exxon Corp. v. Eagerton,1983-06-08,False,False,462 U.S. 176,6186809,harvard_cap,https://cite.case.law/us/462/176/
+cap:6187280,Beck v. Alabama,1980-06-20,False,False,447 U.S. 625,6187280,harvard_cap,https://cite.case.law/us/447/625/
+cap:6187462,Illinois v. Gates,1983-06-08,False,False,462 U.S. 213,6187462,harvard_cap,https://cite.case.law/us/462/213/
+cap:6187754,Webb v. Webb,1981-05-18,False,False,451 U.S. 493,6187754,harvard_cap,https://cite.case.law/us/451/493/
+cap:6187993,Kremer v. Chemical Construction Corp.,1982-05-17,False,False,456 U.S. 461,6187993,harvard_cap,https://cite.case.law/us/456/461/
+cap:6188400,North Haven Board of Education v. Bell,1982-05-17,False,False,456 U.S. 512,6188400,harvard_cap,https://cite.case.law/us/456/512/
+cap:6188807,Parratt v. Taylor,1981-05-18,False,False,451 U.S. 527,6188807,harvard_cap,https://cite.case.law/us/451/527/
+cap:6189721,O'Bannon v. Town Court Nursing Center,1980-06-23,False,False,447 U.S. 773,6189721,harvard_cap,https://cite.case.law/us/447/773/
+cap:6189736,"Dickerson v. New Banner Institute, Inc.",1983-02-23,False,False,460 U.S. 103,6189736,harvard_cap,https://cite.case.law/us/460/103/
+cap:6190257,Jones & Laughlin Steel Corp. v. Pfeifer,1983-06-15,False,False,462 U.S. 523,6190257,harvard_cap,https://cite.case.law/us/462/523/
+cap:6190266,Franchise Tax Board v. Construction Laborers Vacation Trust,1983-06-24,False,False,463 U.S. 1,6190266,harvard_cap,https://cite.case.law/us/463/1/
+cap:6190572,"Texas Industries, Inc. v. Radcliff Materials, Inc.",1981-05-26,False,False,451 U.S. 630,6190572,harvard_cap,https://cite.case.law/us/451/630/
+cap:6190573,Texas v. New Mexico,1983-06-17,False,False,462 U.S. 554,6190573,harvard_cap,https://cite.case.law/us/462/554/
+cap:6190607,Landon v. Plasencia,1982-11-15,False,False,459 U.S. 21,6190607,harvard_cap,https://cite.case.law/us/459/21/
+cap:6190630,Motor Vehicle Manufacturers Ass'n v. State Farm Mutual Automobile Insurance,1983-06-24,False,False,463 U.S. 29,6190630,harvard_cap,https://cite.case.law/us/463/29/
+cap:6190926,Western & Southern Life Insurance v. State Board of Equalization,1981-05-26,False,False,451 U.S. 648,6190926,harvard_cap,https://cite.case.law/us/451/648/
+cap:6191246,Patsy v. Board of Regents,1982-06-21,False,False,457 U.S. 496,6191246,harvard_cap,https://cite.case.law/us/457/496/
+cap:6191415,United States v. Security Industrial Bank,1982-11-30,False,False,459 U.S. 70,6191415,harvard_cap,https://cite.case.law/us/459/70/
+cap:6192512,"Larkin v. Grendel's Den, Inc.",1982-12-13,False,False,459 U.S. 116,6192512,harvard_cap,https://cite.case.law/us/459/116/
+cap:6192897,Newport News Shipbuilding & Dry Dock Co. v. Equal Employment Opportunity Commission,1983-06-20,False,False,462 U.S. 669,6192897,harvard_cap,https://cite.case.law/us/462/669/
+cap:6193045,Russello v. United States,1983-11-01,False,False,464 U.S. 16,6193045,harvard_cap,https://cite.case.law/us/464/16/
+cap:6193185,United States v. Mitchell,1983-06-27,False,False,463 U.S. 206,6193185,harvard_cap,https://cite.case.law/us/463/206/
+110759,Foremost Insurance v. Richardson,1982-06-23,False,False,457 U.S. 668,6193223,courtlistener,https://cite.case.law/us/457/668/
+cap:6193241,United States v. Place,1983-06-20,False,False,462 U.S. 696,6193241,harvard_cap,https://cite.case.law/us/462/696/
+cap:6194938,United States v. Jacobsen,1984-04-02,False,False,466 U.S. 109,6194938,harvard_cap,https://cite.case.law/us/466/109/
+cap:6194952,District of Columbia Court of Appeals v. Feldman,1983-03-23,False,False,460 U.S. 462,6194952,harvard_cap,https://cite.case.law/us/460/462/
+cap:6195530,Zant v. Stephens,1983-06-22,False,False,462 U.S. 862,6195530,harvard_cap,https://cite.case.law/us/462/862/
+cap:6196728,Immigration & Naturalization Service v. Delgado,1984-04-17,False,False,466 U.S. 210,6196728,harvard_cap,https://cite.case.law/us/466/210/
+cap:6197141,Pennsylvania v. Goldhammer,1985-11-12,False,False,474 U.S. 28,6197141,harvard_cap,https://cite.case.law/us/474/28/
+cap:6197834,Hawaii Housing Authority v. Midkiff,1984-05-30,False,False,467 U.S. 229,6197834,harvard_cap,https://cite.case.law/us/467/229/
+cap:6197835,Silkwood v. Kerr-McGee Corp.,1984-01-11,False,False,464 U.S. 238,6197835,harvard_cap,https://cite.case.law/us/464/238/
+cap:6197836,Williamson County Regional Planning Commission v. Hamilton Bank of Johnson City,1985-06-28,False,False,473 U.S. 172,6197836,harvard_cap,https://cite.case.law/us/473/172/
+cap:6198207,Justices of Boston Municipal Court v. Lydon,1984-04-18,False,False,466 U.S. 294,6198207,harvard_cap,https://cite.case.law/us/466/294/
+cap:6198333,Dowling v. United States,1985-06-28,False,False,473 U.S. 207,6198333,harvard_cap,https://cite.case.law/us/473/207/
+cap:6198785,Heath v. Alabama,1985-12-03,False,False,474 U.S. 82,6198785,harvard_cap,https://cite.case.law/us/474/82/
+cap:6198797,Hewitt v. Helms,1983-02-22,False,False,459 U.S. 460,6198797,harvard_cap,https://cite.case.law/us/459/460/
+cap:6198922,Central Intelligence Agency v. Sims,1985-04-16,False,False,471 U.S. 159,6198922,harvard_cap,https://cite.case.law/us/471/159/
+cap:6199647,Jones v. Barnes,1983-07-05,False,False,463 U.S. 745,6199647,harvard_cap,https://cite.case.law/us/463/745/
+cap:6199684,"United States v. Riverside Bayview Homes, Inc.",1985-12-04,False,False,474 U.S. 121,6199684,harvard_cap,https://cite.case.law/us/474/121/
+cap:6200302,"Sony Corp. of America v. Universal City Studios, Inc.",1984-01-17,False,False,464 U.S. 417,6200302,harvard_cap,https://cite.case.law/us/464/417/
+cap:6200572,Marsh v. Chambers,1983-07-05,False,False,463 U.S. 783,6200572,harvard_cap,https://cite.case.law/us/463/783/
+cap:6201048,Wilson v. Garcia,1985-04-17,False,False,471 U.S. 261,6201048,harvard_cap,https://cite.case.law/us/471/261/
+cap:6203373,Mabry v. Johnson,1984-06-11,False,False,467 U.S. 504,6203373,harvard_cap,https://cite.case.law/us/467/504/
+cap:6203537,Meritor Savings Bank v. Vinson,1986-06-19,False,False,477 U.S. 57,6203537,harvard_cap,https://cite.case.law/us/477/57/
+cap:6203837,McMillan v. Pennsylvania,1986-06-19,False,False,477 U.S. 79,6203837,harvard_cap,https://cite.case.law/us/477/79/
+cap:6204090,Liparota v. United States,1985-05-13,False,False,471 U.S. 419,6204090,harvard_cap,https://cite.case.law/us/471/419/
+cap:6204502,United States v. Cronic,1984-05-14,False,False,466 U.S. 648,6204502,harvard_cap,https://cite.case.law/us/466/648/
+cap:6204742,Firefighters Local Union No. 1784 v. Stotts,1984-06-12,False,False,467 U.S. 561,6204742,harvard_cap,https://cite.case.law/us/467/561/
+cap:6204802,Strickland v. Washington,1984-05-14,False,False,466 U.S. 668,6204802,harvard_cap,https://cite.case.law/us/466/668/
+cap:6204804,Maine v. Taylor,1986-06-23,False,False,477 U.S. 131,6204804,harvard_cap,https://cite.case.law/us/477/131/
+cap:6204821,Goldman v. Weinberger,1986-03-25,False,False,475 U.S. 503,6204821,harvard_cap,https://cite.case.law/us/475/503/
+cap:6205476,Holbrook v. Flynn,1986-03-26,False,False,475 U.S. 560,6205476,harvard_cap,https://cite.case.law/us/475/560/
+cap:6206017,"Capital Cities Cable, Inc. v. Crisp",1984-06-18,False,False,467 U.S. 691,6206017,harvard_cap,https://cite.case.law/us/467/691/
+cap:6207529,"Parsons Steel, Inc. v. First Alabama Bank",1986-01-27,False,False,474 U.S. 518,6207529,harvard_cap,https://cite.case.law/us/474/518/
+cap:6208124,MacDonald v. County of Yolo,1986-06-25,False,False,477 U.S. 340,6208124,harvard_cap,https://cite.case.law/us/477/340/
+cap:6208386,Pennzoil Co. v. Texaco Inc.,1987-04-06,False,False,481 U.S. 1,6208386,harvard_cap,https://cite.case.law/us/481/1/
+cap:6208461,Montana v. Blackfeet Tribe of Indians,1985-06-03,False,False,471 U.S. 759,6208461,harvard_cap,https://cite.case.law/us/471/759/
+cap:6208971,Ford v. Wainwright,1986-06-26,False,False,477 U.S. 399,6208971,harvard_cap,https://cite.case.law/us/477/399/
+cap:6209106,"Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc.",1984-06-25,False,False,467 U.S. 837,6209106,harvard_cap,https://cite.case.law/us/467/837/
+cap:6209320,"D. H. Holmes Co., Ltd. v. McNamara",1988-05-16,False,False,486 U.S. 24,6209320,harvard_cap,https://cite.case.law/us/486/24/
+cap:6210045,Turner v. Safley,1987-06-01,False,False,482 U.S. 78,6210045,harvard_cap,https://cite.case.law/us/482/78/
+cap:6210442,Texas v. New Mexico,1987-06-08,False,False,482 U.S. 124,6210442,harvard_cap,https://cite.case.law/us/482/124/
+cap:6210520,Bankers Life & Casualty Co. v. Crenshaw,1988-05-16,False,False,486 U.S. 71,6210520,harvard_cap,https://cite.case.law/us/486/71/
+cap:6210660,City of Riverside v. Rivera,1986-06-27,False,False,477 U.S. 561,6210660,harvard_cap,https://cite.case.law/us/477/561/
+cap:6211103,Randall v. Loftsgaarden,1986-07-02,False,False,478 U.S. 647,6211103,harvard_cap,https://cite.case.law/us/478/647/
+cap:6211185,Secretary of Maryland v. Joseph H. Munson Co.,1984-06-26,False,False,467 U.S. 947,6211185,harvard_cap,https://cite.case.law/us/467/947/
+cap:6211725,Ruckelshaus v. Monsanto Co.,1984-06-26,False,False,467 U.S. 986,6211725,harvard_cap,https://cite.case.law/us/467/986/
+cap:6212935,First English Evangelical Lutheran Church v. County of Los Angeles,1987-06-09,False,False,482 U.S. 304,6212935,harvard_cap,https://cite.case.law/us/482/304/
+cap:6213275,O'Lone v. Estate of Shabazz,1987-06-09,False,False,482 U.S. 342,6213275,harvard_cap,https://cite.case.law/us/482/342/
+cap:6213542,"Maislin Industries, U. S., Inc. v. Primary Steel, Inc.",1990-06-21,False,False,497 U.S. 116,6213542,harvard_cap,https://cite.case.law/us/497/116/
+cap:6213698,Merrell Dow Pharmaceuticals Inc. v. Thompson ex rel. Thompson,1986-07-07,False,False,478 U.S. 804,6213698,harvard_cap,https://cite.case.law/us/478/804/
+cap:6213752,Healy v. Beer Institute,1989-06-19,False,False,491 U.S. 324,6213752,harvard_cap,https://cite.case.law/us/491/324/
+cap:6214785,McCleskey v. Kemp,1987-04-22,False,False,481 U.S. 279,6214785,harvard_cap,https://cite.case.law/us/481/279/
+cap:6214810,Penry v. Lynaugh,1989-06-26,False,False,492 U.S. 302,6214810,harvard_cap,https://cite.case.law/us/492/302/
+cap:6215303,West Virginia v. United States,1987-01-13,False,False,479 U.S. 305,6215303,harvard_cap,https://cite.case.law/us/479/305/
+cap:6215448,Stanford v. Kentucky,1989-06-26,False,False,492 U.S. 361,6215448,harvard_cap,https://cite.case.law/us/492/361/
+cap:6215556,New Energy Co. of Indiana v. Limbach,1988-05-31,False,False,486 U.S. 269,6215556,harvard_cap,https://cite.case.law/us/486/269/
+cap:6215700,Griffith v. Kentucky,1987-01-13,False,False,479 U.S. 314,6215700,harvard_cap,https://cite.case.law/us/479/314/
+112479,Sisson v. Ruby,1990-06-25,False,False,497 U.S. 358,6216115,courtlistener,https://cite.case.law/us/497/358/
+cap:6216193,Brendale v. Brendale v. Confederated Tribes & Bands of the Yakima Indian Nation,1989-06-29,False,False,492 U.S. 408,6216193,harvard_cap,https://cite.case.law/us/492/408/
+cap:6216695,County of Riverside v. McLaughlin,1991-05-13,False,False,500 U.S. 44,6216695,harvard_cap,https://cite.case.law/us/500/44/
+cap:6217400,County of Allegheny v. American Civil Liberties Union,1989-07-03,False,False,492 U.S. 573,6217400,harvard_cap,https://cite.case.law/us/492/573/
+cap:6217449,Wright v. City of Roanoke Redevelopment & Housing Authority,1987-01-14,False,False,479 U.S. 418,6217449,harvard_cap,https://cite.case.law/us/479/418/
+cap:6217453,"Board of Airport Commissioners v. Jews for Jesus, Inc.",1987-06-15,False,False,482 U.S. 569,6217453,harvard_cap,https://cite.case.law/us/482/569/
+cap:6217840,"Caplin & Drysdale, Chartered v. United States",1989-06-22,False,False,491 U.S. 617,6217840,harvard_cap,https://cite.case.law/us/491/617/
+cap:6217899,Edwards v. Aguillard,1987-06-19,False,False,482 U.S. 578,6217899,harvard_cap,https://cite.case.law/us/482/578/
+cap:6218288,Pennsylvania v. Finley,1987-05-18,False,False,481 U.S. 551,6218288,harvard_cap,https://cite.case.law/us/481/551/
+cap:6218665,"Southwest Marine, Inc. v. Gizoni",1991-12-04,False,False,502 U.S. 81,6218665,harvard_cap,https://cite.case.law/us/502/81/
+112589,McCarthy v. Bronson,1991-05-20,False,False,500 U.S. 136,6218684,courtlistener,https://cite.case.law/us/500/136/
+cap:6219215,Hudson v. McMillian,1992-02-25,False,False,503 U.S. 1,6219215,harvard_cap,https://cite.case.law/us/503/1/
+cap:6219498,Irwin v. Department of Veterans Affairs,1990-12-03,False,False,498 U.S. 89,6219498,harvard_cap,https://cite.case.law/us/498/89/
+cap:6219633,"United States v. Nordic Village, Inc.",1992-02-25,False,False,503 U.S. 30,6219633,harvard_cap,https://cite.case.law/us/503/30/
+cap:6220380,Franklin v. Gwinnett County Public Schools,1992-02-26,False,False,503 U.S. 60,6220380,harvard_cap,https://cite.case.law/us/503/60/
+cap:6220676,Rust v. Sullivan,1991-05-23,False,False,500 U.S. 173,6220676,harvard_cap,https://cite.case.law/us/500/173/
+cap:6221672,Webster v. Doe,1988-06-15,False,False,486 U.S. 592,6221672,harvard_cap,https://cite.case.law/us/486/592/
+cap:6222836,United States v. Dunnigan,1993-02-23,False,False,507 U.S. 87,6222836,harvard_cap,https://cite.case.law/us/507/87/
+cap:6222862,"Summit Health, Ltd. v. Pinhas",1991-05-28,False,False,500 U.S. 322,6222862,harvard_cap,https://cite.case.law/us/500/322/
+cap:6223686,Hernandez v. New York,1991-05-28,False,False,500 U.S. 352,6223686,harvard_cap,https://cite.case.law/us/500/352/
+cap:6224266,Christianson v. Colt Industries Operating Corp.,1988-06-17,False,False,486 U.S. 800,6224266,harvard_cap,https://cite.case.law/us/486/800/
+cap:6225235,Liljeberg v. Health Services Acquisition Corp.,1988-06-17,False,False,486 U.S. 847,6225235,harvard_cap,https://cite.case.law/us/486/847/
+cap:6225700,Molzof v. United States,1992-01-14,False,False,502 U.S. 301,6225700,harvard_cap,https://cite.case.law/us/502/301/
+cap:6225788,Smith v. United States,1993-03-08,False,False,507 U.S. 197,6225788,harvard_cap,https://cite.case.law/us/507/197/
+112706,Connecticut National Bank v. Germain,1992-03-09,False,False,503 U.S. 249,6225793,courtlistener,https://cite.case.law/us/503/249/
+cap:6225911,"McDermott International, Inc. v. Wilander",1991-02-19,False,False,498 U.S. 337,6225911,harvard_cap,https://cite.case.law/us/498/337/
+cap:6226195,Chapman v. United States,1991-05-30,False,False,500 U.S. 453,6226195,harvard_cap,https://cite.case.law/us/500/453/
+cap:6227285,Reiter v. Cooper,1993-03-08,False,False,507 U.S. 258,6227285,harvard_cap,https://cite.case.law/us/507/258/
+112609,"Exxon Corp. v. Central Gulf Lines, Inc.",1991-06-03,False,False,500 U.S. 603,6228361,courtlistener,https://cite.case.law/us/500/603/
+cap:6228877,Edmonson v. Leesville Concrete Co.,1991-06-03,False,False,500 U.S. 614,6228877,harvard_cap,https://cite.case.law/us/500/614/
+cap:6230286,"Lechmere, Inc. v. National Labor Relations Board",1992-01-27,False,False,502 U.S. 527,6230286,harvard_cap,https://cite.case.law/us/502/527/
+cap:6230640,National Railroad Passenger v. Boston & Maine Corp.,1992-03-25,False,False,503 U.S. 407,6230640,harvard_cap,https://cite.case.law/us/503/407/
+cap:6233382,United States v. Texas,1993-04-05,False,False,507 U.S. 529,6233382,harvard_cap,https://cite.case.law/us/507/529/
+cap:6234399,Yee v. City of Escondido,1992-04-01,False,False,503 U.S. 519,6234399,harvard_cap,https://cite.case.law/us/503/519/
+cap:6235767,Brecht v. Abrahamson,1993-04-21,False,False,507 U.S. 619,6235767,harvard_cap,https://cite.case.law/us/507/619/
+cap:6930659,Berman v. Parker,1954-11-22,False,False,348 U.S. 26,6930659,harvard_cap,https://cite.case.law/us/348/26/
+105147,"New York, New Haven & Hartford Railroad v. Nothnagle",1953-06-08,False,False,346 U.S. 128,6930760,courtlistener,https://cite.case.law/us/346/128/
+cap:6930926,Barrows v. Jackson,1953-06-15,False,False,346 U.S. 249,6930926,harvard_cap,https://cite.case.law/us/346/249/
+cap:6930930,Kansas v. Colorado,1907-05-13,False,False,206 U.S. 46,6930930,harvard_cap,https://cite.case.law/us/206/46/
+cap:6931021,United States v. Calderon,1954-12-06,False,False,348 U.S. 160,6931021,harvard_cap,https://cite.case.law/us/348/160/
+cap:6931083,Ackermann v. United States,1950-12-11,False,False,340 U.S. 193,6931083,harvard_cap,https://cite.case.law/us/340/193/
+cap:6931376,Ellis v. United States,1907-05-13,False,False,206 U.S. 246,6931376,harvard_cap,https://cite.case.law/us/206/246/
+cap:6931384,Dean Milk Co. v. City of Madison,1951-01-15,False,False,340 U.S. 349,6931384,harvard_cap,https://cite.case.law/us/340/349/
+105170,"Pope & Talbot, Inc. v. Hawn",1953-12-07,False,False,346 U.S. 406,6931421,courtlistener,https://cite.case.law/us/346/406/
+105270,Wilburn Boat Co. v. Fireman's Fund Insurance,1955-02-28,False,False,348 U.S. 310,6931434,courtlistener,https://cite.case.law/us/348/310/
+cap:6931705,Commissioner v. Glenshaw Glass Co.,1955-03-28,False,False,348 U.S. 426,6931705,harvard_cap,https://cite.case.law/us/348/426/
+cap:8208788,Gonzales v. Raich,2005-06-06,True,True,545 U.S. 1,8208788,harvard_cap,https://cite.case.law/us/545/1/
+cap:8208840,Alaska v. United States,2005-06-06,True,True,545 U.S. 75,8208840,harvard_cap,https://cite.case.law/us/545/75/
+cap:8208918,Johnson v. California,2005-06-13,True,True,545 U.S. 162,8208918,harvard_cap,https://cite.case.law/us/545/162/
+cap:8208966,Bradshaw v. Stumpf,2005-06-13,True,True,545 U.S. 175,8208966,harvard_cap,https://cite.case.law/us/545/175/
+cap:8209013,"Merck KGaA v. Integra Lifesciences I, Ltd.",2005-06-13,True,True,545 U.S. 193,8209013,harvard_cap,https://cite.case.law/us/545/193/
+cap:8209063,Wilkinson v. Austin,2005-06-13,True,True,545 U.S. 209,8209063,harvard_cap,https://cite.case.law/us/545/209/
+cap:8209132,Miller-El v. Dretke,2005-06-13,True,True,545 U.S. 231,8209132,harvard_cap,https://cite.case.law/us/545/231/
+cap:8209152,"Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing",2005-06-13,True,True,545 U.S. 308,8209152,harvard_cap,https://cite.case.law/us/545/308/
+cap:8209191,"San Remo Hotel, L. P. v. City & County of San Francisco",2005-06-20,True,True,545 U.S. 323,8209191,harvard_cap,https://cite.case.law/us/545/323/
+cap:8209230,Dodd v. United States,2005-06-20,True,True,545 U.S. 353,8209230,harvard_cap,https://cite.case.law/us/545/353/
+cap:8209271,Rompilla v. Beard,2005-06-20,True,True,545 U.S. 374,8209271,harvard_cap,https://cite.case.law/us/545/374/
+cap:8209311,Graham County Soil & Water Conservation District v. United States ex rel. Wilson,2005-06-20,True,True,545 U.S. 409,8209311,harvard_cap,https://cite.case.law/us/545/409/
+cap:8209338,"American Trucking Associations, Inc. v. Michigan Public Service Commission",2005-06-20,True,True,545 U.S. 429,8209338,harvard_cap,https://cite.case.law/us/545/429/
+cap:8209431,Kelo v. City of New London,2005-06-23,True,True,545 U.S. 469,8209431,harvard_cap,https://cite.case.law/us/545/469/
+cap:8209485,Gonzalez v. Crosby,2005-06-23,True,True,545 U.S. 524,8209485,harvard_cap,https://cite.case.law/us/545/524/
+cap:8209559,"Exxon Mobil Corp. v. Allapattah Services, Inc.",2005-06-23,True,True,545 U.S. 546,8209559,harvard_cap,https://cite.case.law/us/545/546/
+cap:8209584,Orff v. United States,2005-06-23,True,True,545 U.S. 596,8209584,harvard_cap,https://cite.case.law/us/545/596/
+cap:8209670,Halbert v. Michigan,2005-06-23,True,True,545 U.S. 605,8209670,harvard_cap,https://cite.case.law/us/545/605/
+cap:8209728,Mayle v. Felix,2005-06-23,True,True,545 U.S. 644,8209728,harvard_cap,https://cite.case.law/us/545/644/
+cap:8209863,Town of Castle Rock v. Gonzales,2005-06-27,True,True,545 U.S. 748,8209863,harvard_cap,https://cite.case.law/us/545/748/
+cap:8209946,Bell v. Thompson,2005-06-27,True,True,545 U.S. 794,8209946,harvard_cap,https://cite.case.law/us/545/794/
+cap:8210003,McCreary County v. American Civil Liberties Union,2005-06-27,True,True,545 U.S. 844,8210003,harvard_cap,https://cite.case.law/us/545/844/
+cap:8210147,"Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd.",2005-06-27,True,True,545 U.S. 913,8210147,harvard_cap,https://cite.case.law/us/545/913/
+cap:8210237,National Cable & Telecommunications Ass'n v. Brand X Internet Services,2005-06-27,True,True,545 U.S. 967,8210237,harvard_cap,https://cite.case.law/us/545/967/
+cap:8288915,Wilson Cypress Co. v. Del Pozo y Marcos,1915-03-15,False,False,236 U.S. 635,8288915,harvard_cap,https://cite.case.law/us/236/635/
+cap:8289641,United States ex rel. Attorney General of the United States v. Delaware & Hudson Co.,1909-05-03,False,False,213 U.S. 366,8289641,harvard_cap,https://cite.case.law/us/213/366/
+cap:8291047,United States v. United Verde Copper Co.,1905-01-09,False,False,196 U.S. 207,8291047,harvard_cap,https://cite.case.law/us/196/207/
+cap:8291430,Fisher ex rel. Barcelon v. Baker,1906-12-03,False,False,203 U.S. 174,8291430,harvard_cap,https://cite.case.law/us/203/174/
+cap:8295200,Strickley v. Highland Boy Gold Mining Co.,1906-02-19,False,False,200 U.S. 527,8295200,harvard_cap,https://cite.case.law/us/200/527/
+cap:8298099,Scott v. Donald,1897-01-18,False,False,165 U.S. 58,8298099,harvard_cap,https://cite.case.law/us/165/58/
+cap:8299905,Badger v. Badger,1864-12,False,False,69 U.S. 87,8299905,harvard_cap,https://cite.case.law/us/69/87/
+cap:8300264,Cope v. Vallette Dry Dock Co.,1887-01-10,False,False,119 U.S. 625,8300264,harvard_cap,https://cite.case.law/us/119/625/
+cap:8896672,Yarborough v. Gentry,2003-10-20,False,False,540 U.S. 1,8896672,harvard_cap,https://cite.case.law/us/540/1/
+cap:8896762,Barnhart v. Thomas,2003-11-12,False,False,540 U.S. 20,8896762,harvard_cap,https://cite.case.law/us/540/20/
+cap:8897100,Maryland v. Pringle,2003-12-15,False,False,540 U.S. 366,8897100,harvard_cap,https://cite.case.law/us/540/366/
+cap:8897135,Hillside Dairy Inc. v. Lyons,2003-06-09,False,False,539 U.S. 59,8897135,harvard_cap,https://cite.case.law/us/539/59/
+cap:8897508,Overton v. Bazzetta,2003-06-16,False,False,539 U.S. 126,8897508,harvard_cap,https://cite.case.law/us/539/126/
+cap:8897702,"General Dynamics Land Systems, Inc. v. Cline",2004-02-24,False,False,540 U.S. 581,8897702,harvard_cap,https://cite.case.law/us/540/581/
+cap:8897956,Grutter v. Bollinger,2003-06-23,False,False,539 U.S. 306,8897956,harvard_cap,https://cite.case.law/us/539/306/
+cap:8897994,Locke v. Davey,2004-02-25,False,False,540 U.S. 712,8897994,harvard_cap,https://cite.case.law/us/540/712/
+cap:8898132,Muhammad v. Close,2004-02-25,False,False,540 U.S. 749,8898132,harvard_cap,https://cite.case.law/us/540/749/
+cap:8898384,Wiggins v. Smith,2003-06-26,False,False,539 U.S. 510,8898384,harvard_cap,https://cite.case.law/us/539/510/
+cap:9030374,Lockyer v. Andrade,2003-03-05,False,False,538 U.S. 63,9030374,harvard_cap,https://cite.case.law/us/538/63/
+cap:9030584,Woodford v. Garceau,2003-03-25,False,False,538 U.S. 202,9030584,harvard_cap,https://cite.case.law/us/538/202/
+cap:9030620,Brown v. Legal Foundation of Washington,2003-03-26,False,False,538 U.S. 216,9030620,harvard_cap,https://cite.case.law/us/538/216/
+cap:9030949,Jinks v. Richland County,2003-04-22,False,False,538 U.S. 456,9030949,harvard_cap,https://cite.case.law/us/538/456/
+cap:9031258,Price v. Vincent,2003-05-19,False,False,538 U.S. 634,9031258,harvard_cap,https://cite.case.law/us/538/634/
+cap:9031483,Kansas v. Nebraska,2003-05-19,False,False,538 U.S. 720,9031483,harvard_cap,https://cite.case.law/us/538/720/
+cap:9031583,Chavez v. Martinez,2003-05-27,False,False,538 U.S. 760,9031583,harvard_cap,https://cite.case.law/us/538/760/
+cap:9107958,TRW Inc. v. Andrews,2001-11-13,False,False,534 U.S. 19,9107958,harvard_cap,https://cite.case.law/us/534/19/
+cap:9108024,"Adarand Constructors, Inc. v. Mineta",2001-11-27,False,False,534 U.S. 103,9108024,harvard_cap,https://cite.case.law/us/534/103/
+cap:9108234,National Cable & Telecommunications Ass'n v. Gulf Power Co.,2002-01-16,False,False,534 U.S. 327,9108234,harvard_cap,https://cite.case.law/us/534/327/
+cap:9108377,Swierkiewicz v. Sorema N. A.,2002-02-26,False,False,534 U.S. 506,9108377,harvard_cap,https://cite.case.law/us/534/506/
+cap:9108401,Porter v. Nussle,2002-02-26,False,False,534 U.S. 516,9108401,harvard_cap,https://cite.case.law/us/534/516/
+cap:9108418,Raygor v. Regents of the University of Minnesota,2002-02-27,False,False,534 U.S. 533,9108418,harvard_cap,https://cite.case.law/us/534/533/
+cap:9136631,Fuentes v. Shevin,1972-06-12,False,False,407 U.S. 67,9136631,harvard_cap,https://cite.case.law/us/407/67/
+cap:9190422,Early v. Packer,2002-11-04,False,False,537 U.S. 3,9190422,harvard_cap,https://cite.case.law/us/537/3/
+cap:9190478,Woodford v. Visciotti,2002-11-04,False,False,537 U.S. 19,9190478,harvard_cap,https://cite.case.law/us/537/19/
+cap:9190853,Pierce County v. Guillen,2003-01-14,False,False,537 U.S. 129,9190853,harvard_cap,https://cite.case.law/us/537/129/
+cap:9190981,Eldred v. Ashcroft,2003-01-15,False,False,537 U.S. 186,9190981,harvard_cap,https://cite.case.law/us/537/186/
+cap:9191097,Miller-El v. Cockrell,2003-02-25,False,False,537 U.S. 322,9191097,harvard_cap,https://cite.case.law/us/537/322/
+cap:9191337,Clay v. United States,2003-03-04,False,False,537 U.S. 522,9191337,harvard_cap,https://cite.case.law/us/537/522/
+cap:9301077,Shaw v. Murphy,2001-04-18,False,False,532 U.S. 223,9301077,harvard_cap,https://cite.case.law/us/532/223/
+cap:9301210,Alexander v. Sandoval,2001-04-24,False,False,532 U.S. 275,9301210,harvard_cap,https://cite.case.law/us/532/275/
+cap:9301278,Daniels v. United States,2001-04-25,False,False,532 U.S. 374,9301278,harvard_cap,https://cite.case.law/us/532/374/
+cap:9301489,United States v. Oakland Cannabis Buyers' Cooperative,2001-05-14,False,False,532 U.S. 483,9301489,harvard_cap,https://cite.case.law/us/532/483/
+cap:9302190,Arkansas v. Sullivan,2001-05-29,False,False,532 U.S. 769,9302190,harvard_cap,https://cite.case.law/us/532/769/
+cap:9312701,Kansas v. Colorado,2001-06-11,False,False,533 U.S. 1,9312701,harvard_cap,https://cite.case.law/us/533/1/
+cap:9312742,Kyllo v. United States,2001-06-11,False,False,533 U.S. 27,9312742,harvard_cap,https://cite.case.law/us/533/27/
+118447,Duncan v. Walker,2001-06-18,False,False,533 U.S. 167,9312991,courtlistener,https://cite.case.law/us/533/167/
+cap:9313070,United States v. Mead Corp.,2001-06-18,False,False,533 U.S. 218,9313070,harvard_cap,https://cite.case.law/us/533/218/
+cap:9313109,Idaho v. United States,2001-06-18,False,False,533 U.S. 262,9313109,harvard_cap,https://cite.case.law/us/533/262/
+cap:9313321,"United States v. United Foods, Inc.",2001-06-25,False,False,533 U.S. 405,9313321,harvard_cap,https://cite.case.law/us/533/405/
+cap:9313494,Palazzolo v. Rhode Island,2001-06-28,False,False,533 U.S. 606,9313494,harvard_cap,https://cite.case.law/us/533/606/
+cap:9313540,Tyler v. Cain,2001-06-28,False,False,533 U.S. 656,9313540,harvard_cap,https://cite.case.law/us/533/656/
+cap:9313599,Zadvydas v. Davis,2001-06-28,False,False,533 U.S. 678,9313599,harvard_cap,https://cite.case.law/us/533/678/
+cap:9413069,"Hartford Underwriters Insurance v. Union Planters Bank, N. A.",2000-05-30,False,False,530 U.S. 1,9413069,harvard_cap,https://cite.case.law/us/530/1/
+cap:9413316,Castillo v. United States,2000-06-05,False,False,530 U.S. 120,9413316,harvard_cap,https://cite.case.law/us/530/120/
+cap:9413371,"Reeves v. Sanderson Plumbing Products, Inc.",2000-06-12,False,False,530 U.S. 133,9413371,harvard_cap,https://cite.case.law/us/530/133/
+cap:9413732,Santa Fe Independent School District v. Doe,2000-06-19,False,False,530 U.S. 290,9413732,harvard_cap,https://cite.case.law/us/530/290/
+cap:9413911,Apprendi v. New Jersey,2000-06-26,False,False,530 U.S. 466,9413911,harvard_cap,https://cite.case.law/us/530/466/
+cap:9476534,Village of Willowbrook v. Olech,2000-02-23,False,False,528 U.S. 562,9476534,harvard_cap,https://cite.case.law/us/528/562/
+cap:9505334,Artuz v. Bennett,2000-11-07,False,False,531 U.S. 4,9505334,harvard_cap,https://cite.case.law/us/531/4/
+cap:9505346,Cleveland v. United States,2000-11-07,False,False,531 U.S. 12,9505346,harvard_cap,https://cite.case.law/us/531/12/
+cap:9505377,City of Indianapolis v. Edmond,2000-11-28,False,False,531 U.S. 32,9505377,harvard_cap,https://cite.case.law/us/531/32/
+cap:9505524,Fiore v. White,2001-01-09,False,False,531 U.S. 225,9505524,harvard_cap,https://cite.case.law/us/531/225/
+cap:9505549,Lopez v. Davis,2001-01-10,False,False,531 U.S. 230,9505549,harvard_cap,https://cite.case.law/us/531/230/
+cap:9505781,Semtek International Inc. v. Lockheed Martin Corp.,2001-02-27,False,False,531 U.S. 497,9505781,harvard_cap,https://cite.case.law/us/531/497/
+cap:9508355,Board of Regents of the University of Wisconsin System v. Southworth,2000-03-22,False,False,529 U.S. 217,9508355,harvard_cap,https://cite.case.law/us/529/217/
+cap:9508607,Williams v. Taylor,2000-04-18,False,False,529 U.S. 362,9508607,harvard_cap,https://cite.case.law/us/529/362/
+cap:9508670,Williams v. Taylor,2000-04-18,False,False,529 U.S. 420,9508670,harvard_cap,https://cite.case.law/us/529/420/
+cap:9508758,Slack v. McDaniel,2000-04-26,False,False,529 U.S. 473,9508758,harvard_cap,https://cite.case.law/us/529/473/
+cap:9508888,Christensen v. Harris County,2000-05-01,False,False,529 U.S. 576,9508888,harvard_cap,https://cite.case.law/us/529/576/
+cap:9508946,United States v. Morrison,2000-05-15,False,False,529 U.S. 598,9508946,harvard_cap,https://cite.case.law/us/529/598/
+cap:9509149,Vermont Agency of Natural Resources v. United States ex rel. Stevens,2000-05-22,False,False,529 U.S. 765,9509149,harvard_cap,https://cite.case.law/us/529/765/
+cap:11076482,"Department of the Army v. Blue Fox, Inc.",1999-01-20,False,False,525 U.S. 255,11076482,harvard_cap,https://cite.case.law/us/525/255/
+cap:11076593,AT&T Corp. v. Iowa Utilities Board,1999-01-25,False,False,525 U.S. 366,11076593,harvard_cap,https://cite.case.law/us/525/366/
+cap:11076646,National Collegiate Athletic Ass'n v. Smith,1999-02-23,False,False,525 U.S. 459,11076646,harvard_cap,https://cite.case.law/us/525/459/
+cap:11132829,American Manufacturers Mutual Insurance v. Sullivan,1999-03-03,False,False,526 U.S. 40,11132829,harvard_cap,https://cite.case.law/us/526/40/
+cap:11132975,Minnesota v. Mille Lacs Band of Chippewa Indians,1999-03-24,False,False,526 U.S. 172,11132975,harvard_cap,https://cite.case.law/us/526/172/
+cap:11133049,Jones v. United States,1999-03-24,False,False,526 U.S. 227,11133049,harvard_cap,https://cite.case.law/us/526/227/
+cap:11133110,Conn v. Gabbert,1999-04-05,False,False,526 U.S. 286,11133110,harvard_cap,https://cite.case.law/us/526/286/
+cap:11133347,Bank of America National Trust & Savings Ass'n v. 203 North LaSalle Street Partnership,1999-05-03,False,False,526 U.S. 434,11133347,harvard_cap,https://cite.case.law/us/526/434/
+cap:11133504,Ruhrgas AG v. Marathon Oil Co.,1999-05-17,False,False,526 U.S. 574,11133504,harvard_cap,https://cite.case.law/us/526/574/
+cap:11133593,Davis ex rel. LaShonda D. v. Monroe County Board of Education,1999-05-24,False,False,526 U.S. 629,11133593,harvard_cap,https://cite.case.law/us/526/629/
+cap:11133693,"City of Monterey v. Del Monte Dunes at Monterey, Ltd.",1999-05-24,False,False,526 U.S. 687,11133693,harvard_cap,https://cite.case.law/us/526/687/
+cap:11133882,Richardson v. United States,1999-06-01,False,False,526 U.S. 813,11133882,harvard_cap,https://cite.case.law/us/526/813/
+cap:11181552,Hopkins v. Reeves,1998-06-08,False,False,524 U.S. 88,11181552,harvard_cap,https://cite.case.law/us/524/88/
+cap:11181615,Cass County v. Leech Lake Band of Chippewa Indians,1998-06-08,False,False,524 U.S. 103,11181615,harvard_cap,https://cite.case.law/us/524/103/
+cap:11181825,Phillips v. Washington Legal Foundation,1998-06-15,False,False,524 U.S. 156,11181825,harvard_cap,https://cite.case.law/us/524/156/
+cap:11181941,Pennsylvania Department of Corrections v. Yeskey,1998-06-15,False,False,524 U.S. 206,11181941,harvard_cap,https://cite.case.law/us/524/206/
+cap:11182276,Gebser v. Lago Vista Independent School District,1998-06-22,False,False,524 U.S. 274,11182276,harvard_cap,https://cite.case.law/us/524/274/
+cap:11182555,Wisconsin Department of Corrections v. Schacht,1998-06-22,False,False,524 U.S. 381,11182555,harvard_cap,https://cite.case.law/us/524/381/
+cap:11182709,Eastern Enterprises v. Apfel,1998-06-25,False,False,524 U.S. 498,11182709,harvard_cap,https://cite.case.law/us/524/498/
+cap:11183048,Monge v. California,1998-06-26,False,False,524 U.S. 721,11183048,harvard_cap,https://cite.case.law/us/524/721/
+cap:11298707,Hensley v. Eckerhart,1983-05-16,False,False,461 U.S. 424,11298707,harvard_cap,https://cite.case.law/us/461/424/
+cap:11298875,United States v. Louisiana,1985-02-26,False,False,470 U.S. 93,11298875,harvard_cap,https://cite.case.law/us/470/93/
+cap:11299165,County of Oneida v. Oneida Indian Nation,1985-03-04,False,False,470 U.S. 226,11299165,harvard_cap,https://cite.case.law/us/470/226/
+cap:11299258,United States v. Rodgers,1983-05-31,False,False,461 U.S. 677,11299258,harvard_cap,https://cite.case.law/us/461/677/
+cap:11299329,Marrese v. American Academy of Orthopaedic Surgeons,1985-03-04,False,False,470 U.S. 373,11299329,harvard_cap,https://cite.case.law/us/470/373/
+cap:11299646,Cleveland Board of Education v. Loudermill,1985-03-19,False,False,470 U.S. 532,11299646,harvard_cap,https://cite.case.law/us/470/532/
+cap:11299922,Bennett v. Kentucky Department of Education,1985-03-19,False,False,470 U.S. 656,11299922,harvard_cap,https://cite.case.law/us/470/656/
+cap:11301409,Brown v. Board of Education,1954-05-17,False,False,347 U.S. 483,11301409,harvard_cap,https://cite.case.law/us/347/483/
+cap:11304091,Eddings v. Oklahoma,1982-01-19,False,False,455 U.S. 104,11304091,harvard_cap,https://cite.case.law/us/455/104/
+cap:11304469,"Transamerica Mortgage Advisors, Inc. v. Lewis",1979-11-13,False,False,444 U.S. 11,11304469,harvard_cap,https://cite.case.law/us/444/11/
+cap:11304612,Perrin v. United States,1979-11-27,False,False,444 U.S. 37,11304612,harvard_cap,https://cite.case.law/us/444/37/
+cap:11304710,Andrus v. Allard,1979-11-27,False,False,444 U.S. 51,11304710,harvard_cap,https://cite.case.law/us/444/51/
+cap:11304762,United States v. Lee,1982-02-23,False,False,455 U.S. 252,11304762,harvard_cap,https://cite.case.law/us/455/252/
+cap:11305447,Kaiser Aetna v. United States,1979-12-04,False,False,444 U.S. 164,11305447,harvard_cap,https://cite.case.law/us/444/164/
+cap:11306412,Rose v. Lundy,1982-03-03,False,False,455 U.S. 509,11306412,harvard_cap,https://cite.case.law/us/455/509/
+cap:11310931,Epperson v. Arkansas,1968-11-12,False,False,393 U.S. 97,11310931,harvard_cap,https://cite.case.law/us/393/97/
+cap:11312044,Carroll v. President & Commissioners of Princess Anne,1968-11-19,False,False,393 U.S. 175,11312044,harvard_cap,https://cite.case.law/us/393/175/
+cap:11318695,Equal Employment Opportunity Commission v. Arabian American Oil Co.,1991-03-26,False,False,499 U.S. 244,11318695,harvard_cap,https://cite.case.law/us/499/244/
+cap:11319062,Powers v. Ohio,1991-04-01,False,False,499 U.S. 400,11319062,harvard_cap,https://cite.case.law/us/499/400/
+cap:11330063,Golden State Transit Corp. v. City of Los Angeles,1989-12-05,False,False,493 U.S. 103,11330063,harvard_cap,https://cite.case.law/us/493/103/
+cap:11330936,Commissioner v. Indianapolis Power & Light Co.,1990-01-09,False,False,493 U.S. 203,11330936,harvard_cap,https://cite.case.law/us/493/203/
+cap:11331541,"Sullivan v. Little Hunting Park, Inc.",1969-12-15,False,False,396 U.S. 229,11331541,harvard_cap,https://cite.case.law/us/396/229/
+cap:11334766,Migra v. Warren City School District Board of Education,1984-01-23,False,False,465 U.S. 75,11334766,harvard_cap,https://cite.case.law/us/465/75/
+cap:11334917,Turner v. United States,1970-01-20,False,False,396 U.S. 398,11334917,harvard_cap,https://cite.case.law/us/396/398/
+cap:11336215,Solem v. Bartlett,1984-02-22,False,False,465 U.S. 463,11336215,harvard_cap,https://cite.case.law/us/465/463/
+cap:11337057,Lynch v. Donnelly,1984-03-05,False,False,465 U.S. 668,11337057,harvard_cap,https://cite.case.law/us/465/668/
+cap:11337155,Heckler v. Mathews,1984-03-05,False,False,465 U.S. 728,11337155,harvard_cap,https://cite.case.law/us/465/728/
+cap:11337939,"Bacchus Imports, Ltd. v. Dias",1984-06-29,False,False,468 U.S. 263,11337939,harvard_cap,https://cite.case.law/us/468/263/
+cap:11338223,Richardson v. United States,1984-06-29,False,False,468 U.S. 317,11338223,harvard_cap,https://cite.case.law/us/468/317/
+cap:11339762,"Regan v. Time, Inc.",1984-07-03,False,False,468 U.S. 641,11339762,harvard_cap,https://cite.case.law/us/468/641/
+cap:11340570,Pittsburgh Press Co. v. Pittsburgh Commission on Human Relations,1973-06-21,False,False,413 U.S. 376,11340570,harvard_cap,https://cite.case.law/us/413/376/
+cap:11341033,Whitus v. Georgia,1967-01-23,False,False,385 U.S. 545,11341033,harvard_cap,https://cite.case.law/us/385/545/
+cap:11341405,Smith v. Robinson,1984-07-05,False,False,468 U.S. 992,11341405,harvard_cap,https://cite.case.law/us/468/992/
+cap:11342283,Shulthis v. McDougal,1912-06-07,False,False,225 U.S. 561,11342283,harvard_cap,https://cite.case.law/us/225/561/
+cap:11343371,Sloan v. Lemon,1973-06-25,False,False,413 U.S. 825,11343371,harvard_cap,https://cite.case.law/us/413/825/
+cap:11470644,Salinas v. United States,1997-12-02,False,False,522 U.S. 52,11470644,harvard_cap,https://cite.case.law/us/522/52/
+cap:11471100,City of Chicago v. International College of Surgeons,1997-12-15,False,False,522 U.S. 156,11471100,harvard_cap,https://cite.case.law/us/522/156/
+cap:11471205,"Bay Area Laundry & Dry Cleaning Pension Trust Fund v. Ferbar Corp. of California, Inc.",1997-12-15,False,False,522 U.S. 192,11471205,harvard_cap,https://cite.case.law/us/522/192/
+cap:11471579,South Dakota v. Yankton Sioux Tribe,1998-01-26,False,False,522 U.S. 329,11471579,harvard_cap,https://cite.case.law/us/522/329/
+cap:11471744,Brogan v. United States,1998-01-26,False,False,522 U.S. 398,11471744,harvard_cap,https://cite.case.law/us/522/398/
+cap:11503127,Lexecon Inc. v. Milberg Weiss Bershad Hynes & Lerach,1998-03-03,False,False,523 U.S. 26,11503127,harvard_cap,https://cite.case.law/us/523/26/
+cap:11503242,"Oncale v. Sundowner Offshore Services, Inc.",1998-03-04,False,False,523 U.S. 75,11503242,harvard_cap,https://cite.case.law/us/523/75/
+cap:11503308,Steel Co. v. Citizens for a Better Environment,1998-03-04,False,False,523 U.S. 83,11503308,harvard_cap,https://cite.case.law/us/523/83/
+cap:11503479,Almendarez-Torres v. United States,1998-03-24,False,False,523 U.S. 224,11503479,harvard_cap,https://cite.case.law/us/523/224/
+cap:11503651,Breard v. Greene,1998-04-14,False,False,523 U.S. 371,11503651,harvard_cap,https://cite.case.law/us/523/371/
+cap:11503836,Edwards v. United States,1998-04-28,False,False,523 U.S. 511,11503836,harvard_cap,https://cite.case.law/us/523/511/
+cap:11503916,Calderon v. Thompson,1998-04-29,False,False,523 U.S. 538,11503916,harvard_cap,https://cite.case.law/us/523/538/
+cap:11504035,Bousley v. United States,1998-05-18,False,False,523 U.S. 614,11504035,harvard_cap,https://cite.case.law/us/523/614/
+cap:11504410,County of Sacramento v. Lewis,1998-05-26,False,False,523 U.S. 833,11504410,harvard_cap,https://cite.case.law/us/523/833/
+cap:11594783,Caterpillar Inc. v. Lewis,1996-12-10,False,False,519 U.S. 61,11594783,harvard_cap,https://cite.case.law/us/519/61/
+cap:11594850,O'Gilvie v. United States,1996-12-10,False,False,519 U.S. 79,11594850,harvard_cap,https://cite.case.law/us/519/79/
+cap:11594972,M. L. B. v. S. L. J.,1996-12-16,False,False,519 U.S. 102,11594972,harvard_cap,https://cite.case.law/us/519/102/
+cap:11595117,United States v. Watts,1997-01-06,False,False,519 U.S. 148,11595117,harvard_cap,https://cite.case.law/us/519/148/
+cap:11595747,Maryland v. Wilson,1997-02-19,False,False,519 U.S. 408,11595747,harvard_cap,https://cite.case.law/us/519/408/
+cap:11596238,United States v. Wells,1997-02-26,False,False,519 U.S. 482,11596238,harvard_cap,https://cite.case.law/us/519/482/
+cap:11642843,Gerstein v. Pugh,1975-02-18,False,False,420 U.S. 103,11642843,harvard_cap,https://cite.case.law/us/420/103/
+cap:11643561,United States v. Wilson,1975-02-25,False,False,420 U.S. 332,11643561,harvard_cap,https://cite.case.law/us/420/332/
+118091,United States v. Gonzales,1997-03-03,False,False,520 U.S. 1,11650897,courtlistener,https://cite.case.law/us/520/1/
+cap:11651123,Adams v. Robertson,1997-03-03,False,False,520 U.S. 83,11651123,harvard_cap,https://cite.case.law/us/520/83/
+cap:11651863,Blessing v. Freestone,1997-04-21,False,False,520 U.S. 329,11651863,harvard_cap,https://cite.case.law/us/520/329/
+cap:11652635,Edwards v. Balisok,1997-05-19,False,False,520 U.S. 641,11652635,harvard_cap,https://cite.case.law/us/520/641/
+cap:11652833,Clinton v. Jones,1997-05-27,False,False,520 U.S. 681,11652833,harvard_cap,https://cite.case.law/us/520/681/
+cap:11652916,United States v. LaBonte,1997-05-27,False,False,520 U.S. 751,11652916,harvard_cap,https://cite.case.law/us/520/751/
+cap:11711728,Younger v. Harris,1971-02-23,False,False,401 U.S. 37,11711728,harvard_cap,https://cite.case.law/us/401/37/
+cap:11712822,Gillette v. United States,1971-03-08,False,False,401 U.S. 437,11712822,harvard_cap,https://cite.case.law/us/401/437/
+cap:11715337,Stone v. Graham,1980-11-17,False,False,449 U.S. 39,11715337,harvard_cap,https://cite.case.law/us/449/39/
+cap:11715506,Allen v. McCurry,1980-12-09,False,False,449 U.S. 90,11715506,harvard_cap,https://cite.case.law/us/449/90/
+cap:11715750,Zahn v. International Paper Co.,1973-12-17,False,False,414 U.S. 291,11715750,harvard_cap,https://cite.case.law/us/414/291/
+cap:11716190,Upjohn Co. v. United States,1981-01-13,False,False,449 U.S. 383,11716190,harvard_cap,https://cite.case.law/us/449/383/
+cap:11716660,Halliburton Oil Well Cementing Co. v. Reily,1963-05-13,False,False,373 U.S. 64,11716660,harvard_cap,https://cite.case.law/us/373/64/
+cap:11716661,Oneida Indian Nation v. County of Oneida,1974-01-21,False,False,414 U.S. 661,11716661,harvard_cap,https://cite.case.law/us/414/661/
+cap:11716714,Brady v. Maryland,1963-05-13,False,False,373 U.S. 83,11716714,harvard_cap,https://cite.case.law/us/373/83/
+cap:11720386,England v. Louisiana State Board of Medical Examiners,1964-01-13,False,False,375 U.S. 411,11720386,harvard_cap,https://cite.case.law/us/375/411/
+cap:11721902,Middlesex County Sewerage Authority v. National Sea Clammers Ass'n,1981-06-25,False,False,453 U.S. 1,11721902,harvard_cap,https://cite.case.law/us/453/1/
+cap:11722549,Haig v. Agee,1981-06-29,False,False,453 U.S. 280,11722549,harvard_cap,https://cite.case.law/us/453/280/
+cap:11722625,"Commissioner v. First Security Bank of Utah, N. A.",1972-03-21,False,False,405 U.S. 394,11722625,harvard_cap,https://cite.case.law/us/405/394/
+cap:11723176,Alexander v. Louisiana,1972-04-03,False,False,405 U.S. 625,11723176,harvard_cap,https://cite.case.law/us/405/625/
+cap:11723264,Commonwealth Edison Co. v. Montana,1981-07-02,False,False,453 U.S. 609,11723264,harvard_cap,https://cite.case.law/us/453/609/
+cap:11726861,Lottery Case,1903-02-23,False,False,188 U.S. 321,11726861,harvard_cap,https://cite.case.law/us/188/321/
+cap:11727752,United States v. Williams,1992-05-04,False,False,504 U.S. 36,11727752,harvard_cap,https://cite.case.law/us/504/36/
+cap:11727878,Northern Pacific Railway Co. v. Soderberg,1903-02-23,False,False,188 U.S. 526,11727878,harvard_cap,https://cite.case.law/us/188/526/
+cap:11728086,Riggins v. Nevada,1992-05-18,False,False,504 U.S. 127,11728086,harvard_cap,https://cite.case.law/us/504/127/
+cap:11728581,United States v. Powell,1964-11-23,False,False,379 U.S. 48,11728581,harvard_cap,https://cite.case.law/us/379/48/
+cap:11729096,"Chemical Waste Management, Inc. v. Hunt",1992-06-01,False,False,504 U.S. 334,11729096,harvard_cap,https://cite.case.law/us/504/334/
+cap:11729213,Hopkins v. Lee,1821-02-12,False,False,19 U.S. 109,11729213,harvard_cap,https://cite.case.law/us/19/109/
+112745,United States v. Thompson/Center Arms Co.,1992-06-08,False,False,504 U.S. 505,11729782,courtlistener,https://cite.case.law/us/504/505/
+cap:11729912,Sochor v. Florida,1992-06-08,False,False,504 U.S. 527,11729912,harvard_cap,https://cite.case.law/us/504/527/
+cap:11730070,Lujan v. Defenders of Wildlife,1992-06-12,False,False,504 U.S. 555,11730070,harvard_cap,https://cite.case.law/us/504/555/
+cap:11730170,"Heart of Atlanta Motel, Inc. v. United States",1964-12-14,False,False,379 U.S. 241,11730170,harvard_cap,https://cite.case.law/us/379/241/
+cap:11730243,Cohens v. Virginia,1821-03-05,False,False,19 U.S. 264,11730243,harvard_cap,https://cite.case.law/us/19/264/
+cap:11730244,Katzenbach v. McClung,1964-12-14,False,False,379 U.S. 294,11730244,harvard_cap,https://cite.case.law/us/379/294/
+cap:11730873,Patterson v. Shumate,1992-06-15,False,False,504 U.S. 753,11730873,harvard_cap,https://cite.case.law/us/504/753/
+cap:11733121,Perez v. United States,1971-04-26,False,False,402 U.S. 146,11733121,harvard_cap,https://cite.case.law/us/402/146/
+cap:11733438,McGautha v. California,1971-05-03,False,False,402 U.S. 183,11733438,harvard_cap,https://cite.case.law/us/402/183/
+cap:11738091,Calder v. Wife,1798-08,False,False,3 U.S. 386,11738091,harvard_cap,https://cite.case.law/us/3/386/
+cap:11744707,Florida State Board of Dentistry v. Mack,1971-03-08,False,False,401 U.S. 960,11744707,harvard_cap,https://cite.case.law/us/401/960/
+cap:11745611,"44 Liquormart, Inc. v. Rhode Island",1996-05-13,False,False,517 U.S. 484,11745611,harvard_cap,https://cite.case.law/us/517/484/
+cap:11746351,Ornelas v. United States,1996-05-28,False,False,517 U.S. 690,11746351,harvard_cap,https://cite.case.law/us/517/690/
+cap:11746523,"Smiley v. Citibank (South Dakota), N. A.",1996-06-03,False,False,517 U.S. 735,11746523,harvard_cap,https://cite.case.law/us/517/735/
+cap:11746960,Whren v. United States,1996-06-10,False,False,517 U.S. 806,11746960,harvard_cap,https://cite.case.law/us/517/806/
+cap:11926101,Pennsylvania Coal Co. v. Mahon,1922-12-11,False,False,260 U.S. 393,11926101,harvard_cap,https://cite.case.law/us/260/393/
+cap:11957079,Doe v. Bolton,1973-01-22,False,False,410 U.S. 179,11957079,harvard_cap,https://cite.case.law/us/410/179/
+cap:11957553,United States v. Basye,1973-02-27,False,False,410 U.S. 441,11957553,harvard_cap,https://cite.case.law/us/410/441/
+cap:11957849,Linda R. S. v. Richard D.,1973-03-05,False,False,410 U.S. 614,11957849,harvard_cap,https://cite.case.law/us/410/614/
+cap:11957909,Ohio v. Kentucky,1973-03-05,False,False,410 U.S. 641,11957909,harvard_cap,https://cite.case.law/us/410/641/
+cap:11958967,"Park 'N Fly, Inc. v. Dollar Park & Fly, Inc.",1985-01-08,False,False,469 U.S. 189,11958967,harvard_cap,https://cite.case.law/us/469/189/
+cap:11959535,Evitts v. Lucey,1985-01-21,False,False,469 U.S. 387,11959535,harvard_cap,https://cite.case.law/us/469/387/
+cap:11960082,United States v. Maine,1985-02-19,False,False,469 U.S. 504,11960082,harvard_cap,https://cite.case.law/us/469/504/
+cap:12026449,Mathews v. Eldridge,1976-02-24,False,False,424 U.S. 319,12026449,harvard_cap,https://cite.case.law/us/424/319/
+cap:12027375,Paul v. Davis,1976-03-23,False,False,424 U.S. 693,12027375,harvard_cap,https://cite.case.law/us/424/693/
+cap:12027402,Lemon v. Kurtzman,1971-06-28,False,False,403 U.S. 602,12027402,harvard_cap,https://cite.case.law/us/403/602/
+cap:12027510,Colorado River Water Conservation District v. United States,1976-03-24,False,False,424 U.S. 800,12027510,harvard_cap,https://cite.case.law/us/424/800/
+cap:12031841,DeShaney v. Winnebago County Department of Social Services,1989-02-22,False,False,489 U.S. 189,12031841,harvard_cap,https://cite.case.law/us/489/189/
+cap:12032050,Teague v. Lane,1989-02-22,False,False,489 U.S. 288,12032050,harvard_cap,https://cite.case.law/us/489/288/
+cap:12041092,Brookhart v. Janis,1966-04-18,False,False,384 U.S. 1,12041092,harvard_cap,https://cite.case.law/us/384/1/
+cap:12047533,Wisconsin v. Constantineau,1971-01-19,False,False,400 U.S. 433,12047533,harvard_cap,https://cite.case.law/us/400/433/
+cap:12050581,"Pike v. Bruce Church, Inc.",1970-03-02,False,False,397 U.S. 137,12050581,harvard_cap,https://cite.case.law/us/397/137/
+cap:12054264,Illinois v. Allen,1970-03-31,False,False,397 U.S. 337,12054264,harvard_cap,https://cite.case.law/us/397/337/
+cap:12054393,In re Winship,1970-03-31,False,False,397 U.S. 358,12054393,harvard_cap,https://cite.case.law/us/397/358/
+cap:12058013,Walz v. Tax Commission of New York,1970-05-04,False,False,397 U.S. 664,12058013,harvard_cap,https://cite.case.law/us/397/664/
+cap:12058121,Rowan v. United States Post Office Department,1970-05-04,False,False,397 U.S. 728,12058121,harvard_cap,https://cite.case.law/us/397/728/
+cap:12058257,Brady v. United States,1970-05-04,False,False,397 U.S. 742,12058257,harvard_cap,https://cite.case.law/us/397/742/
+cap:12121452,Keller v. State Bar of California,1990-06-04,False,False,496 U.S. 1,12121452,harvard_cap,https://cite.case.law/us/496/1/
+cap:12122066,Horton v. California,1990-06-04,False,False,496 U.S. 128,12122066,harvard_cap,https://cite.case.law/us/496/128/
+cap:12123142,"Complete Auto Transit, Inc. v. Brady",1977-03-07,False,False,430 U.S. 274,12123142,harvard_cap,https://cite.case.law/us/430/274/
+cap:12123304,Howlett ex rel. Howlett v. Rose,1990-06-11,False,False,496 U.S. 356,12123304,harvard_cap,https://cite.case.law/us/496/356/
+cap:12123482,Cooter & Gell v. Hartmarx Corp.,1990-06-11,False,False,496 U.S. 384,12123482,harvard_cap,https://cite.case.law/us/496/384/
+cap:12124224,Wilder v. Virginia Hospital Ass'n,1990-06-14,False,False,496 U.S. 498,12124224,harvard_cap,https://cite.case.law/us/496/498/
+cap:12124278,Gardner v. Florida,1977-03-22,False,False,430 U.S. 349,12124278,harvard_cap,https://cite.case.law/us/430/349/
+cap:12125303,"Lilly v. Medtronic, Inc.",1990-06-18,False,False,496 U.S. 661,12125303,harvard_cap,https://cite.case.law/us/496/661/
+cap:12126181,United States v. Martin Linen Supply Co.,1977-04-04,False,False,430 U.S. 564,12126181,harvard_cap,https://cite.case.law/us/430/564/
+cap:12126408,Rosebud Sioux Tribe v. Kneip,1977-04-04,False,False,430 U.S. 584,12126408,harvard_cap,https://cite.case.law/us/430/584/
+cap:12127286,Wooley v. Maynard,1977-04-20,False,False,430 U.S. 705,12127286,harvard_cap,https://cite.case.law/us/430/705/

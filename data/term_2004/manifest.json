@@ -1,0 +1,46 @@
+{
+  "built_at": "2026-10-07T00:03:46.030397+00:00",
+  "term": 2004,
+  "scdb_release": "2025_01",
+  "scdb_term_cases": 80,
+  "argued_cases": 76,
+  "included_source_cases": 70,
+  "cases_needing_review": 5,
+  "argued_cases_excluded_no_majority": 1,
+  "unargued_cases_excluded": 4,
+  "nodes": 882,
+  "binary_edges": 923,
+  "full_US_citation_entries_checked_against_majority_text": 981,
+  "unit_of_analysis": "SCDB case-centered citation units; consolidated disputes counted once",
+  "citation_review_counts": {
+    "ambiguous_target": 80,
+    "unresolved_target": 2,
+    "target_not_SCOTUS": 1
+  },
+  "source_ids_without_edges": [],
+  "scope": "SCDB term=2004 with oral argument date and decisionType in {1,6}; only clearly separable majority opinions. Five mixed/plurality or malformed opinion records held for review. SCOTUS targets from any date up to the source decision; one directed edge per distinct case pair.",
+  "sources": {
+    "scdb": "https://scdb.la.psu.edu/data/2025-release-01/",
+    "scdb_codebook": "https://scdb.la.psu.edu/online-codebook/decision-type/",
+    "opinion_archive": "https://static.case.law/",
+    "legacy_ids": "CourtListener sample cache, retained only for unambiguous reporter-citation matches"
+  },
+  "limitations": [
+    "This is a 70-case reviewed subset of the 76 argued decisions, not complete majority-section coverage.",
+    "Automated archive citation extraction and OCR are imperfect; unresolved and ambiguous targets are omitted and logged.",
+    "Archive opinion_index links citations to opinion blocks; no dissent, concurrence, or head-matter citations are intentionally included.",
+    "Five cases need section-level review before inclusion; see case_review.csv.",
+    "Archive extraction weights are provenance only, not verified counts of all mentions; graph edges remain binary.",
+    "Cited-only cases have not had outgoing citations collected; an empty adjacency list does not mean they cited nothing.",
+    "Future 2024 comparison requires a comparable acquisition/extraction method and coverage audit; Harvard archive ends before 2024."
+  ],
+  "compatibility": "Existing sample CourtListener IDs are retained when uniquely matched. New IDs have a cap: prefix. Treat all case_id values as opaque strings. is_sample_source is a compatibility alias for is_source.",
+  "input_sha256": {
+    "scdb.zip": "bc2a4e3f1626c47a3242a149609fd081d4ee618ae0d47bc87e467d7d6f27b524",
+    "term-roster.json": "bd590bea56b16c6711be288468b3d97bd66de938db3d9e74ec69d3f3c4390a45",
+    "source-cases.json": "37150a1980bd422e99843eac338a435b79289ba6bfedecc66eac954980a52440",
+    "target-cases.json": "d581c554b388d4898390769dc1a9f37f56b30a35b61d176e8dd1be1b0f70d401",
+    "case-flags.json": "df101dc07f2c692df09045e19805aca6b3b1e3c43d686fd0fc46d15dda50a6ab",
+    "legacy_ids.json": "bbf33d98eedf0f7bad0d8e907f848e72cd4854994504b1b79b0c65c523adcf2a"
+  }
+}

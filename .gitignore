@@ -1,0 +1,22 @@
+# Local credentials
+.courtlistener-token
+.env
+.env.*
+!.env.example
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Raw acquisition caches and historical local backups
+data/raw/
+data/term_2004/raw/
+data/term_2024/raw/
+data/archive/
+
+# Operating system files
+.DS_Store

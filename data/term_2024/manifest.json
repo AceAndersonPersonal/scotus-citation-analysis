@@ -1,0 +1,45 @@
+{
+  "term": 2024,
+  "built_at": "2026-10-07T05:43:52.977132+00:00",
+  "scdb_release": "2025_01",
+  "scdb_term_cases": 64,
+  "included_source_cases": 58,
+  "case_review_counts": {
+    "included": 58,
+    "needs_review": 1,
+    "excluded": 5
+  },
+  "nodes": 803,
+  "binary_edges": 879,
+  "citation_review_counts": {
+    "unresolved_target": 65,
+    "ambiguous_target": 1,
+    "unpaginated_citation_needs_review": 2
+  },
+  "sources_without_edges": [
+    "Facebook, Inc. v. Amalgamated Bank",
+    "NVIDIA v. E. Ohman J:or Fonder AB",
+    "Laboratory Corp. of America Holdings v. Davis"
+  ],
+  "scope": "Same SCDB argued decision types {1,6} as 2004; whole majority/per-curiam opinions only; Hewitt held for mixed majority/plurality sections. Directed binary links to SCOTUS cases, including majority footnotes.",
+  "input_method": "Official preliminary-print PDFs; pypdf page-order text plus pdfplumber body flow to bridge page breaks interrupted by footnotes. US Reports and nominative citations resolved via SCDB, official term indexes, and Harvard reporter metadata.",
+  "limitations": [
+    "Citation parsing and PDF segmentation require audits; unresolved or ambiguous references are logged, not guessed.",
+    "Different extraction method from 2004 Harvard opinion_index links; comparisons require source-method sensitivity checks.",
+    "Binary edges do not measure agreement, importance, or number of mentions.",
+    "Only complete US Reports/nominative citations are recognized; short forms alone cannot establish new target identities.",
+    "Cited-only nodes have no outgoing citations collected.",
+    "DIG per-curiam decisions are included under the same SCDB type/argument rule, and can have zero edges.",
+    "Procedural history references are not globally removed; unresolved order citations must be distinguished from missing substantive precedents."
+  ],
+  "source_urls": [
+    "https://www.supremecourt.gov/opinions/slipopinion/24",
+    "https://scdb.la.psu.edu/data/2025-release-01/",
+    "https://static.case.law/"
+  ],
+  "input_sha256": {
+    "scdb.zip": "bc2a4e3f1626c47a3242a149609fd081d4ee618ae0d47bc87e467d7d6f27b524",
+    "term-roster.json": "7dabfca5bc3fdfc436bdf1a71ee0d675959168509be73ecaf42ed8638c67d816"
+  },
+  "id_policy": "Existing 2004 IDs preserved on exact US citation matches; new nodes use us:volume:first_page. Treat IDs as opaque strings."
+}

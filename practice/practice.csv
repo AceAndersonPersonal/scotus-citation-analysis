@@ -1,0 +1,4 @@
+case_id,case_name,is_source
+101,Example Case A,True
+102,Example Case B,False
+103,Example Case C,True

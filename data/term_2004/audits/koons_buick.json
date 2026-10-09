@@ -1,0 +1,159 @@
+{
+  "audit_date": "2026-10-06",
+  "auditor": "Codex (AI-assisted reading and local data checks)",
+  "source_case": {
+    "case_id": "137728",
+    "cap_id": "5956351",
+    "name": "KOONS BUICK PONTIAC GMC, INC. v. NIGH",
+    "citation": "543 U.S. 50"
+  },
+  "reference_url": "https://supreme.justia.com/cases/federal/us/543/50/",
+  "scope": "Distinct SCOTUS precedents cited in the majority opinion, including all ten footnotes. Syllabus and separate opinions excluded as source text; procedural history recorded separately.",
+  "method": "Read majority body and footnotes; compare each recorded edge with the opinion text and cases.csv identity; inspect separate opinions for leakage and scan majority for missing precedents. Citation frequency and rhetorical role were not audited.",
+  "result": {
+    "status": "pass_for_substantive_precedent_edges",
+    "recorded_edges": 6,
+    "verified_edges": 6,
+    "missed_substantive_scotus_precedents": 0,
+    "separate_opinion_only_edges_in_graph": 0,
+    "dataset_corrections_required": false
+  },
+  "verified_edges": [
+    {
+      "cited_case_id": "101420",
+      "name": "Roschen v. Ward",
+      "citation": "279 U.S. 337",
+      "location": "Majority, Part III"
+    },
+    {
+      "cited_case_id": "111963",
+      "name": "Church of Scientology v. Internal Revenue Service",
+      "citation": "484 U.S. 9",
+      "location": "Majority, Part III"
+    },
+    {
+      "cited_case_id": "111984",
+      "name": "United Savings Ass'n v. Timbers of Inwood Forest Associates, Ltd.",
+      "citation": "484 U.S. 365",
+      "location": "Majority, Part III"
+    },
+    {
+      "cited_case_id": "112589",
+      "name": "McCarthy v. Bronson",
+      "citation": "500 U.S. 136",
+      "location": "Majority, Part III"
+    },
+    {
+      "cited_case_id": "112866",
+      "name": "Smith v. United States",
+      "citation": "508 U.S. 223",
+      "location": "Majority, Part III"
+    },
+    {
+      "cited_case_id": "112877",
+      "name": "United States National Bank v. Independent Insurance Agents of America, Inc.",
+      "citation": "508 U.S. 439",
+      "location": "Majority, Part III"
+    }
+  ],
+  "separate_opinion_only_precedents": [
+    {
+      "name": "United States v. Fisher",
+      "citation": "2 Cranch 358",
+      "location": "Stevens concurrence",
+      "correctly_absent_from_source_edges": true
+    },
+    {
+      "name": "United States v. American Trucking Assns., Inc.",
+      "citation": "310 U.S. 534",
+      "location": "Stevens concurrence",
+      "correctly_absent_from_source_edges": true
+    },
+    {
+      "name": "United States v. Locke",
+      "citation": "471 U.S. 84",
+      "location": "Stevens concurrence",
+      "correctly_absent_from_source_edges": true
+    },
+    {
+      "name": "United States v. James",
+      "citation": "478 U.S. 597",
+      "location": "Stevens concurrence",
+      "correctly_absent_from_source_edges": true
+    },
+    {
+      "name": "Wisconsin Public Intervenor v. Mortier",
+      "citation": "501 U.S. 597",
+      "location": "Stevens concurrence",
+      "correctly_absent_from_source_edges": true
+    },
+    {
+      "name": "Barnhart v. Sigmon Coal Co.",
+      "citation": "534 U.S. 438",
+      "location": "Stevens concurrence",
+      "correctly_absent_from_source_edges": true
+    },
+    {
+      "name": "United States v. Ron Pair Enterprises, Inc.",
+      "citation": "489 U.S. 235",
+      "location": "Kennedy concurrence",
+      "correctly_absent_from_source_edges": true
+    },
+    {
+      "name": "Connecticut National Bank v. Germain",
+      "citation": "503 U.S. 249",
+      "location": "Kennedy concurrence",
+      "correctly_absent_from_source_edges": true
+    },
+    {
+      "name": "Lamie v. United States Trustee",
+      "citation": "540 U.S. 526",
+      "location": "Kennedy concurrence; Thomas concurrence in judgment; Scalia dissent",
+      "correctly_absent_from_source_edges": true
+    },
+    {
+      "name": "Morales v. Trans World Airlines, Inc.",
+      "citation": "504 U.S. 374",
+      "location": "Scalia dissent",
+      "correctly_absent_from_source_edges": true
+    }
+  ],
+  "shared_precedent": {
+    "name": "Church of Scientology v. Internal Revenue Service",
+    "citation": "484 U.S. 9",
+    "locations": [
+      "majority",
+      "Scalia dissent"
+    ],
+    "result": "Correctly retained once as a binary majority edge."
+  },
+  "procedural_history_exception": {
+    "citation": "540 U.S. 1148 (2004)",
+    "location": "Majority, end of Part II",
+    "meaning": "Grant of certiorari in this same litigation",
+    "in_graph": false,
+    "current_pipeline_reason": "ambiguous_target",
+    "candidate_count": 8,
+    "review_records": [
+      {
+        "source_case_id": "137728",
+        "source_case_name": "Koons Buick Pontiac GMC, Inc. v. Nigh",
+        "citation_text": "540 U. S. 1148",
+        "reason": "ambiguous_target",
+        "candidate_cap_ids": "[9038272, 9038181, 9038310, 9038154, 9038352, 9038130, 9038204, 9038237]"
+      }
+    ],
+    "note": "Omission currently results from ambiguous archive resolution, not an implemented procedural-history exclusion rule. This audit does not claim complete inclusion of all SCOTUS references."
+  },
+  "limitations": [
+    "One case audit does not establish accuracy or completeness of the full dataset.",
+    "Binary case links only; repeated mentions are not counted."
+  ],
+  "input_sha256": {
+    "data/term_2004/raw/source-cases.json": "37150a1980bd422e99843eac338a435b79289ba6bfedecc66eac954980a52440",
+    "data/term_2004/cases.csv": "8871d91f01f94784f53d29af845090a4c454a4597d3eed79336f032a66a96b43",
+    "data/term_2004/citations.csv": "b17ebaaacbaa02363904db6ea745a17974f4b84056387c3103e43729e824a873",
+    "data/term_2004/citation_review.csv": "a17d95dba89e98d5dc93b26f2eaa3e71c1b59d658597da78567e59e10fca72e2"
+  },
+  "majority_text_sha256": "1f992460e65e66e468d86c68186f01d476cd70073de9385664a5e2897877e350"
+}

@@ -1,0 +1,81 @@
+scdb_id,case_name,us_citation,date_argument,decision_type,status,reason,case_id,cap_url
+2004-001,Leocal v. Ashcroft,543 U.S. 1,10/12/2004,1,included,SCDB argued decision; separately identifiable majority opinion,137725,https://static.case.law/us/543/cases/0001-01.json
+2004-002,"Norfolk Southern Railway Co. v. James N. Kirby, Pty Ltd.",543 U.S. 14,10/6/2004,1,included,SCDB argued decision; separately identifiable majority opinion,137726,https://static.case.law/us/543/cases/0014-01.json
+2004-003,LAROYCE LATHAIR SMITH v. TEXAS,543 U.S. 37,,2,excluded,No oral argument recorded in SCDB,,
+2004-004,"Koons Buick Pontiac GMC, Inc. v. Nigh",543 U.S. 50,10/5/2004,1,included,SCDB argued decision; separately identifiable majority opinion,137728,https://static.case.law/us/543/cases/0050-01.json
+2004-005,"CITY OF SAN DIEGO, CALIFORNIA et al. v. JOHN ROE",543 U.S. 77,,2,excluded,No oral argument recorded in SCDB,,
+2004-006,Kansas v. Colorado,543 U.S. 86,10/4/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5963304,https://static.case.law/us/543/cases/0086-01.json
+2004-007,"KP Permanent Make-Up, Inc. v. Lasting Impression I, Inc.",543 U.S. 111,10/5/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5916387,https://static.case.law/us/543/cases/0111-01.json
+2004-008,Kowalski v. Tesmer,543 U.S. 125,10/4/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:3441929,https://static.case.law/us/543/cases/0125-01.json
+2004-009,Devenpeck v. Alford,543 U.S. 146,11/8/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5916678,https://static.case.law/us/543/cases/0146-01.json
+2004-010,"Cooper Industries, Inc. v. Aviall Services, Inc.",543 U.S. 157,10/6/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5919359,https://static.case.law/us/543/cases/0157-01.json
+2004-011,Florida v. Nixon,543 U.S. 175,11/2/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:3427198,https://static.case.law/us/543/cases/0175-01.json
+2004-012,ROCHELLE BROSSEAU v. KENNETH J. HAUGEN,543 U.S. 194,,2,excluded,No oral argument recorded in SCDB,,
+2004-013,Whitfield v. United States,543 U.S. 209,11/30/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5948643,https://static.case.law/us/543/cases/0209-01.json
+2004-014,United States v. Booker,543 U.S. 220,10/4/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5925862,https://static.case.law/us/543/cases/0220-01.json
+2004-015,Jama v. Immigration & Customs Enforcement,543 U.S. 335,10/12/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5884234,https://static.case.law/us/543/cases/0335-01.json
+2004-016,Clark v. Martinez,543 U.S. 371,10/13/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:3442797,https://static.case.law/us/543/cases/0371-01.json
+2004-017,Illinois v. Caballes,543 U.S. 405,11/10/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5902584,https://static.case.law/us/543/cases/0405-01.json
+2004-018,Commissioner v. Banks,543 U.S. 426,11/1/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5977915,https://static.case.law/us/543/cases/0426-01.json
+2004-019,Howell v. Mississippi,543 U.S. 440,11/29/2004,6,included,SCDB argued decision; separately identifiable majority opinion,cap:5980411,https://static.case.law/us/543/cases/0440-01.json
+2004-020,"RICKY BELL, WARDEN v. GARY BRADFORD CONE",543 U.S. 447,,2,excluded,No oral argument recorded in SCDB,,
+2004-021,Smith v. Massachusetts,543 U.S. 462,12/1/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5967659,https://static.case.law/us/543/cases/0462-01.json
+2004-022,Stewart v. Dutra Construction Co.,543 U.S. 481,11/1/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5867237,https://static.case.law/us/543/cases/0481-01.json
+2004-023,Johnson v. California,543 U.S. 499,11/2/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:3440584,https://static.case.law/us/543/cases/0499-01.json
+2004-024,Roper v. Simmons,543 U.S. 551,10/13/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5928574,https://static.case.law/us/543/cases/0551-01.json
+2004-025,Cherokee Nation v. Leavitt,543 U.S. 631,11/9/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:3427314,https://static.case.law/us/543/cases/0631-01.json
+2004-026,Tenet v. Doe,544 U.S. 1,1/11/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5885592,https://static.case.law/us/544/cases/0001-01.json
+2004-027,Shepard v. United States,544 U.S. 13,11/8/2004,1,needs_review,mixed_majority_plurality_sections,cap:5879404,https://static.case.law/us/544/cases/0013-01.json
+2004-028,Ballard v. Commissioner,544 U.S. 40,12/7/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5891064,https://static.case.law/us/544/cases/0040-01.json
+2004-029,Wilkinson v. Dotson,544 U.S. 74,12/6/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5883802,https://static.case.law/us/544/cases/0074-01.json
+2004-030,Muehler v. Mena,544 U.S. 93,12/8/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5902037,https://static.case.law/us/544/cases/0093-01.json
+2004-031,City of Rancho Palos Verdes v. Abrams,544 U.S. 113,1/19/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5888862,https://static.case.law/us/544/cases/0113-01.json
+2004-032,Brown v. Payton,544 U.S. 133,11/10/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5872977,https://static.case.law/us/544/cases/0133-01.json
+2004-033,Jackson v. Birmingham Board of Education,544 U.S. 167,11/30/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:3537908,https://static.case.law/us/544/cases/0167-01.json
+2004-034,City of Sherrill v. Oneida Indian Nation,544 U.S. 197,1/11/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5913534,https://static.case.law/us/544/cases/0197-01.json
+2004-035,Smith v. City of Jackson,544 U.S. 228,11/3/2004,1,needs_review,mixed_majority_plurality_sections,cap:5877522,https://static.case.law/us/544/cases/0228-01.json
+2004-036,Rhines v. Weber,544 U.S. 269,1/12/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5874681,https://static.case.law/us/544/cases/0269-01.json
+2004-037,Exxon Mobil Corp. v. Saudi Basic Industries Corp.,544 U.S. 280,2/23/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5920496,https://static.case.law/us/544/cases/0280-01.json
+2004-038,Johnson v. United States,544 U.S. 295,1/18/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5875345,https://static.case.law/us/544/cases/0295-01.json
+2004-039,Rousey v. Jacoway,544 U.S. 320,12/1/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5870372,https://static.case.law/us/544/cases/0320-01.json
+2004-040,"Dura Pharmaceuticals, Inc. v. Broudo",544 U.S. 336,1/12/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5891157,https://static.case.law/us/544/cases/0336-01.json
+2004-041,Pasquantino v. United States,544 U.S. 349,11/9/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5907297,https://static.case.law/us/544/cases/0349-01.json
+2004-042,Small v. United States,544 U.S. 385,11/3/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5914041,https://static.case.law/us/544/cases/0385-01.json
+2004-043,Pace v. DiGuglielmo,544 U.S. 408,2/28/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5869462,https://static.case.law/us/544/cases/0408-01.json
+2004-044,Bates v. Dow Agrosciences LLC,544 U.S. 431,1/10/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5880369,https://static.case.law/us/544/cases/0431-01.json
+2004-045,Granholm v. Heald,544 U.S. 460,12/7/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5881890,https://static.case.law/us/544/cases/0460-01.json
+2004-046,Lingle v. Chevron U. S. A. Inc.,544 U.S. 528,2/22/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5879370,https://static.case.law/us/544/cases/0528-01.json
+2004-047,Johanns v. Livestock Marketing Ass'n,544 U.S. 550,12/8/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5872909,https://static.case.law/us/544/cases/0550-01.json
+2004-048,Clingman v. Beaver,544 U.S. 581,1/19/2005,1,needs_review,mixed_majority_plurality_sections,cap:5872036,https://static.case.law/us/544/cases/0581-01.json
+2004-049,Deck v. Missouri,544 U.S. 622,3/1/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5869317,https://static.case.law/us/544/cases/0622-01.json
+2004-050,Medellin v. Dretke,544 U.S. 660,3/28/2005,6,included,SCDB argued decision; separately identifiable majority opinion,cap:5878906,https://static.case.law/us/544/cases/0660-01.json
+2004-051,Arthur Andersen LLP v. United States,544 U.S. 696,4/27/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5909771,https://static.case.law/us/544/cases/0696-01.json
+2004-052,Cutter v. Wilkinson,544 U.S. 709,3/21/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5868782,https://static.case.law/us/544/cases/0709-01.json
+2004-053,Tory v. Cochran,544 U.S. 734,3/22/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:5881392,https://static.case.law/us/544/cases/0734-01.json
+2004-054,Gonzales v. Raich,545 U.S. 1,11/29/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8208788,https://static.case.law/us/545/cases/0001-01.json
+2004-055,Alaska v. United States,545 U.S. 75,1/10/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8208840,https://static.case.law/us/545/cases/0075-01.json
+2004-056,Spector v. Norwegian Cruise Line Ltd.,545 U.S. 119,2/28/2005,1,needs_review,mixed_majority_plurality_sections,cap:8208887,https://static.case.law/us/545/cases/0119-01.json
+2004-057,Johnson v. California,545 U.S. 162,4/18/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8208918,https://static.case.law/us/545/cases/0162-01.json
+2004-058,Bradshaw v. Stumpf,545 U.S. 175,4/19/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8208966,https://static.case.law/us/545/cases/0175-01.json
+2004-059,"Merck KGaA v. Integra Lifesciences I, Ltd.",545 U.S. 193,4/20/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8209013,https://static.case.law/us/545/cases/0193-01.json
+2004-060,Wilkinson v. Austin,545 U.S. 209,3/30/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8209063,https://static.case.law/us/545/cases/0209-01.json
+2004-061,Miller-El v. Dretke,545 U.S. 231,12/6/2004,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8209132,https://static.case.law/us/545/cases/0231-01.json
+2004-062,"Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing",545 U.S. 308,4/18/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8209152,https://static.case.law/us/545/cases/0308-01.json
+2004-063,"San Remo Hotel, L. P. v. City & County of San Francisco",545 U.S. 323,3/28/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8209191,https://static.case.law/us/545/cases/0323-01.json
+2004-064,Dodd v. United States,545 U.S. 353,3/22/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8209230,https://static.case.law/us/545/cases/0353-01.json
+2004-065,Rompilla v. Beard,545 U.S. 374,1/18/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8209271,https://static.case.law/us/545/cases/0374-01.json
+2004-066,Graham County Soil & Water Conservation District v. United States ex rel. Wilson,545 U.S. 409,4/20/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8209311,https://static.case.law/us/545/cases/0409-01.json
+2004-067,"American Trucking Associations, Inc. v. Michigan Public Service Commission",545 U.S. 429,4/26/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8209338,https://static.case.law/us/545/cases/0429-01.json
+2004-068,"Mid-Con Freight Systems, Inc. v. Michigan Public Service Commission",545 U.S. 440,4/26/2005,1,needs_review,dissent_merged_into_majority_record,cap:8209379,https://static.case.law/us/545/cases/0440-01.json
+2004-069,Kelo v. City of New London,545 U.S. 469,2/22/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8209431,https://static.case.law/us/545/cases/0469-01.json
+2004-070,Gonzalez v. Crosby,545 U.S. 524,4/25/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8209485,https://static.case.law/us/545/cases/0524-01.json
+2004-071,"Exxon Mobil Corp. v. Allapattah Services, Inc.",545 U.S. 546,3/1/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8209559,https://static.case.law/us/545/cases/0546-01.json
+2004-072,Orff v. United States,545 U.S. 596,2/23/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8209584,https://static.case.law/us/545/cases/0596-01.json
+2004-073,Halbert v. Michigan,545 U.S. 605,4/25/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8209670,https://static.case.law/us/545/cases/0605-01.json
+2004-074,Mayle v. Felix,545 U.S. 644,4/19/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8209728,https://static.case.law/us/545/cases/0644-01.json
+2004-075,"THOMAS VAN ORDEN v. RICK PERRY, IN HIS OFFICIAL CAPACITY AS GOVERNOR OF TEXAS AND CHAIRMAN, STATE PRESERVATION BOARD, et al.",545 U.S. 677,3/2/2005,7,excluded,SCDB judgment of Court without a majority opinion,,
+2004-076,Town of Castle Rock v. Gonzales,545 U.S. 748,3/21/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8209863,https://static.case.law/us/545/cases/0748-01.json
+2004-077,Bell v. Thompson,545 U.S. 794,4/26/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8209946,https://static.case.law/us/545/cases/0794-01.json
+2004-078,McCreary County v. American Civil Liberties Union,545 U.S. 844,3/2/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8210003,https://static.case.law/us/545/cases/0844-01.json
+2004-079,"Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd.",545 U.S. 913,3/29/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8210147,https://static.case.law/us/545/cases/0913-01.json
+2004-080,National Cable & Telecommunications Ass'n v. Brand X Internet Services,545 U.S. 967,3/29/2005,1,included,SCDB argued decision; separately identifiable majority opinion,cap:8210237,https://static.case.law/us/545/cases/0967-01.json
