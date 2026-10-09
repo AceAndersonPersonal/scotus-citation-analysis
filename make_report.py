@@ -6,6 +6,7 @@ The analysis functions live in start.py; this file handles presentation.
 """
 
 import argparse
+import csv
 import hashlib
 import json
 import math
@@ -141,6 +142,46 @@ def make_chart(results, output_dir):
     return svg_path
 
 
+def make_rankings_html(results):
+    """Build escaped case tables; the cutoff includes ties beyond ten rows."""
+    tables = []
+    for result in results:
+        summary = result["summary"]
+        rows = []
+        for row in summary["leading_precedents"]:
+            rows.append(
+                f"<tr><td>{row['rank']}</td>"
+                f"<th scope='row' class='case-name'>{escape(row['case_name'])}</th>"
+                f"<td>{row['citing_source_cases']}</td>"
+                f"<td>{row['source_case_share']:.1%}</td></tr>"
+            )
+        tables.append(
+            f"<h3>{summary['term']} Term</h3>"
+            f"<p>{len(rows)} cases shown, including all ties at the tenth position. "
+            f"Percentage denominator: {summary['source_cases']} source cases.</p>"
+            "<div class='table-wrap'><table class='ranking-table'>"
+            "<colgroup><col style='width:8%'><col style='width:52%'>"
+            "<col style='width:20%'><col style='width:20%'></colgroup>"
+            "<thead><tr><th scope='col'>Rank</th><th scope='col' class='case-name'>Cited case</th>"
+            "<th scope='col'>Citing source cases</th><th scope='col'>Share of source cases</th>"
+            "</tr></thead><tbody>" + "".join(rows) + "</tbody></table></div>"
+        )
+    return "".join(tables)
+
+
+def write_rankings_csv(results, output_dir):
+    """Export the same ranked rows displayed in the report."""
+    fields = ["term", "rank", "case_id", "case_name", "citing_source_cases",
+              "source_cases", "source_case_share"]
+    with (output_dir / "cited_precedent_rankings.csv").open("w", newline="", encoding="utf-8") as file:
+        writer = csv.DictWriter(file, fieldnames=fields)
+        writer.writeheader()
+        for result in results:
+            summary = result["summary"]
+            for row in summary["leading_precedents"]:
+                writer.writerow({"term": summary["term"], "source_cases": summary["source_cases"], **row})
+
+
 def make_html(results, svg_path, output_dir):
     first, second = [result["summary"] for result in results]
     source_total = sum(result["summary"]["source_cases"] for result in results)
@@ -153,6 +194,7 @@ def make_html(results, svg_path, output_dir):
             f"<td>{s['edges']:,}</td><td>{s['average_out_degree']:.2f}</td>"
             f"<td>{s['average_citation_age']:.2f}</td><td>{s['median_citation_age']:.0f}</td></tr>"
         )
+    rankings_html = make_rankings_html(results)
     coverage_rows = []
     for result in results:
         s, m = result["summary"], result["manifest"]
@@ -178,7 +220,7 @@ def make_html(results, svg_path, output_dir):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Distribution of Supreme Court Citation Ages — 2004 and 2024 Terms</title>
+<title>Supreme Court Citation Age and Precedent Reuse — 2004 and 2024 Terms</title>
 <style>
 :root {{ color-scheme: light; --ink:#172d3d; --muted:#526571; --line:#dce5ea; }}
 * {{ box-sizing:border-box; }}
@@ -186,6 +228,8 @@ body {{ margin:0; background:#f2f5f6; color:var(--ink); font:16px/1.6 system-ui,
 main {{ max-width:1120px; margin:36px auto; background:white; padding:48px 56px; border:1px solid var(--line); border-radius:12px; }}
 .eyebrow {{ color:#226b88; font-size:12px; font-weight:750; letter-spacing:.12em; text-transform:uppercase; }}
 h1 {{ font-size:clamp(30px,4vw,43px); line-height:1.15; margin:10px 0 16px; letter-spacing:-.025em; }}
+.ranking-table {{ table-layout:fixed; }}
+.ranking-table .case-name {{ text-align:left; overflow-wrap:anywhere; font-weight:500; }}
 h2 {{ font-size:22px; margin:28px 0 10px; line-height:1.25; }}
 p {{ margin:10px 0 16px; }}
 .lead {{ font-size:18px; max-width:850px; color:var(--muted); }}
@@ -213,7 +257,7 @@ footer {{ margin-top:28px; padding-top:18px; border-top:1px solid var(--line); c
 </head>
 <body><main>
 <div class="eyebrow">Supreme Court Citation Networks · Exploratory Comparative Analysis</div>
-<h1>Distribution of Supreme Court Citation Ages</h1>
+<h1>Supreme Court Citation Age and Precedent Reuse</h1>
 <p class="lead">An exploratory comparison of observed citation links from the October 2004 and 2024 terms. A directed edge connects a source opinion to a Supreme Court case it cites.</p>
 <span class="tag">Python · Adjacency lists · CSV</span><span class="tag">{source_total:,} source opinions · {link_total:,} links</span>
 <figure>{svg}<figcaption>Percentages use each term’s own citation-link total. Bars have identical 10-year bins and both panels share the same axes; the full observed age range is shown.</figcaption></figure>
@@ -222,6 +266,11 @@ footer {{ margin-top:28px; padding-top:18px; border-top:1px solid var(--line); c
 <div class="table-wrap"><table>
 <thead><tr><th scope="col">Term</th><th scope="col">Source<br>opinions</th><th scope="col">Citation<br>links</th><th scope="col">Links per<br>source</th><th scope="col">Mean age<br>(years)</th><th scope="col">Median age<br>(years)</th></tr></thead>
 <tbody>{''.join(table_rows)}</tbody></table></div>
+<h2>Citation Concentration and Leading Precedents</h2>
+<p>The ten most cited cases receive <strong>{first['top_10_citation_share']:.1%} of citation links in 2004</strong> and <strong>{second['top_10_citation_share']:.1%} in 2024</strong>. These percentages divide the links received by exactly ten leading cases by all citation links in that term.</p>
+<p>The tables below answer a different question: what percentage of source cases cite each precedent? Each source counts at most once per precedent; zero-citation sources remain in the denominator. Percentages are not shares of all links and need not sum to 100%.</p>
+<p>All cases tied at the tenth position are displayed, so each table can contain more than ten rows. Equal counts have equal ranks; tied cases are ordered by name and ID. The concentration calculation above still uses exactly ten cases. Which tied cases occupy those ten positions does not change the result.</p>
+{rankings_html}
 <h2>Definition and Unit of Analysis</h2>
 <p><strong>Age = source decision year − cited decision year.</strong> This is a calendar-year difference, not elapsed time to the day. Term labels are not decision years: the October 2024 term includes opinions decided in 2025.</p>
 <p>Each distinct source–target pair counts once. If five source opinions cite the same precedent, it contributes five ages. Repeated mentions within one source contribute only one age. Zero-citation sources count toward links per source but contribute no citation ages. The distribution is weighted by links, so opinions with more links contribute more observations.</p>
@@ -253,6 +302,7 @@ def main():
     results = collect_results(args.data_dir)
     svg_path = make_chart(results, args.output_dir)
     make_html(results, svg_path, args.output_dir)
+    write_rankings_csv(results, args.output_dir)
     public_results = []
     for result in results:
         public_results.append({
@@ -263,6 +313,8 @@ def main():
         })
     payload = {
         "metric": "Source decision year minus target decision year, once per binary edge",
+        "ranking_method": "Distinct selected source cases citing each precedent; top 10 including all cutoff ties; shares use every selected source case, including zero-citation sources",
+        "concentration_method": "Links to exactly the 10 highest-indegree cases divided by all links; cutoff ties do not expand this numerator",
         "matplotlib_version": version("matplotlib"),
         "script_sha256": {
             "make_report.py": hashlib.sha256(Path(__file__).read_bytes()).hexdigest(),

@@ -1,9 +1,11 @@
 {
   "metric": "Source decision year minus target decision year, once per binary edge",
+  "ranking_method": "Distinct selected source cases citing each precedent; top 10 including all cutoff ties; shares use every selected source case, including zero-citation sources",
+  "concentration_method": "Links to exactly the 10 highest-indegree cases divided by all links; cutoff ties do not expand this numerator",
   "matplotlib_version": "3.9.4",
   "script_sha256": {
-    "make_report.py": "91ee7ad49401e8bc54822251edcf6fc35310ee35870c376c349c0b01b2617331",
-    "start.py": "5d4c52fd131d0575f70fb4bcd37bf543cb0afdc8c8c14ce56e3a249518f1c929"
+    "make_report.py": "73727e33826ae6741b5abbb2454830c3f8f3e3e7c5181aac723ec16c72629140",
+    "start.py": "1a4f68f44c5cdfe75f04db5240ea4ee77c12532926282c3c8cbbd9bf47f41a94"
   },
   "terms": [
     {
@@ -18,7 +20,108 @@
         "average_citation_age": 33.41711809317443,
         "youngest_citation_age": 0,
         "oldest_citation_age": 207,
-        "median_citation_age": 21
+        "median_citation_age": 21,
+        "top_10_citation_share": 0.03358613217768147,
+        "leading_precedents": [
+          {
+            "rank": 1,
+            "case_id": "cap:9030584",
+            "case_name": "Woodford v. Garceau",
+            "citing_source_cases": 4,
+            "source_case_share": 0.05714285714285714
+          },
+          {
+            "rank": 2,
+            "case_id": "cap:12787",
+            "case_name": "Batson v. Kentucky",
+            "citing_source_cases": 3,
+            "source_case_share": 0.04285714285714286
+          },
+          {
+            "rank": 2,
+            "case_id": "118447",
+            "case_name": "Duncan v. Walker",
+            "citing_source_cases": 3,
+            "source_case_share": 0.04285714285714286
+          },
+          {
+            "rank": 2,
+            "case_id": "cap:1765333",
+            "case_name": "Gideon v. Wainwright",
+            "citing_source_cases": 3,
+            "source_case_share": 0.04285714285714286
+          },
+          {
+            "rank": 2,
+            "case_id": "cap:1769215",
+            "case_name": "Lockett v. Ohio",
+            "citing_source_cases": 3,
+            "source_case_share": 0.04285714285714286
+          },
+          {
+            "rank": 2,
+            "case_id": "cap:1481136",
+            "case_name": "Lucas v. South Carolina Coastal Council",
+            "citing_source_cases": 3,
+            "source_case_share": 0.04285714285714286
+          },
+          {
+            "rank": 2,
+            "case_id": "cap:11319062",
+            "case_name": "Powers v. Ohio",
+            "citing_source_cases": 3,
+            "source_case_share": 0.04285714285714286
+          },
+          {
+            "rank": 2,
+            "case_id": "cap:9508758",
+            "case_name": "Slack v. McDaniel",
+            "citing_source_cases": 3,
+            "source_case_share": 0.04285714285714286
+          },
+          {
+            "rank": 2,
+            "case_id": "112866",
+            "case_name": "Smith v. United States",
+            "citing_source_cases": 3,
+            "source_case_share": 0.04285714285714286
+          },
+          {
+            "rank": 2,
+            "case_id": "cap:11503308",
+            "case_name": "Steel Co. v. Citizens for a Better Environment",
+            "citing_source_cases": 3,
+            "source_case_share": 0.04285714285714286
+          },
+          {
+            "rank": 2,
+            "case_id": "cap:6175698",
+            "case_name": "Washington v. Davis",
+            "citing_source_cases": 3,
+            "source_case_share": 0.04285714285714286
+          },
+          {
+            "rank": 2,
+            "case_id": "cap:6234399",
+            "case_name": "Yee v. City of Escondido",
+            "citing_source_cases": 3,
+            "source_case_share": 0.04285714285714286
+          },
+          {
+            "rank": 2,
+            "case_id": "cap:11711728",
+            "case_name": "Younger v. Harris",
+            "citing_source_cases": 3,
+            "source_case_share": 0.04285714285714286
+          },
+          {
+            "rank": 2,
+            "case_id": "cap:9313599",
+            "case_name": "Zadvydas v. Davis",
+            "citing_source_cases": 3,
+            "source_case_share": 0.04285714285714286
+          }
+        ]
       },
       "histogram": {
         "bin_width_years": 10,
@@ -121,7 +224,129 @@
         "average_citation_age": 36.972696245733786,
         "youngest_citation_age": 0,
         "oldest_citation_age": 229,
-        "median_citation_age": 25
+        "median_citation_age": 25,
+        "top_10_citation_share": 0.03981797497155859,
+        "leading_precedents": [
+          {
+            "rank": 1,
+            "case_id": "us:603:369",
+            "case_name": "Loper Bright Enterprises v. Raimondo",
+            "citing_source_cases": 6,
+            "source_case_share": 0.10344827586206896
+          },
+          {
+            "rank": 2,
+            "case_id": "us:584:497",
+            "case_name": "Epic Systems Corp. v. Lewis",
+            "citing_source_cases": 4,
+            "source_case_share": 0.06896551724137931
+          },
+          {
+            "rank": 2,
+            "case_id": "us:582:79",
+            "case_name": "Henson v. Santander Consumer USA Inc.",
+            "citing_source_cases": 4,
+            "source_case_share": 0.06896551724137931
+          },
+          {
+            "rank": 4,
+            "case_id": "us:570:228",
+            "case_name": "AMERICAN EXPRESS COMPANY, et al., PETITIONERS v. ITALIAN COLORS RESTAURANT, et al.",
+            "citing_source_cases": 3,
+            "source_case_share": 0.05172413793103448
+          },
+          {
+            "rank": 4,
+            "case_id": "cap:5868782",
+            "case_name": "Cutter v. Wilkinson",
+            "citing_source_cases": 3,
+            "source_case_share": 0.05172413793103448
+          },
+          {
+            "rank": 4,
+            "case_id": "us:601:42",
+            "case_name": "Department of Agriculture Rural Development Rural Housing Service v. Kirtz",
+            "citing_source_cases": 3,
+            "source_case_share": 0.05172413793103448
+          },
+          {
+            "rank": 4,
+            "case_id": "us:562:428",
+            "case_name": "DORETHA H. HENDERSON, AUTHORIZED REPRESENTATIVE OF DAVID L. HENDERSON, DECEASED, PETITIONER v. ERIC K. SHINESKI, SECRETARY OF VETERANS AFFAIRS",
+            "citing_source_cases": 3,
+            "source_case_share": 0.05172413793103448
+          },
+          {
+            "rank": 4,
+            "case_id": "us:561:1",
+            "case_name": "ERIC H. HOLDER, JR., ATTORNEY GENERAL, et al. v. HUMANITARIAN LAW PROJECT et al.",
+            "citing_source_cases": 3,
+            "source_case_share": 0.05172413793103448
+          },
+          {
+            "rank": 4,
+            "case_id": "us:603:480",
+            "case_name": "Fischer v. United States",
+            "citing_source_cases": 3,
+            "source_case_share": 0.05172413793103448
+          },
+          {
+            "rank": 4,
+            "case_id": "cap:8209485",
+            "case_name": "Gonzalez v. Crosby",
+            "citing_source_cases": 3,
+            "source_case_share": 0.05172413793103448
+          },
+          {
+            "rank": 4,
+            "case_id": "us:589:221",
+            "case_name": "Guerrero-Lasprilla v. Barr",
+            "citing_source_cases": 3,
+            "source_case_share": 0.05172413793103448
+          },
+          {
+            "rank": 4,
+            "case_id": "us:568:145",
+            "case_name": "KATHLEEN SEBELIUS, SECRETARY OF HEALTH AND HUMAN SERVICES, PETITIONER v. AUBURN REGIONAL MEDICAL CENTER et al.",
+            "citing_source_cases": 3,
+            "source_case_share": 0.05172413793103448
+          },
+          {
+            "rank": 4,
+            "case_id": "us:603:707",
+            "case_name": "Moody v. NetChoice, LLC",
+            "citing_source_cases": 3,
+            "source_case_share": 0.05172413793103448
+          },
+          {
+            "rank": 4,
+            "case_id": "us:268:510",
+            "case_name": "Pierce v. Society of Sisters",
+            "citing_source_cases": 3,
+            "source_case_share": 0.05172413793103448
+          },
+          {
+            "rank": 4,
+            "case_id": "us:598:230",
+            "case_name": "Reed v. Goertz",
+            "citing_source_cases": 3,
+            "source_case_share": 0.05172413793103448
+          },
+          {
+            "rank": 4,
+            "case_id": "us:576:155",
+            "case_name": "REED v. TOWN OF GILBERT",
+            "citing_source_cases": 3,
+            "source_case_share": 0.05172413793103448
+          },
+          {
+            "rank": 4,
+            "case_id": "us:599:762",
+            "case_name": "United States v. Hansen",
+            "citing_source_cases": 3,
+            "source_case_share": 0.05172413793103448
+          }
+        ]
       },
       "histogram": {
         "bin_width_years": 10,

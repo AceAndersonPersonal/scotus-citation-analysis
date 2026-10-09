@@ -13,7 +13,11 @@ The current datasets contain **128 source opinions and 1,802 citation links**. T
 
 ![Distribution of Supreme Court Citation Ages](reports/citation_age_distribution.png)
 
-The [standalone report](reports/citation_age_report.html) includes the distribution chart, definitions, coverage notes, and reproduction instructions. Open the downloaded HTML file in a browser to view it; GitHub may display its source instead.
+The [standalone report](reports/citation_age_report.html) includes the distribution chart, leading-precedent tables, citation concentration, definitions, coverage notes, and reproduction instructions. Open the downloaded HTML file in a browser to view it; GitHub may display its source instead.
+
+The ten most cited precedents receive **3.4% of links in 2004** and **4.0% in 2024**. Woodford v. Garceau leads the 2004 subset (4 of 70 source cases, 5.7%); Loper Bright Enterprises v. Raimondo leads the 2024 subset (6 of 58, 10.3%). These are descriptive findings within the collected datasets.
+
+The report shows every precedent tied at the tenth position: 14 rows for 2004 and 17 for 2024. The [rankings CSV](reports/cited_precedent_rankings.csv) contains the same cases, ranks, counts, and source-case shares (stored as proportions). Table percentages divide by source cases, including zero-citation sources; concentration divides by citation links and uses exactly ten precedents even when the table includes extra ties.
 
 ## Run the analysis
 

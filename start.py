@@ -102,6 +102,77 @@ def most_cited(graph):
 
     return max(counts, key=counts.get)
 
+def citation_concentration(graph, top_n=10):
+    """Return the share of links received by exactly top_n cases (or all if fewer)."""
+    if top_n < 1:
+        raise ValueError("top_n must be positive.")
+
+    counts = in_degrees(graph)
+    sorted_counts = sorted(counts.values(), reverse=True)
+    total_top = 0
+
+    for count in sorted_counts[:top_n]:
+        total_top += count
+
+    total_counts = 0
+
+    for count in sorted_counts:
+        total_counts += count
+
+    if total_counts == 0:
+        return None
+
+    proportion = total_top / total_counts
+
+    return proportion
+
+def ranked_precedents(graph, source_ids, case_names, top_n=10):
+    """Rank cited cases by distinct sources, retaining every tie at the cutoff.
+
+    Percentages use all selected source cases, including zero-citation cases.
+    Equal counts receive equal ranks; names and IDs make their order stable.
+    """
+    if top_n < 1:
+        raise ValueError("top_n must be positive.")
+    if not source_ids:
+        return []
+
+    counts = {}
+    for source_id in source_ids:
+        for cited_id in set(graph[source_id]):
+            counts[cited_id] = counts.get(cited_id, 0) + 1
+
+    if not counts:
+        return []
+
+    ordered_ids = sorted(
+        counts,
+        key=lambda case_id: (-counts[case_id], case_names[case_id].casefold(), case_id),
+    )
+    cutoff_position = min(top_n, len(ordered_ids)) - 1
+    cutoff_count = counts[ordered_ids[cutoff_position]]
+    rows = []
+    previous_count = None
+    rank = 0
+
+    for position, case_id in enumerate(ordered_ids, start=1):
+        count = counts[case_id]
+        if count < cutoff_count:
+            break
+        if count != previous_count:
+            rank = position
+
+        rows.append({
+            "rank": rank,
+            "case_id": case_id,
+            "case_name": case_names[case_id],
+            "citing_source_cases": count,
+            "source_case_share": count / len(source_ids),
+        })
+        previous_count = count
+
+    return rows
+
 def dfs(graph, start):
     """Return the cases reachable from start, including start itself."""
     visited = set()
@@ -201,6 +272,8 @@ def summarize_term(term, data_dir=DATA_DIR):
         "youngest_citation_age": None,
         "oldest_citation_age": None,
         "median_citation_age": None,
+        "top_10_citation_share": citation_concentration(graph),
+        "leading_precedents": ranked_precedents(graph, source_ids, case_names),
     }
 
     if ages:
@@ -218,6 +291,10 @@ def print_summary(summary):
     print("Nodes:", summary["nodes"])
     print("Edges:", summary["edges"])
     print("Most cited case (ties possible):", summary["most_cited_case"])
+    share = summary["top_10_citation_share"]
+
+    if share is not None:
+        print(f"Share of links to the 10 most cited cases: {share:.1%}")
 
     if summary["average_out_degree"] is not None:
         print(f"Average distinct cited cases per source: {summary['average_out_degree']:.2f}")
@@ -232,6 +309,19 @@ def print_summary(summary):
         print("Oldest citation age:", summary["oldest_citation_age"])
     else:
         print("No citation links to calculate ages for.")
+
+    rankings = summary["leading_precedents"]
+    print(f"\nLeading cited precedents (top 10 including cutoff ties; {len(rankings)} shown)")
+    if not rankings:
+        print("No cited precedents among the selected sources.")
+    else:
+        print("Rank | Citing sources | % of source cases | Case")
+        for row in rankings:
+            print(
+                f"{row['rank']:>4} | {row['citing_source_cases']:>14} | "
+                f"{row['source_case_share']:>16.1%} | {row['case_name']}"
+            )
+        print("Percentages include zero-citation sources in the denominator.")
 
 def main():
     for term in TERMS:
