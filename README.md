@@ -21,6 +21,25 @@ The ten most cited precedents receive **3.4% of links in 2004** and **4.0% in 20
 
 The report shows every precedent tied at the tenth position: 14 rows for 2004 and 17 for 2024. The [rankings CSV](reports/cited_precedent_rankings.csv) contains the same cases, ranks, counts, and source-case shares (stored as proportions). Table percentages divide by source cases, including zero-citation sources; concentration divides by citation links and uses exactly ten precedents even when the table includes extra ties.
 
+## Opinion-level comparison
+
+The original age summary treats every citation link as an observation. An opinion with 40 cited cases contributes ten times as many observations as one with four. `compare_terms.py` complements that result by calculating a mean citation age for each source opinion, then giving those opinion means equal weight.
+
+| Mean citation age | 2004 | 2024 | Difference (2024 − 2004) |
+| --- | ---: | ---: | ---: |
+| Equal weight per citation link | 33.42 years | 36.97 years | +3.56 years |
+| Equal weight per opinion with links | 29.98 years | 32.33 years | +2.35 years |
+
+Differences are calculated before rounding. The opinion-level calculation includes 70 opinions in 2004 and 55 in 2024. The three zero-link 2024 opinions have no defined citation age; they remain included in citation-count statistics.
+
+Removing one opinion at a time from either term leaves an equal-opinion difference of **+1.46 to +2.93 years** across 125 removals. Removing *Trump v. CASA, Inc.* has the largest absolute effect, reducing the gap from 2.35 to 1.46 years. The positive difference is therefore not attributable to any single included opinion. This check does not address several influential opinions together, omitted cases, missing citations, extraction differences, or issue composition. The range is **not a confidence interval**.
+
+```bash
+python3 compare_terms.py
+```
+
+This standard-library command generates the [opinion-level report](reports/opinion_comparison.html), [metrics for every source opinion](reports/opinion_metrics.csv), [all single-opinion omission results](reports/opinion_omission_effects.csv), and a [JSON summary with input fingerprints](reports/opinion_comparison.json). Download the HTML report together with the CSV and JSON files to use its relative download links. Other curated term pairs can be selected with `--terms EARLIER LATER`.
+
 ## Run the analysis
 
 Python 3.12 is recommended for the complete project. The standard-library analysis alone supports Python 3.9 or later; the pinned PDF extraction dependencies require Python 3.10 or later. Run these commands from this folder:
@@ -75,9 +94,9 @@ To work on PDF extraction, install its additional dependencies in the same envir
 python3 -m unittest discover -s tests -v
 ```
 
-Tests cover directed paths, graph traversal with cycles, incoming citation counts, zero-citation source cases, citation ages, CSV reading, and duplicate-edge handling. Explorer tests also cover additional term discovery, partial dates, zero-link cases, inconsistent manifests, unknown case IDs, and invalid opinion links. Dataset checks verify IDs, chronology, source flags, manifest counts, and evidence for every included edge.
+Tests cover directed paths, graph traversal with cycles, incoming citation counts, zero-citation source cases, citation ages, CSV reading, and duplicate-edge handling. Explorer tests also cover additional term discovery, partial dates, zero-link cases, inconsistent manifests, unknown case IDs, and invalid opinion links. Comparison tests verify the distinction between opinion and link weighting, omission arithmetic, undefined ages, and consistency with the original summaries. Dataset checks verify IDs, chronology, source flags, manifest counts, and evidence for every included edge.
 
-The [GitHub Actions workflow](.github/workflows/checks.yml) runs these tests, the analysis, a report build, and an explorer export on pushes and pull requests. It uses only the committed curated data; no API credentials or raw caches are required.
+The [GitHub Actions workflow](.github/workflows/checks.yml) runs these tests, the analysis, both report builds, and an explorer export on pushes and pull requests. It uses only the committed curated data; no API credentials or raw caches are required.
 
 ## Folder structure
 
@@ -85,6 +104,7 @@ The [GitHub Actions workflow](.github/workflows/checks.yml) runs these tests, th
 SCOTUS Project/
     .github/workflows/          Automated tests and report build
     start.py                    Graph functions and term summaries
+    compare_terms.py            Opinion-level weighting and sensitivity analysis
     make_report.py              Chart and HTML report generation
     requirements-report.txt     Plotting dependency
     requirements-data.txt       Optional PDF extraction dependencies
