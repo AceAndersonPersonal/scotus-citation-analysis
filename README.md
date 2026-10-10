@@ -44,6 +44,8 @@ If `.venv` is already set up, activate it and run the last command. Alternativel
 
 ## Case explorer
 
+[Open the live explorer](https://scotus-citation-explorer-ace.chicfir4.chatgpt.site).
+
 The browser interface lets you select a term and source case, search cited precedents, sort by age, and open the underlying opinions. Its Python exporter reuses the project's adjacency lists and metadata; no API token or server database is required.
 
 ```bash
@@ -51,7 +53,7 @@ python3 scripts/build_explorer.py
 python3 -m http.server 8000 --directory web/dist
 ```
 
-Open `http://localhost:8000` in a browser. Use an HTTP server rather than opening `index.html` directly, because the interface fetches its local JSON dataset. Stop the server with Ctrl+C. Source files are in `web/`; generated output is ignored by Git. The hosted version is currently a private preview.
+Open `http://localhost:8000` in a browser. Use an HTTP server rather than opening `index.html` directly, because the interface fetches its local JSON dataset. Stop the server with Ctrl+C. Source files are in `web/`; generated output is ignored by Git. The [live explorer](https://scotus-citation-explorer-ace.chicfir4.chatgpt.site) is publicly accessible without signing in.
 
 The explorer automatically discovers `data/term_YYYY/` folders and checks their manifests before export. The comparative report currently covers 2004 and 2024; adding terms to that report is a separate analysis change. See [the term expansion guide](data/README.md) for the dataset contract and review process.
 
