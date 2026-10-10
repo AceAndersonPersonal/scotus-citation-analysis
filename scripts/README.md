@@ -4,6 +4,7 @@ Run these commands from the project root, with the project environment active (`
 
 | Script | Purpose | Inputs |
 | --- | --- | --- |
+| `build_explorer.py` | Export all complete curated terms to a static website | Term CSVs/manifests, `web/` assets, and the generated report |
 | `build_2004_dataset.py` | Rebuild the 2004 curated data | Cached records in `data/term_2004/raw/` |
 | `build_2024_dataset.py` | Rebuild the 2024 curated data | Cached 2024 text and metadata, 2004 IDs, and SCDB archive |
 | `validate_2024_dataset.py` | Check recorded opinion audits and structural invariants | Curated CSVs, evidence records, and cached PDFs |

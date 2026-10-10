@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Supreme Court Citation Explorer</title>
+  <meta name="description" content="Case-level citation records for selected Supreme Court opinions from the 2004 and 2024 terms.">
+  <link rel="stylesheet" href="style.css">
+  <script defer src="app.js"></script>
+</head>
+<body>
+<a class="skip" href="#case-detail">Skip to selected case</a>
+<main>
+  <p class="document-links"><a href="comparison-report.html">Comparative Report</a><a href="https://github.com/AceAndersonPersonal/scotus-citation-analysis" target="_blank" rel="noopener noreferrer">Source Code</a></p>
+  <h1>Supreme Court Citation Explorer</h1>
+  <p class="coverage">Current Coverage: <span id="term-range">Loading terms</span>. <span id="coverage-total">Loading datasets…</span>.</p>
+
+  <section class="workspace" aria-label="Explore citations">
+    <aside class="case-browser">
+      <h2>Source cases</h2>
+      <fieldset>
+        <legend>October term</legend>
+        <div id="terms" class="terms"></div>
+      </fieldset>
+      <label for="case-search">Search source cases</label>
+      <input id="case-search" type="search" placeholder="Case name or reporter citation" autocomplete="off">
+      <p id="case-count" role="status"></p>
+      <div id="case-list" class="case-list" aria-label="Source cases"></div>
+    </aside>
+
+    <article id="case-detail" class="detail" aria-label="Selected case">
+      <div id="loading" role="status">Loading citation records…</div>
+      <div id="case-content" hidden>
+        <div class="case-heading"><p id="case-term"></p><a id="opinion-link" target="_blank" rel="noopener noreferrer">Read Opinion</a></div>
+        <h2 id="case-title" tabindex="-1"></h2>
+        <p id="case-meta"></p>
+        <dl class="case-stats">
+          <div><dt>Distinct cited cases</dt><dd id="citation-count"></dd></div>
+          <div><dt>Median citation age</dt><dd id="median-age"></dd></div>
+          <div><dt>Source decision year</dt><dd id="source-year"></dd></div>
+        </dl>
+        <h3>Cited precedents</h3>
+        <div class="table-controls">
+          <div><label for="citation-search">Filter cited precedents</label><input id="citation-search" type="search" placeholder="Case name or reporter citation" autocomplete="off"></div>
+          <div><label for="sort">Sort cited precedents</label><select id="sort"><option value="name">Case name A–Z</option><option value="oldest">Oldest precedent first</option><option value="newest">Newest precedent first</option></select></div>
+        </div>
+        <p id="citation-status" role="status"></p>
+        <div class="table-wrap">
+          <table>
+            <caption class="sr-only">Precedents cited by the selected source case</caption>
+            <thead><tr><th scope="col">Cited case</th><th scope="col">Decision year</th><th scope="col">Citation age</th></tr></thead>
+            <tbody id="citations"></tbody>
+          </table>
+          <p id="empty-citations" hidden></p>
+        </div>
+        <p class="table-note">Citation age = source decision year − cited decision year. Repeated citations to the same case count as one link.</p>
+      </div>
+    </article>
+  </section>
+
+  <section id="methodology" class="methodology">
+    <h2>Data and methodology</h2>
+    <p>The datasets contain selected argued majority and per-curiam opinions, including dismissals with no citation links. The case selector lists source opinions; outgoing citations were not collected for cited-only cases.</p>
+    <p>The 2004 data use Harvard archive opinion-block citation links. The 2024 data use official Supreme Court PDF extraction. Unresolved and ambiguous references are omitted. Audits cover selected opinions and do not establish complete citation recall.</p>
+    <p id="term-coverage"></p>
+    <p>Reviewed subsets, not a complete historical series. Extraction methods differ between terms. A citation does not imply agreement or legal importance.</p>
+    <p>Terms refer to October terms, not calendar years. Citation ages use decision years; some historical dates have only year or month precision.</p>
+    <p>Dataset manifests, exclusions, review records, and acquisition scripts are available in the <a href="https://github.com/AceAndersonPersonal/scotus-citation-analysis" target="_blank" rel="noopener noreferrer">repository</a>.</p>
+  </section>
+  <noscript><p>JavaScript is required for case selection. The <a href="comparison-report.html">Comparative Report</a> is available without JavaScript.</p></noscript>
+</main>
+</body>
+</html>

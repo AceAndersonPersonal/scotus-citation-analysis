@@ -27,3 +27,5 @@ jobs:
         run: python -m pip install -r requirements-report.txt
       - name: Build the report from committed data
         run: python make_report.py --output-dir "${{ runner.temp }}/scotus-report"
+      - name: Build the case explorer
+        run: python scripts/build_explorer.py --output-dir "${{ runner.temp }}/scotus-explorer"

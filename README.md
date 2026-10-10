@@ -11,6 +11,8 @@ The current datasets contain **128 source opinions and 1,802 citation links**. T
 | 2004 | 70 | 923 | 13.19 | 33.42 years | 21 years |
 | 2024 | 58 | 879 | 15.16 | 36.97 years | 25 years |
 
+Within these collected subsets, the 2024 opinions cite **1.97 more distinct cases per source** on average. The median citation age is **four years higher**, and the mean citation age is **3.56 years higher**. These are differences between the two datasets, not estimates of a Court-wide historical change. Citation ages are measured per link, so opinions with more cited cases contribute more observations.
+
 ![Distribution of Supreme Court Citation Ages](reports/citation_age_distribution.png)
 
 The [standalone report](reports/citation_age_report.html) includes the distribution chart, leading-precedent tables, citation concentration, definitions, coverage notes, and reproduction instructions. Open the downloaded HTML file in a browser to view it; GitHub may display its source instead.
@@ -40,6 +42,19 @@ python3 make_report.py
 
 If `.venv` is already set up, activate it and run the last command. Alternatively, use `.venv/bin/python make_report.py` without activation. These activation instructions are for macOS/Linux.
 
+## Case explorer
+
+The browser interface lets you select a term and source case, search cited precedents, sort by age, and open the underlying opinions. Its Python exporter reuses the project's adjacency lists and metadata; no API token or server database is required.
+
+```bash
+python3 scripts/build_explorer.py
+python3 -m http.server 8000 --directory web/dist
+```
+
+Open `http://localhost:8000` in a browser. Use an HTTP server rather than opening `index.html` directly, because the interface fetches its local JSON dataset. Stop the server with Ctrl+C. Source files are in `web/`; generated output is ignored by Git. The hosted version is currently a private preview.
+
+The explorer automatically discovers `data/term_YYYY/` folders and checks their manifests before export. The comparative report currently covers 2004 and 2024; adding terms to that report is a separate analysis change. See [the term expansion guide](data/README.md) for the dataset contract and review process.
+
 ## VS Code setup
 
 Open this project folder and select **Python: Select Interpreter → .venv/bin/python** from the Command Palette. The status bar should show the project's `.venv` environment. Workspace settings provide the default interpreter, scan all project files for diagnostics, and enable the unittest test runner.
@@ -58,9 +73,9 @@ To work on PDF extraction, install its additional dependencies in the same envir
 python3 -m unittest discover -s tests -v
 ```
 
-Tests cover directed paths, graph traversal with cycles, incoming citation counts, zero-citation source cases, citation ages, CSV reading, and duplicate-edge handling. Dataset checks verify IDs, chronology, source flags, manifest counts, and evidence for every included edge.
+Tests cover directed paths, graph traversal with cycles, incoming citation counts, zero-citation source cases, citation ages, CSV reading, and duplicate-edge handling. Explorer tests also cover additional term discovery, partial dates, zero-link cases, inconsistent manifests, unknown case IDs, and invalid opinion links. Dataset checks verify IDs, chronology, source flags, manifest counts, and evidence for every included edge.
 
-The [GitHub Actions workflow](.github/workflows/checks.yml) runs these tests, the analysis, and a report build on pushes and pull requests. It uses only the committed curated data; no API credentials or raw caches are required.
+The [GitHub Actions workflow](.github/workflows/checks.yml) runs these tests, the analysis, a report build, and an explorer export on pushes and pull requests. It uses only the committed curated data; no API credentials or raw caches are required.
 
 ## Folder structure
 
@@ -71,7 +86,8 @@ SCOTUS Project/
     make_report.py              Chart and HTML report generation
     requirements-report.txt     Plotting dependency
     requirements-data.txt       Optional PDF extraction dependencies
-    scripts/                    Data acquisition, rebuilding, and validation
+    web/                        Case explorer HTML, CSS, and JavaScript
+    scripts/                    Data acquisition, rebuilding, validation, and explorer export
     tests/                      Automated analysis tests
     practice/                   Original learning exercises and toy CSV
     data/
@@ -111,12 +127,12 @@ python3 practice/graph.py
 
 ## Planned development
 
-The current version provides the two-term datasets, graph analysis, descriptive report, and selected citation audits. Further work is planned:
+The current version provides the two-term datasets, graph analysis, descriptive report, case explorer, and selected citation audits. Further work is planned:
 
 - Apply a common extraction method and expand citation audits before interpreting differences between terms.
 - Compare citation ages and patterns within similar case categories.
 - Investigate citation frequency and context beyond binary links.
-- Develop a website for exploring cases, their citations, and the supporting evidence.
+- Extend the explorer with citation evidence and additional terms after acquisition and validation.
 
 ## Sources
 

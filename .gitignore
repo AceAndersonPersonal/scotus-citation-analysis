@@ -20,3 +20,6 @@ data/archive/
 
 # Operating system files
 .DS_Store
+
+# Rebuilt website output
+web/dist/
