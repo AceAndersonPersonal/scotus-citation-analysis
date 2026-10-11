@@ -63,7 +63,7 @@ If `.venv` is already set up, activate it and run the last command. Alternativel
 
 ## Case explorer
 
-[Open the live explorer](https://scotus-citation-explorer-ace.chicfir4.chatgpt.site).
+[Open the live explorer](https://aceandersonpersonal.github.io/scotus-citation-analysis/).
 
 The browser interface lets you select a term and source case, search cited precedents, sort by age, and open the underlying opinions. Its Python exporter reuses the project's adjacency lists and metadata; no API token or server database is required.
 
@@ -72,7 +72,7 @@ python3 scripts/build_explorer.py
 python3 -m http.server 8000 --directory web/dist
 ```
 
-Open `http://localhost:8000` in a browser. Use an HTTP server rather than opening `index.html` directly, because the interface fetches its local JSON dataset. Stop the server with Ctrl+C. Source files are in `web/`; generated output is ignored by Git. The [live explorer](https://scotus-citation-explorer-ace.chicfir4.chatgpt.site) is publicly accessible without signing in.
+Open `http://localhost:8000` in a browser. Use an HTTP server rather than opening `index.html` directly, because the interface fetches its local JSON dataset. Stop the server with Ctrl+C. Source files are in `web/`; generated output is ignored by Git. The [live explorer](https://aceandersonpersonal.github.io/scotus-citation-analysis/) is hosted on GitHub Pages and publicly accessible without signing in.
 
 The explorer automatically discovers `data/term_YYYY/` folders and checks their manifests before export. The comparative report currently covers 2004 and 2024; adding terms to that report is a separate analysis change. See [the term expansion guide](data/README.md) for the dataset contract and review process.
 
@@ -96,7 +96,7 @@ python3 -m unittest discover -s tests -v
 
 Tests cover directed paths, graph traversal with cycles, incoming citation counts, zero-citation source cases, citation ages, CSV reading, and duplicate-edge handling. Explorer tests also cover additional term discovery, partial dates, zero-link cases, inconsistent manifests, unknown case IDs, and invalid opinion links. Comparison tests verify the distinction between opinion and link weighting, omission arithmetic, undefined ages, and consistency with the original summaries. Dataset checks verify IDs, chronology, source flags, manifest counts, and evidence for every included edge.
 
-The [GitHub Actions workflow](.github/workflows/checks.yml) runs these tests, the analysis, both report builds, and an explorer export on pushes and pull requests. It uses only the committed curated data; no API credentials or raw caches are required.
+The [GitHub Actions workflow](.github/workflows/checks.yml) runs these tests, the analysis, both report builds, and an explorer export on pushes and pull requests. It uses only the committed curated data; no API credentials or raw caches are required. Successful pushes to `codex/initial-release` also publish the exported site to GitHub Pages. Pull requests run checks without publishing. The deployment uploads only the generated website directory.
 
 ## Folder structure
 

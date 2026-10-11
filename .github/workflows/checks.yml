@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: read
+  pages: read
 
 jobs:
   analysis-and-report:
@@ -30,4 +31,31 @@ jobs:
       - name: Build the report from committed data
         run: python make_report.py --output-dir "${{ runner.temp }}/scotus-report"
       - name: Build the case explorer
-        run: python scripts/build_explorer.py --output-dir "${{ runner.temp }}/scotus-explorer"
+        run: python scripts/build_explorer.py --output-dir "${{ runner.temp }}/scotus-explorer" --report-path "${{ runner.temp }}/scotus-report/citation_age_report.html"
+      - name: Configure GitHub Pages
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/codex/initial-release'
+        uses: actions/configure-pages@v5
+      - name: Upload the website
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/codex/initial-release'
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ${{ runner.temp }}/scotus-explorer
+
+  deploy-pages:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/codex/initial-release'
+    needs: analysis-and-report
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    concurrency:
+      group: github-pages
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

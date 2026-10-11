@@ -96,8 +96,9 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--data-dir", type=Path, default=PROJECT_DIR / "data")
     parser.add_argument("--output-dir", type=Path, default=PROJECT_DIR / "web/dist")
+    parser.add_argument("--report-path", type=Path, default=PROJECT_DIR / "reports/citation_age_report.html")
     args = parser.parse_args()
-    payload = build_explorer(args.data_dir, args.output_dir)
+    payload = build_explorer(args.data_dir, args.output_dir, report_path=args.report_path)
     print(f"Built explorer: {len(payload['terms'])} terms, {sum(t['source_count'] for t in payload['terms'])} source cases → {args.output_dir}")
 
 
