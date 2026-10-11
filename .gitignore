@@ -14,8 +14,9 @@ __pycache__/
 
 # Raw acquisition caches and historical local backups
 data/raw/
-data/term_2004/raw/
-data/term_2024/raw/
+data/term_*/raw/
+data/staging/
+data/reference_cache/
 data/archive/
 
 # Operating system files

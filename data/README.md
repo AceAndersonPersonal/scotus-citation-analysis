@@ -1,6 +1,6 @@
 # Term datasets and expansion
 
-The current curated datasets cover the October 2004 and 2024 terms. Their different extraction methods and selected coverage limit historical comparisons. More terms provide additional observations, but do not by themselves resolve selection or measurement bias.
+Published datasets cover October Term 2004 and October terms 2020–2024. The 2020–2023 expansion is preliminary and has automated boundary/structure checks and targeted evidence checks; it has not received complete manual citation audits. Their different extraction methods and selected coverage limit historical comparisons. More terms provide additional observations, but do not by themselves resolve selection or measurement bias.
 
 ## Explorer input contract
 
@@ -19,7 +19,9 @@ Build the explorer with `python3 scripts/build_explorer.py`. The export validate
 
 ## Next expansion
 
-A manageable next step is to add 2005 and 2023, giving an adjacent-year comparison around each existing endpoint. This is a proposed acquisition sequence, not a claim that those datasets have been collected. Then expand toward a consecutive annual series rather than treating a few selected years as a trend.
+The first consecutive block is now 2020–2024. Continue backward from 2019 after checking the older official PDF layouts, or extend the archive-based acquisition for earlier terms. Preserve the distinction between the common 2020–2023 parser, the original 2024 PDF parser, and the 2004 archive method.
+
+Loper Bright (decided June 28, 2024) is a source in October Term 2023 and a cited-only case in the 2024 dataset. Term labels identify October terms, not calendar years.
 
 Before comparing more terms:
 
@@ -30,4 +32,4 @@ Before comparing more terms:
 5. Validate IDs, dates, duplicate links, counts, and shared precedents; update dataset tests deliberately when adding terms.
 6. Compare per-source measurements and distributions alongside edge-weighted results, and consider issue composition before attributing differences to historical change.
 
-The existing acquisition scripts are specific to their terms and cached inputs. Merely changing a year constant does not produce an equivalent new dataset. The browser can accept additional terms now; acquisition and validation remain separate work.
+The reusable acquisition, extraction, resolution, and promotion commands are documented in [the scripts guide](../scripts/README.md). They have been exercised on 2020–2023. Earlier layouts still need validation; adding a year argument does not guarantee a comparable dataset.

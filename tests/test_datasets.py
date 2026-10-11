@@ -8,7 +8,8 @@ from pathlib import Path
 
 
 DATA_DIR = Path(__file__).resolve().parents[1] / "data"
-TERMS = (2004, 2024)
+TERMS = tuple(sorted(int(path.name[5:]) for path in DATA_DIR.glob("term_*")
+                     if path.is_dir() and path.name[5:].isdigit()))
 
 
 def read_csv(path):
@@ -60,16 +61,31 @@ class DatasetTests(unittest.TestCase):
                 self.assertEqual(recorded, pairs)
 
     def test_shared_precedents_keep_the_same_ids(self):
-        earlier = read_csv(DATA_DIR / "term_2004/cases.csv")
-        later = read_csv(DATA_DIR / "term_2024/cases.csv")
-        earlier_ids = {row["us_citation"].replace(" ", ""): row["case_id"] for row in earlier}
+        seen = {}
         shared = 0
-        for row in later:
-            citation = row["us_citation"].replace(" ", "")
-            if citation in earlier_ids:
-                self.assertEqual(row["case_id"], earlier_ids[citation], citation)
-                shared += 1
+        for term in TERMS:
+            for row in read_csv(DATA_DIR / f"term_{term}/cases.csv"):
+                citation = row["us_citation"].replace(" ", "")
+                if citation in seen:
+                    self.assertEqual(row["case_id"], seen[citation], citation)
+                    shared += 1
+                seen[citation] = row["case_id"]
         self.assertGreater(shared, 0, "Expected shared precedents across terms")
+
+    def test_expanded_sources_and_recorded_checks(self):
+        for term in (2020, 2021, 2022, 2023):
+            folder = DATA_DIR / f"term_{term}"
+            manifest = json.loads((folder / "manifest.json").read_text())
+            checks = json.loads((folder / "targeted_checks.json").read_text())
+            self.assertEqual(checks["all_sources_checked"], manifest["included_source_cases"])
+            self.assertEqual(manifest["eligible_source_cases"], manifest["included_source_cases"] + manifest["case_review_counts"]["needs_review"])
+            self.assertEqual(len(checks["samples"]), 3)
+        source = next(row for row in read_csv(DATA_DIR / "term_2023/cases.csv") if row["us_citation"] == "603 U.S. 369")
+        cited = next(row for row in read_csv(DATA_DIR / "term_2024/cases.csv") if row["us_citation"] == "603 U.S. 369")
+        self.assertEqual(source["is_source"], "True")
+        self.assertEqual(cited["is_source"], "False")
+        self.assertEqual(source["case_id"], cited["case_id"])
+
 
 
 if __name__ == "__main__":

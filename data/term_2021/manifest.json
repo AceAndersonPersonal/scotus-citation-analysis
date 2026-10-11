@@ -1,0 +1,52 @@
+{
+  "term": 2021,
+  "built_at": "2026-10-11T04:43:20.369588+00:00",
+  "scdb_release": "2025_01",
+  "scdb_term_cases": 65,
+  "eligible_source_cases": 61,
+  "included_source_cases": 60,
+  "case_review_counts": {
+    "included": 60,
+    "needs_review": 1,
+    "excluded": 4
+  },
+  "nodes": 916,
+  "binary_edges": 1004,
+  "citation_review_counts": {
+    "unpaginated_citation_needs_review": 85,
+    "ambiguous_target": 7,
+    "unresolved_target": 24
+  },
+  "sources_without_edges": [
+    "United States v. Texas",
+    "Arizona v. City and County of San Francisco",
+    "Marietta Memorial Hospital Employee Health Benefit Plan v. DaVita Inc."
+  ],
+  "review_status": "preliminary; automated checks with separately recorded targeted audits",
+  "scope": "SCDB argued types 1 and 6; complete majority/per-curiam sections; mixed opinions and unresolved source records held for review.",
+  "input_method": "Official Court PDFs; pypdf page-order text and supplemental body-font stream; common collector v1.",
+  "limitations": [
+    "Selected subset; whole opinions with mixed majority/plurality sections are held out.",
+    "Full U.S. Reports/nominative references and uniquely matched full-name unpaginated references; short forms alone do not establish identities.",
+    "Unresolved references are omitted and logged; targeted audits do not establish complete recall.",
+    "2004 uses archive links and 2024 uses an earlier PDF extraction implementation; method differences remain.",
+    "Citation links include procedural references and do not imply agreement or importance."
+  ],
+  "source_urls": [
+    "https://www.supremecourt.gov/opinions/slipopinion/21",
+    "https://scdb.la.psu.edu/data/2025-release-01/",
+    "https://static.case.law/"
+  ],
+  "input_sha256": {
+    "source_overrides.json": "c5eaa64ced6c3fba5c142c0661a5c231aa0f9cc4c13abc4fff9c3ad6dfb9fb98",
+    "scdb.zip": "bc2a4e3f1626c47a3242a149609fd081d4ee618ae0d47bc87e467d7d6f27b524",
+    "official-index.html": "e3e102505520642fde2ee098f3359466c1482479fc1866a6eb42bb2ba82cc0e1",
+    "term-roster.json": "01b5c76d718b78aaadeceeacc77d6f47adce3fcc28a67373097fee31635f21e5"
+  },
+  "unpaginated_links_resolved": 101,
+  "script_sha256": {
+    "collect_terms.py": "0980a40dcddc608b68bde41547c88f3e770c46cbcff4643ad7128021a7342549",
+    "build_term_dataset.py": "89f914b26cc55006d876d5586441086f4e92c981564f1697cc0348bc87b4dc82"
+  },
+  "id_policy": "Reuse published case IDs on exact reporter-citation matches; new IDs use us:volume:first_page."
+}

@@ -1,0 +1,82 @@
+{
+  "term": 2022,
+  "selection_rule": "Purposive cases covering report-part PDFs, corrected metadata, narrative dissent references, major opinions, and zero-link decisions.",
+  "all_sources_checked": 52,
+  "checks": [
+    "Unique selected texts",
+    "Author agrees with official index",
+    "Separate-opinion boundary when separate headers exist",
+    "Disposition present near selected end",
+    "Sample citation evidence offsets and graph membership"
+  ],
+  "limitations": "Automated targeted checks; no claim of manual full-opinion review or measured citation recall. Footnotes spanning section boundaries and unnamed short forms may be missed.",
+  "samples": [
+    {
+      "scdb_id": "2022-027",
+      "case_name": "In re Grand Jury",
+      "pdf_url": "https://www.supremecourt.gov/opinions/22pdf/598us1r2_d18e.pdf",
+      "pdf_sha256": "3fabf8e391bb523736ec4181fec8c79de94e1f2d9ea816e8ae7b92990d4f1ddc",
+      "text_sha256": "add4c223b6d0f5636196ed516163766de5a26b197848e839b2900571c10bc1e8",
+      "pdf_page_range": [
+        2,
+        4
+      ],
+      "selected_start": "Per Curiam.",
+      "selected_tail": "tlantic Legal Foundation by Lawrence S. Ebner , Ana Tagvoryan, and Arash Beral; for DRI Center for Law and Public Policy by E. Todd Presnell; for Federation of Defense & Corporate Counsel by Mary-Christine Sungaila; and for the New York Intellectual Property Law Association by Irena Royzman, Robert J. Rando, Robert M. Isackson, and Mark A. Chapman.",
+      "next_section": null,
+      "links": 0,
+      "citation_spot_checks": [],
+      "check_type": "automated targeted boundary and evidence checks"
+    },
+    {
+      "scdb_id": "2022-047",
+      "case_name": "Lora v. United States",
+      "pdf_url": "https://www.supremecourt.gov/opinions/22pdf/599us1r41_2bo2.pdf",
+      "pdf_sha256": "337341fd16d462a379b89feff32c3840fed571f0a4e25e64e4e6a8154c383db4",
+      "text_sha256": "54a72b37cee709f31c6ff5bad7ba6380fb672ab8b38799c46b7647501ffffada",
+      "pdf_page_range": [
+        2,
+        14
+      ],
+      "selected_start": "Justice Jackson delivered the opinion of the Court.",
+      "selected_tail": ") sentence concurrently with another sentence. We vacate the judgment of the Court of Appeals and remand the case for further proceedings consistent with this opinion. It is so ordered. results in homicide. See 140 Cong. Rec. 11165, 24066. Congress rejected that option and enacted a different version of that crime bill—which created subsection (j).",
+      "next_section": null,
+      "links": 0,
+      "citation_spot_checks": [],
+      "check_type": "automated targeted boundary and evidence checks"
+    },
+    {
+      "scdb_id": "2022-050",
+      "case_name": "Polselli v. IRS",
+      "pdf_url": "https://www.supremecourt.gov/opinions/22pdf/598us2r20_b07d.pdf",
+      "pdf_sha256": "ed40ef933c84dc7711bb4329fc16f9eb5d364590e17b6842b44f42a142a6a6d0",
+      "text_sha256": "e410630384e3b602cdf9701dd631e70d41ef5dd139291f1d4aa2861b120312c3",
+      "pdf_page_range": [
+        2,
+        19
+      ],
+      "selected_start": "Chief Justice Roberts delivered the opinion of the Court.",
+      "selected_tail": "on, both the briefng by the parties and the question presented focus only on whether the exception provided in § 7609(c)(2)(D)(i) requires that a taxpayer maintain a legal interest in records summoned by the IRS. For the reasons we have given, the answer is no. The judgment of the Court of Appeals for the Sixth Circuit is affrmed. It is so ordered.",
+      "next_section": "Justice Jackson, with whom Justice Gorsuch joins, \nconcurring. \nThe Court holds today that there is no “legal interest” \nlimitation on the ability of the Internal Revenue Service \nto summon records without notice under 26 U. S. C. \n§ 7609(c)(2)(D)(i)",
+      "links": 12,
+      "citation_spot_checks": [
+        {
+          "citation": "573 U.S. 248",
+          "context": "se concerns an exception to that general rule. I To pursue unpaid taxes and the people who owe them, “Congress has granted the Service broad latitude to issue summonses.” United States v. Clarke, 573 U. S. 248, 250 (2014). Among other things, the IRS may issue a summons to “determin[e] the liability” of a taxpayer or “any tra",
+          "target": "UNITED STATES v. CLARKE"
+        },
+        {
+          "citation": "469 U.S. 310",
+          "context": "IRS also may serve a summons to “collec[t] any such liability.” Ibid. These summonses can extend to third parties beyond the taxpayer under investigation. Tiffany Fine Arts, Inc. v. United States, 469 U. S. 310, 315–316 (1985). Accordingly, the IRS may request the production of “books, papers, records, or other data” from “any",
+          "target": "Tiffany Fine Arts, Inc. v. United States"
+        },
+        {
+          "citation": "566 U.S. 284",
+          "context": "district courts with “jurisdiction to hear and determine any proceeding” concerning a motion to quash, § 7609(h)(1), thereby waiving the sovereign immunity of the United States, see FAA v. Cooper, 566 U. S. 284, 290 (2012). There are, however, exceptions to the notice requirement. As relevant, the IRS need not provide notice",
+          "target": "FEDERAL AVIATION ADMINISTRATION, et al., PETITIONERS v. STANMORE CAWTHON COOPER"
+        }
+      ],
+      "check_type": "automated targeted boundary and evidence checks"
+    }
+  ]
+}

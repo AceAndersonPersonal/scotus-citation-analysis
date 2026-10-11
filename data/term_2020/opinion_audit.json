@@ -1,0 +1,932 @@
+[
+  {
+    "scdb_id": "2020-001",
+    "case_id": "us:592:98",
+    "majority_start": "Justice Kavanaugh delivered the opinion of the Court.",
+    "next_section": "Justice Alito , concurring in the judgment in part and \ndissenting in part. \nI agree with the Court's rejection of Texas's argument \nthat New Mexico forfeited any objection to the River Mas-\n2 The Court has previously stated that the River Master's d",
+    "text_sha256": "2938293a6ed9891e3cc83909e2694553fb454c43e2a0a11dbd936a2c21a62309",
+    "pdf_sha256": "6bf297333aade78f011a1bc4fc79f1f4acad821152c7c56466996ac3548a323f",
+    "majority_characters": 17423,
+    "body_characters": 16340,
+    "pdf_page_range": [
+      138,
+      150
+    ],
+    "join_statements": [
+      "Kavanaugh, J., delivered the opinion of the Court, in which Roberts, \nC. J., and Thomas, Breyer, Sotomayor, Kagan, and Gorsuch, JJ., \njoined. Alito, J., fled an opinion concurring in the judgment in part and \ndissenting in part, post, p. 108. Barrett, J., took no part in the consideration or decision of the case. \nKyle D. Hawkins, Solicitor General of Texas, argued the \ncause for plaintiff. With him on the briefs were Ken Paxton, Attorney General of Texas, Jeffrey C. Mateer, First Assistant Attorney General, Bill Davis, Deputy Solicitor General, Heather Gebelin Hacker, Assistant Solicitor General, \nand Abigail M. Frisch, Assistant Attorney General. \nJeffrey J. Wechsler, Special Assistant Attorney General of \nNew Mexico, argued the cause for defendant. With him on \nthe brief were Hector H. Balderas, Attorney General of New \nMexico, Tania Maestas, Deputy Attorney "
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-002",
+    "case_id": "us:592:53",
+    "majority_start": "Justice Breyer delivered the opinion of the Court.",
+    "next_section": "Justice Sotomayor, concurring. \nI agree that respondent Adams did not demonstrate Article III standing to bring this suit. Because the constitutional questions in this case will likely be raised again, I \nwrite separately to highlight two important c",
+    "text_sha256": "d1fb56676220d4b3721d6359dd61a8d9c38b64e15e02a89aa5c195ad13f21293",
+    "pdf_sha256": "6bf297333aade78f011a1bc4fc79f1f4acad821152c7c56466996ac3548a323f",
+    "majority_characters": 24065,
+    "body_characters": 22820,
+    "pdf_page_range": [
+      93,
+      108
+    ],
+    "join_statements": [
+      "Breyer, J., delivered the opinion of the Court, in which all other Members joined, except Barrett, J., who took no part in the consideration or \ndecision of the case. Sotomayor, J., fled a concurring opinion, post, \np. 66. \nMichael W. McConnell argued the cause for petitioner. \nWith him on the briefs were Steffen N. Johnson, Brian J. \nLevy, Randy J. Holland, David C. McBride, Martin S. \nLessner, and Pilar G. Kraman. \nDavid L. Finger argued the cause and fled a brief for \nrespondent.* \n*Briefs of amici curiae urging reversal were fled for the Brennan Center for Justice at NYU School of Law by Richard W. Clary and Wendy R. \nWeiser; for the Campaign Legal Center by Caitlin Halligan, Philippe\n"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-003",
+    "case_id": "us:592:43",
+    "majority_start": "Justice Thomas delivered the opinion of the Court.",
+    "next_section": null,
+    "text_sha256": "40766ed8f5edae85a310b95a9954210e4a4ab8500e759550669747acfc0011e9",
+    "pdf_sha256": "6bf297333aade78f011a1bc4fc79f1f4acad821152c7c56466996ac3548a323f",
+    "majority_characters": 15828,
+    "body_characters": 14684,
+    "pdf_page_range": [
+      83,
+      92
+    ],
+    "join_statements": [
+      "Thomas, J., delivered the opinion of the Court, in which all other Members joined, except Barrett, J., who took no part in the consideration or \ndecision of the case. \nDeputy Solicitor General Kneedler argued the cause for \npetitioners. With him on the brief were Solicitor General \nFrancisco, Assistant Attorney General Hunt, Deputy Solicitor General Wall, Deputy Assistant Attorney General \nMooppan, Austin L. Raynor, Benjamin H. Torrance, Sarah S. \nNormand, Mary Hampton Mason, and Reginald M. Skinner. \nRamzi Kassem argued the cause for respondents. With \nhim on the brief were Naz Ahmad, Shayana Kadidal, Baher \nAzmy, Jennifer R. Cowan, Erol Gulay, Christopher S. Ford, \nand Sandy Tomasik.* \n*Geoffrey T. Blackwell fled a brief for American Atheists et al. as amici \ncuriae urging reversal. \nBriefs of amici curiae urging affrmance were fled for the AmericanArab Ant"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-004",
+    "case_id": "us:592:80",
+    "majority_start": "Justice Sotomayor delivered the opinion of the Court.",
+    "next_section": "Justice Thomas, concurring. \nI join the Court's opinion in full because it properly applies \nour precedents interpreting the pre-emptive effect of the \nEmployee Retirement Income Security Act of 1974 (ERISA), \n29 U. S. C. § 1144. \nI write separately ",
+    "text_sha256": "03e849dd0534dbf0a689555324e3124ed9a959679e386d9aae9c4e8992ffdd40",
+    "pdf_sha256": "6bf297333aade78f011a1bc4fc79f1f4acad821152c7c56466996ac3548a323f",
+    "majority_characters": 18822,
+    "body_characters": 16552,
+    "pdf_page_range": [
+      120,
+      137
+    ],
+    "join_statements": [
+      "Sotomayor, J., delivered the opinion of the Court, in which all other \nMembers joined, except Barrett, J., who took no part in the consideration or decision of the case. Thomas, J., fled a concurring opinion, \npost, p. 92.\n82 R UTLEDGE v. PHARMACEUTICAL CARE \nMANAGEMENT ASSN. \nCounsel \nNicholas J. Bronni, Solicitor General of Arkansas, argued \nthe cause for petitioner. With him on the briefs were Leslie \nRutledge, Attorney General, pro se, Vincent M. Wagner, \nDeputy Solicitor General, Asher Steinberg and Dylan L. Jacobs, Assistant Solicitors General, and Shawn J. Johnson, Senior Assistant Attorney General. \nFrederick Liu argued the cause for the United States \nas amicus curiae urging reversal. With him on the brief \nwere Solicitor General Francisco, Deputy Solicitor General \nKneedler, G. William Scott, and Wayne R. Berry. \nSeth P . Waxman argued the cause for re"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-005",
+    "case_id": "us:592:351",
+    "majority_start": "Justice Kagan delivered the opinion of the Court.",
+    "next_section": "Justice Alito, concurring in the judgment. \nThese cases can and should be decided without any alteration or refnement of our case law on specifc personal jurisdiction. To be sure, for the reasons outlined in Justice \nGorsuch's thoughtful opinion, the",
+    "text_sha256": "780e8aa28e113475013e811faa1230f04f82321ca647d89e9f7b50b544fb9b0b",
+    "pdf_sha256": "f91b638e8c58c382ce682c8ff763beffc16356bf21df7b294c69d7653690e438",
+    "majority_characters": 39115,
+    "body_characters": 31943,
+    "pdf_page_range": [
+      2,
+      35
+    ],
+    "join_statements": [
+      "Kagan, J., delivered the opinion of the Court, in which Roberts, C. J., \nand Breyer, Sotomayor, and Kavanaugh, JJ., joined. Alito, J., fled \nan opinion concurring in the judgment, post, p. 372. Gorsuch, J., fled an \nopinion concurring in the judgment, in which Thomas, J., joined, post, \np. 375. Barrett, J., took no part in the consideration or decision of the \ncases. \nSean Marotta argued the cause for petitioner in both \ncases. With him on the briefs were Neal Kumar Katyal, \nJessica L. Ellsworth, Kirti Datla, Mitchell P . Reich, Reedy \nC. Swanson, and Erin R. Chapman. \nDeepak Gupta argued the cause for respondents in both \ncases. With him on the brief were Gregory A. Beck and \nJennifer Bennett.† \n†Briefs of amici curiae urging reversal in both cases were fled for the \nUnited States by Solicitor General Francisco, Assistant Attorney General Hunt, Deputy Solic"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-006",
+    "case_id": "us:593:1",
+    "majority_start": "Justice Breyer delivered the opinion of the Court.",
+    "next_section": "Justice Thomas , with whom Justice Alito joins, \ndissenting. \nOracle spent years developing a programming library that \nsuccessfully attracted software developers, thus enhancing \nthe value of Oracle's products. 1 Google sought a license to \nuse the ",
+    "text_sha256": "9e880a4850396c416cff537128b5bdd70a2a06110fe0bd6b6b51e18f6c5f441e",
+    "pdf_sha256": "23827beee1980fe872d62c58a9711ba484bbdc73a9aeb0d7c2bcba8cc591c5bc",
+    "majority_characters": 73065,
+    "body_characters": 71048,
+    "pdf_page_range": [
+      2,
+      61
+    ],
+    "join_statements": [
+      "Breyer, J., delivered the opinion of the Court, in which Roberts, C. J., \nand Sotomayor, Kagan, Gorsuch, and Kavanaugh, JJ., joined. Thomas, J., fled a dissenting opinion, in which Alito, J., joined, post, p. 43. \nBarrett, J., took no part in the consideration or decision of the case. \nThomas C. Goldstein argued the cause for petitioner. \nWith him on the briefs were Sarah E. Harrington, Kevin K. \nRussell, Daniel Woofter, Erica Oleszczuk Evans, Michael \nS. Kwun, Bruce W. Baber, Catherine Lacavera, Lisa S. \nBlatt, David M. Krinsky, Sarah M. Harris, Robert A. Van \nNest, Eugene M. Paige, and Reid P . Mullen. \nE. Joshua Rosenkranz argued the cause for respondent. \nWith him on the brief were Annette L. Hurst, Lisa T. Simpson, Andrew D. Silverman, Matthew R. Shahabian, Jeremy \nPeterman, Hannah Garden-Monheit, Dorian E. Daley, \nDeborah K. Miller, Dale M. Cendali, and"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-007",
+    "case_id": "us:592:154",
+    "majority_start": "Justice Alito delivered the opinion of the Court.",
+    "next_section": "Justice Sotomayor, concurring. \nSection 362(a)(3) of the Bankruptcy Code provides that the \nfling of a bankruptcy petition “operates as a stay” of “any \nact . . . to exercise control over property of the [bankruptcy] \nestate.” 11 U. S. C. § 362(a)(3)",
+    "text_sha256": "38221534225a9a3ca886469112a8a2ca71d099376dd392e425503a498e4d8760",
+    "pdf_sha256": "6bf297333aade78f011a1bc4fc79f1f4acad821152c7c56466996ac3548a323f",
+    "majority_characters": 12437,
+    "body_characters": 11636,
+    "pdf_page_range": [
+      194,
+      207
+    ],
+    "join_statements": [
+      "Alito, J., delivered the opinion of the Court, in which all other Members \njoined, except Barrett, J., who took no part in the consideration or decision of the case. Sotomayor, J., fled a concurring opinion, post, p. 162. \nCraig Goldblatt argued the cause for petitioner. With \nhim on the briefs were Danielle Spinelli, Joel Millar, Isley \nGostin, Mark A. Flessner, Benna Ruth Solomon, and Myriam Zreczny Kasper. \nColleen E. Roh Sinzdak argued the cause for the United \nStates as amicus curiae urging reversal. With her on the \nbrief were Solicitor General Francisco, Assistant Attorney \nGeneral Hunt, Deputy Solicitor General Stewart, and Mark \nB. Stern. \nEugene R. Wedoff argued the cause for respondents. \nWith him on the brief were John P . Wonais, Michael A. \nMiller, Catherine Steege, and Carl Wedoff.* \n*Briefs of amici curiae urging reversal were fled for the Na"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-008",
+    "case_id": "us:592:69",
+    "majority_start": "Justice Alito delivered the opinion of the Court.",
+    "next_section": "Justice Gorsuch, concurring. \nI continue to think this Court lacks jurisdiction to hear \nappeals directly from the CAAF. See Ortiz v. United \nStates, 585 U. S. 427, 463 (2018) (Alito , J., dissenting). But \na majority of the Court believes we have ju",
+    "text_sha256": "2519ee1b3a8a65bcabc806fd2ef9b5321362059f7aedd47a662241e271aa1c38",
+    "pdf_sha256": "6bf297333aade78f011a1bc4fc79f1f4acad821152c7c56466996ac3548a323f",
+    "majority_characters": 15875,
+    "body_characters": 15714,
+    "pdf_page_range": [
+      109,
+      119
+    ],
+    "join_statements": [
+      "Alito, J., delivered the opinion of the Court, in which all other Members \njoined, except Barrett, J., who took no part in the consideration or decision of the cases. Gorsuch, J., fled a concurring opinion, post, p. 79. \nActing Solicitor General Wall argued the cause for petitioner in both cases. On the briefs were Solicitor General \nFrancisco, Assistant Attorney General Benczkowski, Deputy Solicitor General Feigin, Christopher G. Michel, Rebecca Taibleson, Paul T. Crane, Mary Ellen Payne, and \nBrian C. Mason. \nStephen I. Vladeck argued the cause for respondents in \nboth cases. With him on the brief were Terri R. Zimmermann, J. Carl Cecere, Mark Schwartz, M. Dedra Campbell, \nJohnathan D. Legg, David P . Sheldon, Tami L. Mitchell, and \nWilliam E. Cassara.† \n†Allyson N. Ho, Bradley G. Hubbard, and Paul G. Cassell fled a brief \nof amici curiae for Members of Co"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-009",
+    "case_id": "us:592:306",
+    "majority_start": "Chief Justice Roberts delivered the opinion of the Court.",
+    "next_section": "Justice Gorsuch, with whom Justice Thomas and \nJustice Alito join, dissenting. \nThe majority holds that a criminal suspect can be simultaneously seized and roaming at large. On the majority's account, a Fourth Amendment “seizure” takes place whenever",
+    "text_sha256": "a3f5d8a98325f9deeaafdcd3c41f65456d93d9d010c39bb7f05c1810815f71ab",
+    "pdf_sha256": "4a0e77e7c462b1ca3a9185afa1406677b4e5b28cee2f9fdfc78f5929d4c87f53",
+    "majority_characters": 33646,
+    "body_characters": 33128,
+    "pdf_page_range": [
+      2,
+      46
+    ],
+    "join_statements": [
+      "Roberts, C. J., delivered the opinion of the Court, in which Breyer, \nSotomayor, Kagan, and Kavanaugh, JJ., joined. Gorsuch, J., fled a \ndissenting opinion, in which Thomas and Alito, JJ., joined, post, p. 325. \nBarrett, J., took no part in the consideration or decision of the case. \nKelsi Brown Corkran argued the cause for petitioner. \nWith her on the briefs were E. Joshua Rosenkranz, Rachel \nG. Shalev, Thomas M. Bondy, and Eric D. Dixon. \nRebecca Taibleson argued the cause for the United States \nas amicus curiae urging vacatur. With her on the brief \nwere Solicitor General Francisco, Assistant Attorneys \nGeneral Benczkowski and Dreiband, Deputy Solicitor \nGeneral Feigin, Deputy Assistant Attorney General Maugeri, Tovah R. Calderon, Jenny C. Ellickson, and Brant S. \nLevine. \nMark D. Standridge argued the cause for respond -\nents. With him on the brief were Mark "
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-010",
+    "case_id": "us:592:224",
+    "majority_start": "Justice Gorsuch delivered the opinion of the Court.",
+    "next_section": "Justice Breyer , with whom Justice Sotomayor and \nJustice Kagan join, dissenting. \nThis case, in my view, has little or nothing to do with burdens of proof. It concerns the application of what we have \ncalled the “categorical approach” to determine t",
+    "text_sha256": "2720f068770bbeb5370c86d9b614671984100c4f685a052a5b5f14c6b32040f8",
+    "pdf_sha256": "e06fa515ec7e0ff0900f3ed7946fb40af5a67134ae5eae6b34b664120cfb0222",
+    "majority_characters": 33649,
+    "body_characters": 28254,
+    "pdf_page_range": [
+      2,
+      38
+    ],
+    "join_statements": [
+      "Gorsuch, J., delivered the opinion of the Court, in which Roberts, \nC. J., and Thomas, Alito, and Kavanaugh, JJ., joined. Breyer, J., fled a \ndissenting opinion, in which Sotomayor and Kagan, JJ., joined, post, p. 243. \nBarrett, J., took no part in the consideration or decision of the case. \nBrian P . Goldman argued the cause for petitioner. With \nhim on the briefs were Kory DeClark, E. Joshua Rosenkranz, David V. Chipman, Raul F. Guerra, Thomas M. \nBondy, and Benjamin P . Chagnon. \nJonathan C. Bond argued the cause for the respondent. \nWith him on the brief were Solicitor General Francisco, Assistant Attorney General Hunt, Deputy Solicitor General \nKneedler, Donald E. Keener, John W. Blakeley, and Patrick \nJ. Glen.* \n*Briefs of amici curiae urging reversal were fled for Former United \nStates Immigration Judges et al. by David G. Keyko; for the Immigrant \nDefe"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-011",
+    "case_id": "us:592:261",
+    "majority_start": "Justice Barrett delivered the opinion of the Court.",
+    "next_section": "Justice Breyer , with whom Justice Sotomayor joins, \ndissenting. \nBecause the word “draft” may here prove misleading, it \nshould help the reader understand my argument if he or she \nkeeps in mind three different but related kinds of documents: \n“Fina",
+    "text_sha256": "a3c5ac544b3d51809ab59f0cf9606f7b54071e65e3262f2be78fb061517e557c",
+    "pdf_sha256": "0de8cbea5e6309e6dec8901a674799104713d2fb70e0059593b1be60fd74f7df",
+    "majority_characters": 20204,
+    "body_characters": 17925,
+    "pdf_page_range": [
+      2,
+      19
+    ],
+    "join_statements": [
+      "Barrett, J., delivered the opinion of the Court, in which Roberts, \nC. J., and Thomas, Alito, Kagan, Gorsuch, and Kavanaugh, JJ., joined.\nBreyer, J., fled a dissenting opinion, in which Sotomayor, J., joined, post, \np. 273. \nMatthew Guarnieri argued the cause for petitioners. \nWith him on the briefs were Solicitor General Francisco, \nActing Solicitor General Wall, Assistant Attorneys General \nHunt and Clark, Deputy Solicitor General Kneedler, Michael \nR. Huston, H. Thomas Byron III, and Thomas Pulham. \nSanjay Narayan argued the cause for respondent. With \nhim on the brief were Elena Saxonhouse, Matthew Miller, \nScott L. Nelson, and Reed Super.* \n"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-012",
+    "case_id": "us:592:188",
+    "majority_start": "Justice Sotomayor delivered the opinion of the Court.",
+    "next_section": "Justice Thomas, with whom Justice Alito, Justice \nGorsuch and Justice Barrett join, dissenting. \nThe Court may well correctly interpret the judicial review \nprovision located in the Railroad Unemployment Insurance \nAct (RUIA). See 45 U. S. C. § 355(f",
+    "text_sha256": "f914d3f1271256ff5341a74b1402bfdf449891234529810ee656b58e943a3d5e",
+    "pdf_sha256": "6bf297333aade78f011a1bc4fc79f1f4acad821152c7c56466996ac3548a323f",
+    "majority_characters": 25367,
+    "body_characters": 22449,
+    "pdf_page_range": [
+      228,
+      246
+    ],
+    "join_statements": [
+      "Sotomayor, J., delivered the opinion of the Court, in which Roberts, \nC. J., Breyer, Kagan, and Kavanaugh, JJ., joined. Thomas, J., fled a \ndissenting opinion, in which Alito , Gorsuch, and Barrett, JJ., joined, \npost, p. 202.\nSarah M. Harris argued the cause for petitioner. \nWith her on the briefs were Lisa S. Blatt and Charles L. \nMcCloud. \nAustin L. Raynor argued the cause for respondent. With \nhim on the brief were Solicitor General Francisco, Deputy \nSolicitor General Kneedler, Assistant Attorney General \nHunt, Charles W. Scarborough, and Sonia M. Carson. \n"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-014",
+    "case_id": "us:593:98",
+    "majority_start": "Justice Kavanaugh delivered the opinion of the Court.",
+    "next_section": "Justice Thomas, concurring in the judgment. \nThe Court correctly holds that the Eighth Amendment \ndoes not require a fnding that a minor be permanently incorrigible as a prerequisite to a sentence of life without parole. \nBut in reaching that result,",
+    "text_sha256": "0bddc5ff9fea4d9bfa7d6e8862fd8113f8dfacb98b6fd3e47cd58d48500019d7",
+    "pdf_sha256": "e21708b8149950e5326d7bddc50b44ef694f4543740686f0b7a5045c4ba5612e",
+    "majority_characters": 45452,
+    "body_characters": 36628,
+    "pdf_page_range": [
+      2,
+      55
+    ],
+    "join_statements": [
+      "Kavanaugh, J., delivered the opinion of the Court, in which Roberts, \nC. J., Alito, Gorsuch, and Barrett, JJ., joined. Thomas, J., fled an \nopinion concurring in the judgment, post, p. 121. Sotomayor, J., fled a \ndissenting opinion, in which Breyer and Kagan, JJ., joined, post, p. 129. \nDavid M. Shapiro argued the cause for petitioner. With \nhim on the briefs were Amir H. Ali, Devi Rao, Jacob Howard, and Jeffrey T. Green. \nKrissy C. Nobile, Deputy Solicitor General of Mississippi, \nargued the cause for respondent. With her on the brief \nwere Lynn Fitch, Attorney General of Mississippi, Kristi H. \nJohnson, Solicitor General, Justin L. Matheny, Assistant Solicitor General, and Scott Stuart, Special Assistant Attorney General. \nFrederick Liu argued the cause for the United States as \namicus curiae urging affrmance. With him on the brief\nwere Acting Solicitor Genera"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-015",
+    "case_id": "us:593:522",
+    "majority_start": "Chief Justice Roberts delivered the opinion of the Court.",
+    "next_section": "Justice Barrett, with whom Justice Kavanaugh joins, \nand with whom Justice Breyer joins as to all but the frst \nparagraph, concurring. \nIn Employment Div., Dept. of Human Resources of Ore. \nv. Smith, 494 U. S. 872 (1990), this Court held that a neutr",
+    "text_sha256": "4c786337b1536e0e2228dea2c38f9b3ac0ce1677438b6f47d111f338bca420b4",
+    "pdf_sha256": "7688ac1a239c89eb58922876b61bff2f301f0ae8683ca3d64e73b00eb6fb953d",
+    "majority_characters": 36906,
+    "body_characters": 27902,
+    "pdf_page_range": [
+      2,
+      107
+    ],
+    "join_statements": [
+      "Roberts, C. J., delivered the opinion of the Court, in which Breyer, \nSotomayor, Kagan, Kavanaugh, and Barrett, JJ., joined. Barrett, \nJ., fled a concurring opinion, in which Kavanaugh, J., joined, and in which \nBreyer, J., joined as to all but the frst paragraph, post, p. 543. Alito, \nJ., fled an opinion concurring in the judgment, in which Thomas and Gor-\nsuch, JJ., joined, post, p. 545. Gorsuch, J., fled an opinion concurring in \nthe judgment, in which Thomas and Alito, JJ., joined, post, p. 618. \nLori H. Windham argued the cause for petitioners. With \nher on the briefs were Mark L. Rienzi, Eric C. Rassbach, \nWilliam J. Haun, and Nicholas R. Reaves. \nDeputy Assistant Attorney General Mooppan argued the \ncause for the United States as amicus curiae urging reversal. With him on the brief were Solicitor General Francisco, Assistant Attorneys General Hunt and Drei"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-016",
+    "case_id": "us:592:209",
+    "majority_start": "Justice Thomas delivered the opinion of the Court.",
+    "next_section": "Justice Sotomayor, concurring. \nI join the Court's opinion because I agree that the District \nCourt dismissed King's Federal Tort Claims Act (FTCA) \nclaims on the merits. Importantly, the Court does not today \ndecide whether an order resolving the me",
+    "text_sha256": "1d0470e92555208605c8f0eb1294aa990b209d85eb8eb7f72e37760dacf90878",
+    "pdf_sha256": "ab86178527114df990a97e4bf003874663c9fa71072ee3b6e32bd195b993f76f",
+    "majority_characters": 17780,
+    "body_characters": 13349,
+    "pdf_page_range": [
+      2,
+      16
+    ],
+    "join_statements": [
+      "Thomas, J., delivered the opinion for a unanimous Court. Sotomayor, \nJ., fled a concurring opinion, post, p. 219. \nMichael R. Huston argued the cause for petitioners. \nWith him on the briefs were Solicitor General Francisco, \nActing Solicitor General Wall, Assistant Attorney General \nHunt, Deputy Solicitor General Wall, Deputy Assistant Attorney General Mooppan, and Mark B. Stern. \nPatrick M. Jaicomo argued the cause for respondent. \nWith him on the brief were Anya Bidwell and D. Andrew \nPortinga.* \n"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-017",
+    "case_id": "us:593:155",
+    "majority_start": "Justice Gorsuch delivered the opinion of the Court.",
+    "next_section": "Justice Kavanaugh, with whom The Chief Justice \nand Justice Alito join, dissenting. \nAgusto Niz-Chavez is a native and citizen of Guatemala. \nIn 2005, Niz-Chavez unlawfully entered the United States \nthrough the southern border and eventually settled",
+    "text_sha256": "3cf7b2fe0b79bbe600625060845e8470429d15251e739fb2b9cf9f87bcc7035a",
+    "pdf_sha256": "52e1c2d11acf20ed9b9c9c493251eace454892f9c420d41a236199b7ae3d5150",
+    "majority_characters": 30909,
+    "body_characters": 27763,
+    "pdf_page_range": [
+      2,
+      40
+    ],
+    "join_statements": [
+      "Gorsuch, J., delivered the opinion of the Court, in which Thomas, \nBreyer, Sotomayor, Kagan, and Barrett, JJ., joined. Kavanaugh, \nJ., fled a dissenting opinion, in which Roberts, C. J., and Alito , J., joined, \npost, p. 172. \nDavid J. Zimmer argued the cause for petitioner. With him \non the briefs were Gerard J. Cedrone and Benjamin Hayes. \nAnthony A. Yang argued the cause for respondent. With \nhim on the brief were Acting Solicitor General Wall, Acting \nAssistant Attorney General Clark, Deputy Solicitor General Kneedler, Donald E. Keener, John W. Blakeley, and \nPatrick J. Glen.* \n"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-018",
+    "case_id": "us:593:659",
+    "majority_start": "Justice Breyer delivered the opinion of the Court.",
+    "next_section": "Justice Thomas, concurring. \nThere is much to commend Justice Alito's account of “our \nepic Affordable Care Act trilogy.” Post, at 685 (dissenting \nopinion). This Court has gone to great lengths to rescue the \nAct from its own text. Post, at 685–686.",
+    "text_sha256": "1a588c8537bf98683b85543a29991bceabfbbd421a97584dbbea43ce4cd294f3",
+    "pdf_sha256": "75b0f178fc2ff165aac3e6529eb21fd1b44bf6983d52194de6e1790433b82ff3",
+    "majority_characters": 34599,
+    "body_characters": 29689,
+    "pdf_page_range": [
+      2,
+      58
+    ],
+    "join_statements": [
+      "Breyer, J., delivered the opinion of the Court, in which Roberts, C. J., \nand Thomas, Sotomayor, Kagan, Kavanaugh, and Barrett, JJ., joined. \nThomas, J., fled a concurring opinion, post, p. 680. Alito, J., fled a dissenting opinion, in which Gorsuch, J., joined, post, p. 685. \nMichael J. Mongan, Solicitor General of California, argued \nthe cause for California et al. in both cases. With him on \nthe briefs were Xavier Becerra, Attorney General of California, Samuel P . Siegel, Deputy Solicitor General, Kathleen \nBoergers, Supervising Deputy Attorney General, Nimrod \nPitsker Elias and Neli N. Palma, Deputy Attorneys General, and Amari L. Hammonds, Associate Deputy Solicitor \nGeneral, and by the Attorneys General and other offcials\n662 CALIFORNIA v. TEXAS \nCounsel \nfor their respective jurisdictions as follows: Philip J. Weiser, \nAttorney General of Colorado, Er"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-019",
+    "case_id": "us:593:374",
+    "majority_start": "Justice Barrett delivered the opinion of the Court.",
+    "next_section": "Justice Thomas, with whom The Chief Justice and \nJustice Alito join, dissenting. \nBoth the common law and statutory law have long punished those who exceed the scope of consent when using \nproperty that belongs to others. A valet, for example, may \nt",
+    "text_sha256": "ccd7837c5b37c6feaefd3110a7e7b2e26815bdef22f01a4bb5b7e5f7f2093248",
+    "pdf_sha256": "cbd94e4c35491d0b2cb9adb545e3481816069b4cce1a25b4db614e741548140c",
+    "majority_characters": 39875,
+    "body_characters": 31595,
+    "pdf_page_range": [
+      2,
+      36
+    ],
+    "join_statements": [
+      "Barrett, J., delivered the opinion of the Court, in which Breyer, \nSotomayor, Kagan, Gorsuch, and Kavanaugh, JJ., joined. Thomas, J., \nfled a dissenting opinion, in which Roberts, C. J., and Alito, J., joined, \npost, p. 397. \nJeffrey L. Fisher argued the cause for petitioner. With \nhim on the briefs were Pamela S. Karlan, Brian H. Fletcher, and Saraliene Smith Durrett. \nDeputy Solicitor General Feigin argued the cause for the \nUnited States. With him on the brief were Acting Solicitor \nGeneral Wall, Acting Assistant Attorney General Rabbitt, \nMorgan L. Ratner, and Jenny C. Ellickson.* \n*Briefs of amici curiae urging reversal were fled for the Americans for \nProsperity Foundation by R. James Valvo III and Michael Pepson; for \nthe Committee for Justice by Anthony J. Dick, Yaakov M. Roth, Alex \nPotapov, and Curt Levey; for Computer Security Researchers et al. by "
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-020",
+    "case_id": "us:593:255",
+    "majority_start": "Justice Kavanaugh delivered the opinion of the Court.",
+    "next_section": "Justice Thomas, with whom Justice Gorsuch joins, \nconcurring. \nI join the majority in full because it correctly charts its \nway through precedent to hold expressly what we have long \nimplied: “New procedural rules do not apply retroactively on \nfeder",
+    "text_sha256": "74839cb53d455c9a336eac8b5fb163d8a9de36c5dbed9527a06d33e9545d6f73",
+    "pdf_sha256": "aa2a60ff15d80f6fe8e5706e9f0dc75121eb9e981c7c0b63b21fe3c301151192",
+    "majority_characters": 38446,
+    "body_characters": 32732,
+    "pdf_page_range": [
+      2,
+      56
+    ],
+    "join_statements": [
+      "Kavanaugh, J., delivered the opinion of the Court, in which Roberts, \nC. J., Thomas, Alito, Gorsuch, and Barrett, JJ., joined. Thomas, J., \nfled a concurring opinion, in which Gorsuch, J., joined, post, p. 276. \nGorsuch, J., fled a concurring opinion, in which Thomas, J., joined, post, \np. 282. Kagan, J., fled a dissenting opinion, in which Breyer and Sotomayor, JJ., joined, post, p. 295. \nAndré Bélanger argued the cause for petitioner. With \nhim on the briefs were Yigal Bander, James P . Manasseh, \nCollin P . Wedel, Andrew B. Talai, Jeffrey T. Green, and \nNaomi A. Igra. \nElizabeth Baker Murrill, Solicitor General of Louisiana, \nargued the cause for respondent. With her on the brief \nwere Jeff Landry, Attorney General of Louisiana, Shae McPhee, Deputy Solicitor General, Josiah M. Kollmeyer, Assistant Solicitor General, Hillar Moore , Stacy Wright, and Jeffrey M."
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-022",
+    "case_id": "us:593:209",
+    "majority_start": "Justice Kagan delivered the opinion of the Court.",
+    "next_section": "Justice Sotomayor, concurring. \nI concur because I agree that CIC Services, a material \nadvisor to taxpayers engaged in micro-captive transactions, \ndoes not bring this suit “for the purpose of restraining the \nassessment or collection of any tax,” 2",
+    "text_sha256": "614e4b201d066a9fc5369e3d79e137bd25747237f9e7a0ccc4ac0504afec9b3a",
+    "pdf_sha256": "c29edfc66eaffdc83532e25c1b90d2668fe5b75eb7feb4add0d57ea9cfed3557",
+    "majority_characters": 31837,
+    "body_characters": 28022,
+    "pdf_page_range": [
+      2,
+      22
+    ],
+    "join_statements": [
+      "Kagan, J., delivered the opinion for a unanimous Court. Sotomayor, \nJ., post , p. 226, and K avanaugh, J ., post , p. 227, filed concurring \nopinions. \nCameron T. Norris argued the cause for petitioner. With \nhim on the briefs were Patrick Strawbridge, Bryan Weir, \nAdam R. Webber, and Kenneth A. Lazarus. \nJonathan C. Bond argued the cause for respondents. \nWith him on the brief were Acting Solicitor General Wall, \nPrincipal Deputy Assistant Attorney General Zuckerman,\nDeputy Solicitor General Stewart, Ellen Page DelSole, and \nBethany B. Hauser.* \n"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-025",
+    "case_id": "us:592:207",
+    "majority_start": "Per Curiam.",
+    "next_section": null,
+    "text_sha256": "fc1570408044dbc060725c50c50e9726f7e00a94e013b79a126121d8254a1785",
+    "pdf_sha256": "6bf297333aade78f011a1bc4fc79f1f4acad821152c7c56466996ac3548a323f",
+    "majority_characters": 2358,
+    "body_characters": 264,
+    "pdf_page_range": [
+      247,
+      250
+    ],
+    "join_statements": [],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-026",
+    "case_id": "us:592:169",
+    "majority_start": "Chief Justice Roberts delivered the opinion of the Court.",
+    "next_section": null,
+    "text_sha256": "b7a038e14562e7904413ba1bc5e7d4af30d29394487ef49109deafdbf442c0d4",
+    "pdf_sha256": "6bf297333aade78f011a1bc4fc79f1f4acad821152c7c56466996ac3548a323f",
+    "majority_characters": 29074,
+    "body_characters": 29074,
+    "pdf_page_range": [
+      209,
+      227
+    ],
+    "join_statements": [
+      "Roberts, C. J., delivered the opinion for a unanimous Court. \nJonathan M. Freiman argued the cause for petitioners. \nWith him on the briefs were Tadhg Dooley, Benjamin M. \nDaniels, and David R. Roth. \nDeputy Solicitor General Kneedler argued the cause for \nthe United States as amicus curiae urging reversal. With \nhim on the brief were Acting Solicitor General Wall, Sopan \nJoshi, Colleen E. Roh Sinzdak, Sharon Swingle, and Joshua \nK. Handell. \nNicholas M. O'Donnell argued the cause for respondents. \nWith him on the brief was Erika L. Todd.* \n*Briefs of amici curiae urging reversal were fled for Foreign International Law Scholars et al. by Lisa M. Geary; for Société Nationale SNCF \nSA by John B. Bellinger III, Sally L. Pei, and R. Reeves Anderson; \nand for Davis R. Robinson et al. by James H. Hulme and Timothy J. \nFeighery. \nBriefs of amici curiae urging affrmance "
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-027",
+    "case_id": "us:592:395",
+    "majority_start": "Justice Sotomayor delivered the opinion of the Court.",
+    "next_section": "Justice Alito, concurring in the judgment. \nI agree with the Court that an “automatic telephone dialing system,” as defned in the Telephone Consumer Protection Act of 1991, must have the capacity to “store . . . telephone numbers” by “using a random ",
+    "text_sha256": "8c04d9f03e1fe9cb4330fb6029866e494d76897a7498cdd8231810fbd8241d3b",
+    "pdf_sha256": "28e6840e19a47d85627f1a04c55d8a801073a3959a9a1ebba6ae444ac6bfe66b",
+    "majority_characters": 24595,
+    "body_characters": 17942,
+    "pdf_page_range": [
+      2,
+      20
+    ],
+    "join_statements": [
+      "Sotomayor, J., delivered the opinion of the Court, in which Roberts, \nC. J., and Thomas, Breyer, Kagan, Gorsuch, Kavanaugh, and \nBarrett, JJ., joined. Alito, J., fled an opinion concurring in the judgment, post, p. 409. \nPaul D. Clement argued the cause for petitioner. With \nhim on the briefs were Erin E. Murphy, Kasdin M. Mitchell, \nLauren N. Beebe, Andrew B. Clubok, Roman Martinez, and \nSusan E. Engel. \nJonathan Y . Ellis argued the cause for the United States \nas amicus curiae supporting petitioner. With him on the \nbriefs were Acting Solicitor General Wall, Deputy Solicitor \nGeneral Stewart, Sopan Joshi, Mark B. Stern, and Michael \nS. Raab. \nBryan A. Garner argued the cause for respondents. With \nhim on the brief were Sergei Lemberg, Karolyne H. C. Garner, Scott L. Nelson, and Allison M. Zieve.* \n*Briefs of amici curiae urging reversal were fled for the Cham"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-028",
+    "case_id": "us:592:168",
+    "majority_start": "Per Curiam.",
+    "next_section": null,
+    "text_sha256": "088f32ae6cbd88c37dfb29485085e8b75c3db90e3c34cac6b76351bb0317d0b4",
+    "pdf_sha256": "6bf297333aade78f011a1bc4fc79f1f4acad821152c7c56466996ac3548a323f",
+    "majority_characters": 1049,
+    "body_characters": 94,
+    "pdf_page_range": [
+      208,
+      208
+    ],
+    "join_statements": [],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-029",
+    "case_id": "us:594:220",
+    "majority_start": "Justice Alito delivered the opinion of the Court.",
+    "next_section": "Justice Thomas, concurring. \nI join the Court's opinion in full. I agree that the Directors were properly appointed and could lawfully exercise \nexecutive power. And I agree that, to the extent a Government action violates the Constitution, the remed",
+    "text_sha256": "f8480fe430acb81944311b737079b9a2efe4c908e004b338c0f9f62b8cd6933f",
+    "pdf_sha256": "a83f490ef3c8fe7dff60a323e464fd4bdc73fb805602248348e30a8a8e31debd",
+    "majority_characters": 71777,
+    "body_characters": 59866,
+    "pdf_page_range": [
+      2,
+      76
+    ],
+    "join_statements": [
+      "Alito, J., delivered the opinion of the Court, in which Roberts, C. J., \nand Thomas, Kavanaugh, and Barrett, JJ., joined in full; in which \nKagan and Breyer, JJ., joined as to all but Part III–B; in which \nGorsuch, J., joined as to all but Part III–C; and in which Sotomayor, J., \njoined as to Parts I, II, and III–C. Thomas, J., fled a concurring opinion, \npost, p. 261. Kagan, J., fled an opinion concurring in part and concurring \nin the judgment, in which Breyer and Sotomayor, JJ., joined as to Part \nII, post, p. 271. Gorsuch, J., fled an opinion concurring in part, post, \np. 276. Sotomayor, J., fled an opinion concurring in part and dissenting \nin part, in which Breyer, J., joined, post, p. 283. \nHashim M. Mooppan argued the cause for the federal parties in both cases. With him on the briefs were Acting Solicitor General Wall, Acting Assistant Attorney Gene"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-030",
+    "case_id": "us:593:67",
+    "majority_start": "Justice Breyer delivered the opinion of the Court.",
+    "next_section": null,
+    "text_sha256": "812589cd4b863bf5e37e24b84dd1d0269d01ab9aa1af61f850223b2cc16bb5d7",
+    "pdf_sha256": "a3b3061f560bff34209f0327909e0cdbe408ebd589948ddcabc85e3290b54835",
+    "majority_characters": 27342,
+    "body_characters": 27342,
+    "pdf_page_range": [
+      2,
+      17
+    ],
+    "join_statements": [
+      "Breyer, J., delivered the opinion for a unanimous Court.\nMichael G. Pattillo, Jr., argued the cause for petitioners. \nWith him on the briefs were Jeffrey A. Lamken, Sarah J. \nNewman, and Paul C. Ray. \nJoel R. Marcus argued the cause for respondent. With \nhim on the brief were Alden F. Abbott, Michael Bergman, \nTheodore Metzler, and Matthew M. Hoffman.* \n*Briefs of amici curiae urging reversal were fled for Americans for \nProsperity Foundation by Cynthia Fleming Crawford and Michael Pepson; for the Chamber of Commerce of the United States of America et al. \nby Ilana H. Eisenstein and Daryl Joseffer; for the New Civil Liberties \nAlliance by John J. Vecchione and Richard Samp; for the Pharmaceutical \nResearch and Manufacturers of America by John D. Graubert, Melissa B. \nKimmel, and David E. Korn; for Surescripts, LLC, by Roman Martinez, \nAmanda P . Reeves, and A"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-032",
+    "case_id": "us:592:279",
+    "majority_start": "Justice Thomas delivered the opinion of the Court.",
+    "next_section": "Justice Kavanaugh, concurring. \nI agree with the Court that, as a matter of history and \nprecedent, a plaintiff 's request for nominal damages can satisfy the redressability requirement for Article III standing \nand can keep an otherwise moot case al",
+    "text_sha256": "8d0f75e4694c80e430ed5c0c8f69463be00a918d238fb9a028f538a307045149",
+    "pdf_sha256": "370f9dc1eff8638da88f024d82e2dcd6dbcf49c91eaabcfdfb77ab6bbb14b3b8",
+    "majority_characters": 23743,
+    "body_characters": 21887,
+    "pdf_page_range": [
+      2,
+      28
+    ],
+    "join_statements": [
+      "Thomas, J., delivered the opinion of the Court, in which Breyer, Alito, \nSotomayor, Kagan, Gorsuch, Kavanaugh, and Barrett, JJ., joined. \nKavanaugh, J., fled a concurring opinion, post, p. 293. Roberts, C. J., \nfled a dissenting opinion, post, p. 294. \nKristen K. Waggoner argued the cause for petitioners. \nWith her on the briefs were John J. Bursch, Tyson C. Langhofer, David A. Cortman, Travis C. Barham, Jeremiah J. \nGalus, and Katherine L. Anderson. \nHashim M. Mooppan argued the cause for the United \nStates as amicus curiae urging reversal. With him on the \nbrief were Acting Solicitor General Wall, Assistant Attorney General Dreiband, Acting Assistant Attorney General \nClark, Deputy Assistant Attorney General Maugeri, Sopan \nJoshi, and Nicole Frazer Reaves. \nAndrew A. Pinson, Solicitor General of Georgia, argued \nthe cause for respondents. With him on the br"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-033",
+    "case_id": "us:592:125",
+    "majority_start": "Per Curiam.",
+    "next_section": "Justice Breyer , with whom Justice Sotomayor and \nJustice Kagan join, dissenting. \nThe Constitution specifes that the number of Representatives afforded to each State is based on an apportionment of \nthe total population, with each State receiving it",
+    "text_sha256": "5fdb728ea258350d65dd12d9f1d19d657abcde8a4e1638451492cb4e7286bb7e",
+    "pdf_sha256": "6bf297333aade78f011a1bc4fc79f1f4acad821152c7c56466996ac3548a323f",
+    "majority_characters": 14644,
+    "body_characters": 11553,
+    "pdf_page_range": [
+      165,
+      193
+    ],
+    "join_statements": [],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-038",
+    "case_id": "us:592:414",
+    "majority_start": "Justice Kavanaugh delivered the opinion of the Court.",
+    "next_section": "Justice Thomas, concurring. \nAs the Court correctly holds, the Federal Communications \nCommission's orders were not arbitrary and capricious. \nBased on the record evidence available, the FCC reasonably \nconcluded that modifying its broadcast ownershi",
+    "text_sha256": "67ee8edc5f8c2b4695ca6a10cf048e8652ca441f396c90f550b240422fde7031",
+    "pdf_sha256": "f55df67f10c6598b64add503dbb460b472e5c90cdf2df518e7d98a5eefbf055d",
+    "majority_characters": 25178,
+    "body_characters": 20979,
+    "pdf_page_range": [
+      2,
+      20
+    ],
+    "join_statements": [
+      "Kavanaugh, J., delivered the opinion for a unanimous Court. Thomas, \nJ., fled a concurring opinion, post, p. 428. \nDeputy Solicitor General Stewart argued the cause for \npetitioners in No. 19–1231. With him on the briefs were \nActing Solicitor General Wall, Assistant Attorney General \nDelrahim, Deputy Assistant Attorney General Murray, Austin L. Raynor, Thomas M. Johnson, Jr., and Jacob M. Lewis. \nHelgi C. Walker argued the cause for petitioners in No. \n19–1241. With her on the briefs fled in both cases were \nEve Klindera Reed, Craig E. Gilmore, Kevin F. King, Rafael \nReyneri, and Jeetander T. Dulani. \nRuthanne M. Deutsch argued the cause for respondents in \nboth cases. With her on the brief were Hyland Hunt,\nCheryl A. Leanza, Brian Wolfman, Andrew Jay Schwartzman, Dennis Lane, and Marcia S. Cohen.† \n"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-039",
+    "case_id": "us:593:230",
+    "majority_start": "Justice Gorsuch delivered the opinion of the Court.",
+    "next_section": "Justice Sotomayor, dissenting. \nCivil defendants in state court may remove a case to federal district court by asserting one or more bases for federal \njurisdiction. If the district court concludes that the case \nwas improperly removed, it issues an ",
+    "text_sha256": "42559fe066ea8bc45a1af7a3a05d3a0c1871b1a771220d4b82f844aaf2673563",
+    "pdf_sha256": "ce7415c692bf858a28d41a6aca8c170a317841cb77e635290a80a9bfa08c7b81",
+    "majority_characters": 26809,
+    "body_characters": 25437,
+    "pdf_page_range": [
+      2,
+      26
+    ],
+    "join_statements": [
+      "Gorsuch, J., delivered the opinion of the Court, in which Roberts, \nC. J., and Thomas, Breyer, Kagan, Kavanaugh, and Barrett, JJ., \njoined. Sotomayor, J., fled a dissenting opinion, post, p. 247. Alito, J., \ntook no part in the consideration or decision of the case. \nKannon K. Shanmugam argued the cause for petitioners. \nWith him on the briefs were William T. Marks, Tanya S. \nManno, Theodore V. Wells, Jr., Daniel J. Toal, Peter D. \nKeisler, C. Frederick Beckner III, Theodore J. Boutrous, Jr., \nThomas G. Hungar, David C. Frederick, Brendan J. Crimmins, Daniel S. Severson, Philip H. Curtis, Matthew T. \nHeartney, Kathleen Taylor Sooy, Tracy A. Roman, Honor \nR. Costello, Nathan P . Eimer, Pamela R. Hanebutt, Ryan J. \nWalsh, Michelle N. Lipkowitz, Thomas K. Prevas, Sean C. \nGrimsley, Jameson R. Jones, Martha Thomsen, Megan \nBerge, Shannon S. Broome, and Shawn Patri"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-040",
+    "case_id": "us:592:433",
+    "majority_start": "Justice Barrett delivered the opinion of the Court.",
+    "next_section": null,
+    "text_sha256": "5f265a7974db0c38ab25c2455a891ae8c012211c2af3e3e082f74d5db3d9888a",
+    "pdf_sha256": "6ea46c7630810f5789f9a72151390716cbcb6232eb09f133f21348a0544d28d3",
+    "majority_characters": 18450,
+    "body_characters": 17887,
+    "pdf_page_range": [
+      2,
+      13
+    ],
+    "join_statements": [
+      "Barrett, J., delivered the opinion for a unanimous Court. \nGregory G. Garre argued the cause for plaintiff. With \nhim on the brief were Ashley Moody, Attorney \nGeneral of Florida, Amit Agarwal, Solicitor General, Philip \nJ. Perry, Jamie L. Wine, and Abid R. Qureshi. \nCraig S. Primis argued the cause for defendant. \nWith him on the brief were Christopher M. Carr, Attorney \nGeneral of Georgia, Andrew Pinson, Solicitor General,\nK. Winn Allen, Devora W. Allon, and Lauren N. \nBeebe.* \n"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-042",
+    "case_id": "us:593:357",
+    "majority_start": "Justice Gorsuch delivered the opinion of the Court.",
+    "next_section": null,
+    "text_sha256": "4e184b3cb7794047aa6656191e1373b01ed34db005d3f09471d7f3c4574fe814",
+    "pdf_sha256": "cb3fc816df2096195f2b8ee562f14a42eed48236d1f9158b6e39a9c6729744b9",
+    "majority_characters": 28651,
+    "body_characters": 27301,
+    "pdf_page_range": [
+      2,
+      18
+    ],
+    "join_statements": [
+      "Gorsuch, J., delivered the opinion for a unanimous Court. \nColleen E. Roh Sinzdak argued the cause for petitioner in \nboth cases. With her on the briefs were Acting Solicitors \nGeneral Wall and Prelogar, Acting Assistant Attorneys \nGeneral Clark and Boynton, Deputy Solicitor General \nKneedler, Benjamin W. Snyder, Donald E. Keener, John W. \nBlakeley, and Dawn S. Conrad. \nNeal Kumar Katyal argued the cause for respondent in \nNo. 19–1156. With him on the brief were Mitchell P . Reich \nand Robert Jobe. David J. Zimmer argued the cause and \nfled a brief for respondent in No. 19–1155.† \n"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-043",
+    "case_id": "us:594:295",
+    "majority_start": "Justice Kagan delivered the opinion of the Court.",
+    "next_section": "Justice Kavanaugh, concurring. \nThe Court holds that an offcer may make a warrantless \nentry into a home when pursuing a feeing misdemeanant if \nan exigent circumstance is also present—for example, when \nthere is a risk of escape, destruction of evid",
+    "text_sha256": "a86e2c1d9fe5b24b910808c2c272c09dd9f977f20ee44efc932afc14e60e6aef",
+    "pdf_sha256": "fa24f9592f389f71ce6f887329d8930a2ee14ba12001b9947c660c96a9b654a8",
+    "majority_characters": 34987,
+    "body_characters": 26727,
+    "pdf_page_range": [
+      2,
+      44
+    ],
+    "join_statements": [
+      "Kagan, J., delivered the opinion of the Court, in which Breyer , \nSotomayor, Gorsuch, Kavanaugh, and Barrett, JJ., joined, and in \nwhich Thomas, J., joined as to all but Part II–A. Kavanaugh, J., fled a \nconcurring opinion, post, p. 314. Thomas, J., fled an opinion concurring \nin part and concurring in the judgment, in which Kavanaugh, J., joined \nas to Part II, post, p. 315. Roberts, C. J., fled an opinion concurring in \nthe judgment, in which Alito, J., joined, post, p. 319. \nJeffrey L. Fisher argued the cause for petitioner. With \nhim on the briefs were Brian H. Fletcher and Pamela S. \nKarlan. \nSamuel T. Harbourt, Deputy Solicitor General of California, argued the cause for respondent supporting vacatur. \nWith him on the briefs were Xavier Becerra, Attorney General of California, Michael J. Mongan, Solicitor General, \nLance E. Winters, Chief Assistant Att"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-046",
+    "case_id": "us:594:647",
+    "majority_start": "Justice Alito delivered the opinion of the Court.",
+    "next_section": "Justice Gorsuch, with whom Justice Thomas joins, \nconcurring. \nI join the Court's opinion in full, but fag one thing it does \nnot decide. Our cases have assumed—without deciding— \nthat the Voting Rights Act of 1965 furnishes an implied cause \nof acti",
+    "text_sha256": "85b912b936dcd28551541b38ac0c64474b09cecebac7fc21142f781f39687ff5",
+    "pdf_sha256": "eb2b04082193bdd9504dcae829d7cddd88684f276d5a06d69f85691af6d3867e",
+    "majority_characters": 81256,
+    "body_characters": 60554,
+    "pdf_page_range": [
+      2,
+      85
+    ],
+    "join_statements": [
+      "Alito, J., delivered the opinion of the Court, in which Roberts, C. J., \nand Thomas, Gorsuch, Kavanaugh, and Barrett, JJ., joined. Gorsuch, J., fled a concurring opinion, in which Thomas, J., joined, post, \np. 690. Kagan, J., fled a dissenting opinion, in which Breyer and Sotomayor, JJ., joined, post, p. 690. \nMichael A. Carvin argued the cause for private petitioners in No. 19–1258. With him on the briefs fled in both \ncases were Yaakov M. Roth, Anthony J. Dick, and Brett W. \nJohnson. Mark Brnovich, Attorney General of Arizona, argued the cause for state petitioners in No. 19–1257. With \nhim on the briefs fled in both cases were Joseph A. Kanefeld, Brunn W. Roysden III, Solicitor General, Drew C. Ensign, Deputy Solicitor General, Kate B. Sawyer, Assistant \nSolicitor General, William S. Consovoy, and Tyler R. Green. \nJessica Ring Amunson argued the cause for"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-047",
+    "case_id": "us:593:83",
+    "majority_start": "Justice Sotomayor delivered the opinion of the Court.",
+    "next_section": "Justice Thomas, with whom Justice Gorsuch and Justice Barrett join, concurring in part and concurring in \nthe judgment. \nI join Parts I, II–A, and II–B–2 of the opinion of the Court, \nwhich correctly explain that the nonadversarial nature of an \nagen",
+    "text_sha256": "62b9305c75b052d2e7601ca1cefbccc92a4338c3ec883983dd1c2c7e1f35657d",
+    "pdf_sha256": "8b2b71e9ee9279f02a149cb31b692c9ef12fd7903817fadee8cdf0fcd3adc40e",
+    "majority_characters": 23261,
+    "body_characters": 18864,
+    "pdf_page_range": [
+      2,
+      16
+    ],
+    "join_statements": [
+      "Sotomayor, J., delivered the opinion of the Court, in which Roberts, \nC. J., and Alito, Kagan, and Kavanaugh, JJ., joined, in which Thomas, \nGorsuch, and Barrett, JJ., joined as to Parts I, II–A, and II–B–2, and \nin which Breyer, J., joined as to Parts I, II–B–1, and II–B–2. Thomas, \nJ., fled an opinion concurring in part and concurring in the judgment, in \nwhich Gorsuch and Barrett, JJ., joined, post, p. 96. Breyer, J., fled \nan opinion concurring in part and concurring in the judgment, post, p. 97. \nSarah M. Harris argued the cause for petitioners in \nNo. 19–1442. With her on the briefs were Lisa S. Blatt and \nCharles L. McCloud. Kannon K. Shanmugam fled a brief\nfor petitioners in No. 20–105. With him on the briefs were \nWilliam T. Marks, Joel S. Johnson, and Mahesha P . \nSubbaraman. \nAustin L. Raynor argued the cause for respondent in both \ncases. With him on"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-049",
+    "case_id": "us:593:345",
+    "majority_start": "Justice Breyer delivered the opinion of the Court.",
+    "next_section": "Justice Alito, concurring. \nI join the opinion of the Court on the understanding that \nit holds no more than the following: On a public right-ofway that traverses an Indian reservation and is primarily \npatrolled by tribal police, a tribal police off",
+    "text_sha256": "ecd22f5a1d8e87a0d6f1a0ee465d1e24698ccc2a98494cc426eefba988ef70f6",
+    "pdf_sha256": "566e0829d217ceebfd6d4039493621f1f8de9e0a891a251db4b7b0d02efc243b",
+    "majority_characters": 17912,
+    "body_characters": 16687,
+    "pdf_page_range": [
+      2,
+      13
+    ],
+    "join_statements": [
+      "Breyer, J., delivered the opinion for a unanimous Court. Alito, J., \nfled a concurring opinion, post, p. 355. \nDeputy Solicitor General Feigin argued the cause for the \nUnited States. With him on the briefs were Acting Solici-\ntors General Wall and Prelogar, Acting Assistant Attorney \nGeneral Burns, Frederick Liu, and David M. Lieberman. \nEric R. Henkel, by appointment of the Court, 592 U. S. \n–––, argued the cause for respondent. With him on the brief \nwere John Rhodes and Jeffrey T. Green.* \n"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-051",
+    "case_id": "us:594:139",
+    "majority_start": "Chief Justice Roberts delivered the opinion of the Court.",
+    "next_section": "Justice Kavanaugh, concurring.\nI join the Court’s opinion, which carefully adheres to constitutional text, history, and precedent. I write separately\nto explain that, in my view, the Court’s precedent in NLRB\nv. Babcock & Wilcox Co., 351 U. S. 105 (1",
+    "text_sha256": "e4669f9dda21887d95df213ceeaa2fd92ea3d2ecc01fbd7266819fda67469624",
+    "pdf_sha256": "985ad4d406c5023bfe83866989b7cf8f6e411d64a621de99d45a0edf418c84f9",
+    "majority_characters": 39954,
+    "body_characters": 37843,
+    "pdf_page_range": [
+      2,
+      42
+    ],
+    "join_statements": [
+      "Roberts, C. J., delivered the opinion of the Court, in whichThomas,\nAlito,Gorsuch,Kavanaugh, andBarrett, JJ., joined.Kavanaugh,\nJ., ﬁled a concurring opinion,post, p. 162.Breyer, J., ﬁled a dissenting\nopinion, in whichSotomayorandKagan, JJ., joined,post, p. 164.\nJoshua P . Thompsonargued the cause for petitioners.\nWith him on the briefs wereDamien M. Schiff, Wencong Fa,\n142 CED\nAR POINT NURSERY v. HASSID\nCounsel\nChristopher M. Kieser, Howard A. Sagaser, and Ian B.\nWiel\nand.\nMichael J. Mongan, Solicitor General of California, argued\nthe cause for respondents. With him on the brief were Xavier Becerra, Attorney General of California, Janill L. Richards, Principal Deputy Solicitor General, Joshua Patashnik,\nDeputy Solicitor General, R. Matthew Wise, Deputy Attorney General, and Amari L. Hammonds, Associate Deputy\nSolicitor General.*\n*Briefs of amici curiae urging re"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-052",
+    "case_id": "us:593:194",
+    "majority_start": "Justice Thomas delivered the opinion of the Court.",
+    "next_section": "Chief Justice Roberts, with whom Justice Breyer \njoins, concurring. \nFifteen years ago, this Court unanimously recognized that \n“[t]he role of a peace offcer includes preventing violence and \nrestoring order, not simply rendering frst aid to casualti",
+    "text_sha256": "41f27d99cf3d85c34489d6c4cfaecbaf025b1f4dee67c5141a3311375fb2fe61",
+    "pdf_sha256": "49fd95ba2b463c1501f57d762c31bb9c60902eb78fc5c79ad07c101bfa0c29a1",
+    "majority_characters": 7414,
+    "body_characters": 6888,
+    "pdf_page_range": [
+      2,
+      16
+    ],
+    "join_statements": [
+      "Thomas, J., delivered the opinion for a unanimous Court. Roberts, \nC. J., fled a concurring opinion, in which Breyer, J., joined, post, p. 199. \nAlito, J., post, p. 200, and Kavanaugh, J ., post, p. 204, fled concurring \nopinions. \nShay Dvoretzky argued the cause for petitioner. With \nhim on the briefs were Jonathan L. Marcus, Emily J. Kennedy, Thomas W. Lyons, and Rhiannon S. Huffman. \nMarc DeSisto argued the cause for respondents. With \nhim on the brief were Michael A. DeSisto, Rebecca Tedford \nPartington, Kathleen M. Daniels, and Jonathan A. Herstoff. \nMorgan L. Ratner argued the cause for the United States \nas amicus curiae urging affrmance. With her on the brief \nwere Acting Solicitor General Prelogar, Acting Assistant \nAttorney General McQuaid, Deputy Solicitor General Feigin, and Ross B. Goldman.* \n*Briefs of amici curiae urging reversal were fled for "
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-053",
+    "case_id": "us:594:113",
+    "majority_start": "Justice Barrett delivered the opinion of the Court.",
+    "next_section": "Justice Sotomayor, concurring in part and dissenting in \npart. \nI agree with the Court's answers to the questions presented, and I accordingly join Parts I, II–A–1, and II–B of \nthe Court's opinion. Under Basic Inc. v. Levinson, 485 U. S. \n224 (1988)",
+    "text_sha256": "6fba81e04465289d90ad412a2b2ca642c13b21e5c6bd77f1b3957976b7477215",
+    "pdf_sha256": "f63bb538fd6b0a9af67d4588b3d65fef090ae457a7503196b09e822b7e304129",
+    "majority_characters": 23086,
+    "body_characters": 19837,
+    "pdf_page_range": [
+      2,
+      27
+    ],
+    "join_statements": [
+      "Barrett, J., delivered the opinion of the Court, in which Roberts, \nC. J., and Breyer, Kagan, and Kavanaugh, JJ., joined in full; in which \nThomas, Alito, and Gorsuch, JJ., joined as to Parts I and II–A; and in \nwhich Sotomayor, J., joined as to Parts I, II–A–1, and II–B. Sotomayor, \nJ., fled an opinion concurring in part and dissenting in part, post, p. 127. \nGorsuch, J., fled an opinion concurring in part and dissenting in part, in \nwhich Thomas and Alito, JJ., joined, post, p. 130. \nKannon K. Shanmugam argued the cause for petitioners. \nWith him on the briefs were Stacie M. Fahsel, Kristina A. \nBunting, Richard H. Klapper, Robert J. Giuffra, Jr., David \nM. J. Rein, Benjamin R. Walker, Julia A. Malkina, and \nJacob E. Cohen. \nSopan Joshi argued the cause for the United States as \namicus curiae in support of neither party. On the brief \nwere Acting Solicitor G"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-054",
+    "case_id": "us:594:413",
+    "majority_start": "Justice Kavanaugh delivered the opinion of the Court.",
+    "next_section": "Justice Thomas, with whom Justice Breyer, Justice \nSotomayor, and Justice Kagan join, dissenting. \nTransUnion generated credit reports that erroneously \nfagged many law-abiding people as potential terrorists and \ndrug traffckers. In doing so, TransUn",
+    "text_sha256": "36d3e2788dbfbfda75476243bfa9796c653df6e6cbb191c89717c449cbaced2d",
+    "pdf_sha256": "999fb878304c48611e3eebbbabd9f9eca746849fd296c5a12a59e1f9609824b6",
+    "majority_characters": 54469,
+    "body_characters": 46228,
+    "pdf_page_range": [
+      2,
+      52
+    ],
+    "join_statements": [
+      "Kavanaugh, J., delivered the opinion of the Court, in which Roberts, \nC. J., and Alito, Gorsuch, and Barrett, JJ., joined. Thomas, J., fled a \ndissenting opinion, in which Breyer, Sotomayor, and Kagan, JJ., joined,\npost, p. 442. Kagan, J., fled a dissenting opinion, in which Breyer and \nSotomayor, JJ., joined, post, p. 460. \nPaul D. Clement argued the cause for petitioner. With \nhim on the briefs were Erin E. Murphy, Matthew D. Rowen, \nAndrew C. Lawrence, Julia B. Strickland, and Stephen J. \nNewman. \nNicole Frazer Reaves argued the cause for the United \nStates as amicus curiae urging vacatur. With her on the \nbrief were Acting Solicitor General Prelogar, Acting Assistant Attorney General Boynton, Deputy Solicitor General \nStewart, and Charles W. Scarborough. \nSamuel Issacharoff argued the cause for respondent. \nWith him on the brief were James A. Francis, John S"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-055",
+    "case_id": "us:594:69",
+    "majority_start": "Justice Gorsuch delivered the opinion of the Court.",
+    "next_section": "Justice Kavanaugh, concurring. \nThe NCAA has long restricted the compensation and benefts that student athletes may receive. And with surprising success, the NCAA has long shielded its compensation \nrules from ordinary antitrust scrutiny. Today, howe",
+    "text_sha256": "e40196d3d42c9d2cef59a56448a1db1e2cc08ba3c1a0922ec76a9133af1e32b4",
+    "pdf_sha256": "d21abcbec1dfc74dd6cfd5d2c0bfd4cd2a9e310baed05d6ae517ba6ff5528e49",
+    "majority_characters": 71165,
+    "body_characters": 68833,
+    "pdf_page_range": [
+      2,
+      45
+    ],
+    "join_statements": [
+      "Gorsuch, J., delivered the opinion for a unanimous Court. Kavanaugh, J., fled a concurring opinion, post, p. 107. \nSeth P . Waxman argued the cause for petitioners in both \ncases. With him on the briefs in No. 20–512 were Daniel S. \nVolchok, David M. Lehn, Donald M. Remy, Scott Bearby, Jeffrey A. Mishkin, Beth A. Wilkinson, and Rakesh N. Kilaru. \nAndrew J. Pincus fled a brief for petitioners in No. 20–520. \nWith him on the briefs were Charles A. Rothfeld, Richard J. \nFavretto, Britt M. Miller, Jed W. Glickstein, Robert W. Fuller \nIII, Lawrence C. Moore III, Erik R. Zimmerman, Mark Seifert, Benjamin C. Block, Leane K. Capps, Scott P . Cooper, \nShawn S. Ledingham, Jr., R. Todd Hunt, Richard Young, \nBrent E. Rychener, Mark A. Cunningham, D. Erik Albright, \nGregory G. Holland, and Jonathan P . Heyl. \nJeffrey L. Kessler argued the cause for respondents in \nboth cas"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-057",
+    "case_id": "us:594:180",
+    "majority_start": "Justice Breyer delivered the opinion of the Court.",
+    "next_section": "Justice Alito , with whom Justice Gorsuch joins, \nconcurring. \nI join the opinion of the Court but write separately to explain my understanding of the Court's decision and the \nframework within which I think cases like this should be \nanalyzed. This ",
+    "text_sha256": "897638bc21b9e786e1beb37050d789d33eb98396daab63537702608be1eea58c",
+    "pdf_sha256": "97b3a7a938d2e5b7c4c497fe9c0b15b24bda6f0d6aa663adb3f257ee69f974ba",
+    "majority_characters": 23589,
+    "body_characters": 20362,
+    "pdf_page_range": [
+      2,
+      41
+    ],
+    "join_statements": [
+      "Breyer, J., delivered the opinion of the Court, in which Roberts, C. J., \nand Alito, Sotomayor, Kagan, Gorsuch, Kavanaugh and Barrett, \nJJ., joined. Alito, J., fled a concurring opinion, in which Gorsuch, J., \njoined, post, p. 194. Thomas, J., fled a dissenting opinion, post, p. 211. \nLisa S. Blatt argued the cause for petitioner. With her \non the briefs were Sarah M. Harris, Eden Schiffmann, Michael I. Levin, and David W. Brown. \nDeputy Solicitor General Stewart argued the cause for the \nUnited States as amicus curiae urging vacatur . On the \nbrief were Acting Solicitor General Prelogar, Acting Assistant Attorney General Boynton, Deputy Solicitor General \nKneedler, Sopan Joshi, and Michael S. Raab. \nDavid D. Cole argued the cause for respondent. With \nhim on the brief were Witold J. Walczak, Arleigh P . Helfer \nIII, Theresa E. Loscalzo, Jennesa Calvo-Friedma"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-058",
+    "case_id": "us:593:409",
+    "majority_start": "Justice Kagan delivered the opinion of the Court.",
+    "next_section": null,
+    "text_sha256": "b5998093d8fa0c4e1c42972eac3ccee8f77d33709f4af231313c46ef7297e76e",
+    "pdf_sha256": "722302f40908396c270408f2d7191953217f292f724dbd52bd645719192d0cc0",
+    "majority_characters": 16875,
+    "body_characters": 14291,
+    "pdf_page_range": [
+      2,
+      12
+    ],
+    "join_statements": [
+      "Kagan, J., delivered the opinion for a unanimous Court. \nAmy Mason Saharia argued the cause for petitioners. \nWith her on the briefs were Jaime W. Aparisi, Lisa S. Blatt, \nand A. Joshua Podoll. \nMichael R. Huston argued the cause for respondents. \nWith him on the brief were Acting Solicitor General Prelogar, Acting Assistant Attorney General Boynton, Deputy \nSolicitor General Gannon, and Jeffrey S. Robins.* \n*Briefs of amici curiae urging reversal were fled for the District of \nColumbia et al. by Karl A. Racine, Attorney General of the District of \nColumbia, Loren L. Alikhan, Solicitor General, Caroline S. Van Zile, Principal Deputy Solicitor General, and Mark S. Wigley and Samson J. Schatz, \nAssistant Attorneys General, by Maura Healey, Attorney General of Massachusetts, David C. Kravitz, Deputy Solicitor General, and Abigail B. \nTaylor, Assistant Attorney "
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-059",
+    "case_id": "us:593:330",
+    "majority_start": "Justice Alito delivered the opinion of the Court.",
+    "next_section": null,
+    "text_sha256": "567f0638ef7762022ebaf646b217e0a2de9370a4cf7371533256e36070e83edb",
+    "pdf_sha256": "c3527a44373ee39b13a36c50a78a698acd1960cb90930f24a4f770f9f78caeca",
+    "majority_characters": 25608,
+    "body_characters": 23697,
+    "pdf_page_range": [
+      2,
+      16
+    ],
+    "join_statements": [
+      "Alito, J., delivered the opinion for a unanimous Court. \nDaniel L. Geyser argued the cause for petitioner. With \nhim on the briefs were Gary Cruciani and Steven D. Wolens.\nDavid B. Salmons argued the cause for respondents. \nWith him on the brief were Michael E. Kenneally, Thomas \nM. Peterson, Elizabeth B. Herrington, Anne Marie Seibel, \nMichael James Bentley, and David Keltner .* \n"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-060",
+    "case_id": "us:593:310",
+    "majority_start": "Justice Thomas delivered the opinion of the Court.",
+    "next_section": null,
+    "text_sha256": "bd71feeb6a4f60a451e12a71ee6c9333f2c020b9930e9902253e4025f5ff33c8",
+    "pdf_sha256": "9d333f89c250927d1987bbf1c9318ed8c17199d88cf09447fb6882bee30910fa",
+    "majority_characters": 18213,
+    "body_characters": 15593,
+    "pdf_page_range": [
+      2,
+      12
+    ],
+    "join_statements": [
+      "Thomas, J., delivered the opinion for a unanimous Court. \nGregory G. Garre argued the cause for petitioner. With \nhim on the briefs were Leevin T. Camacho, Attorney General\nof Guam, James L. Canto II, Deputy Attorney General, \nRoman Martinez, Bezalel Stern, John D. S. Gilmour, and \nWilliam J. Jackson. \nVivek Suri argued the cause for the United States. With \nhim on the brief were Acting Solicitor General Prelogar, \nActing Assistant Attorney General Williams, Deputy Solicitor General Stewart, Jennifer Scheller Neumann, Evelyn \nYing, and Rachel Heron.* \n"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-061",
+    "case_id": "us:593:321",
+    "majority_start": "Justice Sotomayor delivered the opinion of the Court.",
+    "next_section": null,
+    "text_sha256": "87a1ee35e958ce1756566978bdb5cf52eca272f1e751f5ecdb6394e266cda6b8",
+    "pdf_sha256": "1faec98fee6a72194cbb4d76cda220d615b520c36de727728fc8f6389577a812",
+    "majority_characters": 13227,
+    "body_characters": 10937,
+    "pdf_page_range": [
+      2,
+      10
+    ],
+    "join_statements": [
+      "Sotomayor, J., delivered the opinion for a unanimous Court. \nErica L. Ross argued the cause for the United States. \nWith her on the briefs were Acting Solicitor General Prelogar, Acting Assistant Attorney General McQuaid, Deputy \nSolicitor General Gannon, and William A. Glaser. \nBradley N. Garcia, by appointment of the Court, 592 \nU. S. –––, argued the cause for respondent. With him on the \nbrief was Jeffrey L. Fisher.* \n*Christopher J. Hajec fled a brief for the Immigration Reform Law \nInstitute as amicus curiae urging reversal. \nBriefs of amici curiae urging affrmance were fled for Former Executive Offce of Immigration Review Judges by Richard W. Mark and Amer \nS. Ahmed; for the National Association of Criminal Defense Lawyers by \nDavid A. O'Neil and Jeffrey T. Green; for the National Association of \nFederal Defenders by Brianna Fuller Mircheff, David Menninge"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-062",
+    "case_id": "us:594:559",
+    "majority_start": "Justice Kagan delivered the opinion of the Court.",
+    "next_section": "Justice Alito, dissenting. \nWe granted review in this case to decide whether the doctrine of assignor estoppel bars petitioner from challenging \nthe validity of a patent indirectly assigned to respondents, \nand I do not see how we can answer that que",
+    "text_sha256": "7adbd1b9fd9d8cf37a2b458a9804c6af9f2be8da57456746924e6bf9956cb9e3",
+    "pdf_sha256": "5a65e28396b2a936381123d98771ee5175e298b36196be235eda02d6f7ad895b",
+    "majority_characters": 33457,
+    "body_characters": 30822,
+    "pdf_page_range": [
+      2,
+      37
+    ],
+    "join_statements": [
+      "Kagan, J., delivered the opinion of the Court, in which Roberts, C. J., \nand Breyer, Sotomayor, and Kavanaugh, JJ., joined. Alito, J., fled a \ndissenting opinion, post, p. 579. Barrett, J., fled a dissenting opinion, \nin which Thomas and Gorsuch, JJ., joined, post, p. 583. \nRobert N. Hochman argued the cause for petitioner. \nWith him on the briefs were Vera M. Elson and Edward \nG. Poplawski. \nMorgan L. Ratner argued the cause for the United States \nas amicus curiae urging vacatur. With her on the brief \nwere Acting Solicitor General Prelogar, Acting Assistant \nAttorney General Boynton, Deputy Solicitor General Stewart, Melissa N. Patterson, Katherine Twomey Allen, \nThomas W. Krause, Farheena Y . Rasheed, William LaMarca, Meredith H. Schoenfeld, and Megan Heller. \nMatthew M. Wolf argued the cause for respondents. \nWith him on the brief were Jennifer A. Sklena"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-064",
+    "case_id": "us:594:382",
+    "majority_start": "Justice Gorsuch delivered the opinion of the Court.",
+    "next_section": "Justice Barrett, with whom Justice Sotomayor and \nJustice Kagan join, dissenting. \nWhen Congress amended the Clean Air Act to add the \nRenewable Fuel Program (RFP), it gave small refneries \na temporary exemption from compliance. Congress then \nvested",
+    "text_sha256": "151f38c59760ac42be3b6ed22481ac79cbd649b5fd20ef18ee9ef23bb5c9d27e",
+    "pdf_sha256": "25993d3741ea8374b33fc51610eb4a232985c549b712c94819633532bf0160d4",
+    "majority_characters": 31531,
+    "body_characters": 27459,
+    "pdf_page_range": [
+      2,
+      32
+    ],
+    "join_statements": [
+      "Gorsuch, J., delivered the opinion of the Court, in which Roberts, \nC. J., and Thomas, Breyer, Alito, and Kavanaugh, JJ., joined. \nBarrett, J., fled a dissenting opinion, in which Sotomayor and Kagan, \nJJ., joined, post, p. 400. \nPeter D. Keisler argued the cause for petitioners. With \nhim on the briefs were Ryan C. Morris, Eric D. McArthur, \nand Peter C. Whitfeld. \nChristopher G. Michel argued the cause for the federal \nrespondent. With him on the brief were Acting Solicitor \nGeneral Prelogar, Acting Assistant Attorney General Williams, Deputy Solicitor General Stewart, and Melissa \nHoffer. \nMatthew W. Morrison argued the cause for private respondents. With him on the brief were Cynthia Cook Robertson and Kevin M. Fong.* \n*Briefs of amici curiae urging reversal were fled for the State of Wyoming et al. by Bridget Hill, Attorney General of Wyoming, James Kaste"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-065",
+    "case_id": "us:594:338",
+    "majority_start": "Justice Sotomayor delivered the opinion of the Court.",
+    "next_section": "Justice Gorsuch, with whom Justice Thomas and \nJustice Kagan join, dissenting. \nThe Coronavirus Aid, Relief, and Economic Security Act \n(CARES Act) directed trillions of dollars to various recipients across the Nation to help them address the COVID–1",
+    "text_sha256": "8edb078772bc657717c0a3daf5bacd795de598523604b4802e8681ca03e44664",
+    "pdf_sha256": "8d043f3930f4bf2d69fb57cf25ddbd5dc46c2688d6b16d2b98afc401e5f75788",
+    "majority_characters": 54768,
+    "body_characters": 47483,
+    "pdf_page_range": [
+      2,
+      45
+    ],
+    "join_statements": [
+      "Sotomayor, J., delivered the opinion of the Court, in which Roberts, \nC. J., and Breyer, Kavanaugh, and Barrett, JJ., joined, and in which \nAlito, J., joined as to Parts I, II–C, II–D, III, and IV . Gorsuch, J., fled \na dissenting opinion, in which Thomas and Kagan, JJ., joined, post, p. 367. \nMatthew Guarnieri argued the cause for the federal petitioner in No. 20–543. With him on the briefs were Acting \nSolicitor General Prelogar, Acting Assistant Attorney General Boynton, Deputy Solicitor General Kneedler, Michael \nS. Raab, and Daniel Tenny. \nPaul D. Clement argued the cause for petitioners in \nNo. 20–544. With him on the briefs were Erin E. Murphy \nand Matthew D. Rowen. \nJeffrey S. Rasmussen argued the cause for respondents in \nboth cases. With him on the brief for respondent Ute Indian Tribe of the Uintah and Ouray Reservation were Frances C. Bassett, Riyaz "
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-066",
+    "case_id": "us:593:486",
+    "majority_start": "Justice Thomas delivered the opinion of the Court.",
+    "next_section": "Justice Sotomayor, concurring in part and concurring in \nthe judgment. \nI agree with the Court's interpretation of the First Step \nAct, join Part II of its opinion, and concur in the judgment.\n1 \n1 I do not join Part I of the Court's opinion because ",
+    "text_sha256": "4e8af2fe821a45a087cf5735f03619d59969baa9e84f543c8732c634440dbe33",
+    "pdf_sha256": "94805387e04969a2d76b540582bbb3166bfe423879cc9f24af0f2eae3c16a195",
+    "majority_characters": 16191,
+    "body_characters": 12603,
+    "pdf_page_range": [
+      2,
+      18
+    ],
+    "join_statements": [
+      "Thomas, J., delivered the opinion of the Court, in which Roberts, C. J., \nand Breyer, Alito, Kagan, Gorsuch, Kavanaugh, and Barrett, JJ., \njoined. Sotomayor, J., fled an opinion concurring in part and concurring \nin the judgment, post, p. 495. \nAndrew L. Adler argued the cause for petitioner. With \nhim on the briefs were Brenda G. Bryn, Amir H. Ali, and \nDevi M. Rao. \nDeputy Solicitor General Feigin argued the cause for the \nUnited States. On the brief was Acting Solicitor General \nPrelogar. \nAdam K. Mortara, by invitation of the Court, 592 U. S. –––, \nargued the cause and fled a brief as amicus curiae in support of the judgment below. With him on the brief was Jonathan F. Mitchell.* \n*Briefs of amici curiae urging reversal were fled for the District of \nColumbia et al. by Karl A. Racine, Attorney General of the District of \nColumbia, Loren L. Alikhan, Solici"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-067",
+    "case_id": "us:593:503",
+    "majority_start": "Justice Kavanaugh delivered the opinion of the Court.",
+    "next_section": "Justice Sotomayor , concurring as to No. 19–8709, and \nconcurring in part, dissenting in part, and dissenting from \nthe judgment as to No. 20–444. \nFor years, all 12 Courts of Appeals with criminal jurisdiction agreed that a defendant need not know h",
+    "text_sha256": "2c2f43a502a25191c487ff2625e9fb09825c7b4dd9a17a190869243cb14aea88",
+    "pdf_sha256": "4da2cf1422a33ae13cad6cd5904793960a9b23ae6b018ff14ce61cfbd646c189",
+    "majority_characters": 19432,
+    "body_characters": 18442,
+    "pdf_page_range": [
+      2,
+      20
+    ],
+    "join_statements": [
+      "Kavanaugh, J., delivered the opinion of the Court, in which Roberts, \nC. J., and Thomas, Breyer, Alito, Kagan, Gorsuch, and Barrett, JJ., \njoined. Sotomayor, J., fled an opinion concurring in part and dissenting \nin part, post, p. 515. \nM. Allison Guagliardo argued the cause for petitioner. \nWith her on the brief were James T. Skuthan, Meghan Ann \nCollins, Rosemary Cakmis, Conrad Kahn, and Jeffrey T. \nGreen. \nBenjamin W. Snyder argued the cause for the United \nStates. With him on the brief were Acting Solicitor General Prelogar, Acting Assistant Attorney General McQuaid, \nDeputy Solicitor General Feigin, Joshua K. Handell, and \nDavid M. Lieberman.* \n"
+    ],
+    "review_status": "automated_boundary_checks"
+  },
+  {
+    "scdb_id": "2020-068",
+    "case_id": "us:594:482",
+    "majority_start": "Chief Justice Roberts delivered the opinion of the Court.",
+    "next_section": "Justice Gorsuch, with whom Justice Thomas joins, \ndissenting. \nI join Justice Barrett's dissenting opinion in full, which \nably explains why this case implicates New Jersey's structural immunity and how New Jersey never waived that \nimmunity in the s",
+    "text_sha256": "3940e6f193ef4c750028cec3857aaea50f3dd677f040683575c5d000a061e917",
+    "pdf_sha256": "ea536e2b4f5c5ac2a5aca3d772845e0bdce8930896cafb61b890ec11112d2b11",
+    "majority_characters": 44500,
+    "body_characters": 41919,
+    "pdf_page_range": [
+      2,
+      42
+    ],
+    "join_statements": [
+      "Roberts, C. J., delivered the opinion of the Court, in which Breyer, \nAlito, Sotomayor, and Kavanaugh, JJ., joined. Gorsuch, J., fled a \ndissenting opinion, in which Thomas, J., joined, post, p. 509. Barrett, \nJ., fled a dissenting opinion, in which Thomas, Kagan, and Gorsuch, JJ., \njoined, post, p. 512. \nPaul D. Clement argued the cause for petitioner. With \nhim on the briefs were Erin E. Murphy, Kasdin M. Mitchell, \nand Michael D. Lieberman. \nDeputy Solicitor General Kneedler argued the cause for \nthe United States as amicus curiae urging vacatur . With \nhim on the brief were Acting Solicitor General Prelogar, \nActing Assistant Attorney General Williams, Jonathan Y . \nEllis, and Rachel Heron. \nJeremy M. Feigenbaum, State Solicitor of New Jersey, argued the cause for respondent New Jersey et al. With him \non the brief were Gurbir S. Grewal, Attorney General of \n"
+    ],
+    "review_status": "automated_boundary_checks"
+  }
+]

@@ -43,3 +43,24 @@ python3 scripts/download_sample.py --help
 ```
 
 The token is still read from the root `.courtlistener-token` file or the `COURTLISTENER_API_TOKEN` environment variable. Never include the token in shared data or source control. No token is needed for the report or standard graph tests.
+
+## Additional terms: staging, checks, and publication
+
+The reusable pipeline is exercised on 2020–2023. It uses the cached SCDB 2025_01 citation-centered archive at `data/term_2004/raw/scdb.zip`, committed 2004/2024 case registries for stable IDs, cached official indexes and reporter metadata under `data/term_2024/raw/`, and any newly downloaded reporter metadata in `data/reference_cache/`. Raw inputs are local and ignored by Git. A fresh clone reproduces analysis from the committed CSVs; exact acquisition rebuilds require these fingerprinted raw inputs. This is not yet a self-contained downloader for every historical term.
+
+```bash
+python3 scripts/collect_terms.py --terms 2023 2022 2021 2020
+python3 scripts/build_term_dataset.py --terms 2023 2022 2021 2020 --fetch-metadata
+python3 scripts/audit_terms.py --terms 2020 2021 2022 2023
+python3 scripts/publish_terms.py --terms 2020 2021 2022 2023
+python3 annual_summary.py
+python3 scripts/build_explorer.py
+```
+
+Existing published destinations require the explicit `--replace` flag after reviewing their changes. `collect_terms.py --stage acquire` downloads only; `--stage extract` reuses cached PDFs. Downloads use three workers, retries for transient failures, and atomic cache writes. An unavailable individual PDF is logged and held for review instead of fabricated or silently included.
+
+The collector matches source cases by docket and decision date, normalizes original-jurisdiction docket formats, selects a case's printed page range within report-part PDFs, and selects the majority/per-curiam section before a separate opinion. Partial-majority openings and join statements are held out. Full page text retains footnotes; a supplemental body-font stream bridges references interrupted by footnotes. Boundary-spanning footnotes can still be missed.
+
+`build_term_dataset.py` exports cases, unique directed citation pairs, per-reference evidence, unresolved-reference records, and input fingerprints under `data/staging/term_YYYY/`. Full reporter citations and unambiguous full-name/volume references can resolve a target; unnamed short forms alone cannot. Matching uncertainty is recorded rather than guessed.
+
+`audit_terms.py` checks every included source's author, distinct selected text, detected boundary, and disposition, and records targeted citation evidence checks for three purposively selected cases per new term. These are automated checks, not independent manual full-opinion audits or a statistical estimate of recall. Add and review an appropriate sample when expanding its `SAMPLES` mapping to another term. `publish_terms.py` checks the dataset contract and evidence before copying only the explicit export files; it does not publish to GitHub by itself.

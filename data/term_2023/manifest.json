@@ -1,0 +1,52 @@
+{
+  "term": 2023,
+  "built_at": "2026-10-11T04:43:20.882129+00:00",
+  "scdb_release": "2025_01",
+  "scdb_term_cases": 59,
+  "eligible_source_cases": 58,
+  "included_source_cases": 57,
+  "case_review_counts": {
+    "included": 57,
+    "excluded": 1,
+    "needs_review": 1
+  },
+  "nodes": 742,
+  "binary_edges": 783,
+  "citation_review_counts": {
+    "unpaginated_citation_needs_review": 66,
+    "unresolved_target": 26,
+    "ambiguous_target": 4
+  },
+  "sources_without_edges": [
+    "Becerra v. San Carlos Apache Tribe",
+    "Connelly v. United States",
+    "Moyle v. United States"
+  ],
+  "review_status": "preliminary; automated checks with separately recorded targeted audits",
+  "scope": "SCDB argued types 1 and 6; complete majority/per-curiam sections; mixed opinions and unresolved source records held for review.",
+  "input_method": "Official Court PDFs; pypdf page-order text and supplemental body-font stream; common collector v1.",
+  "limitations": [
+    "Selected subset; whole opinions with mixed majority/plurality sections are held out.",
+    "Full U.S. Reports/nominative references and uniquely matched full-name unpaginated references; short forms alone do not establish identities.",
+    "Unresolved references are omitted and logged; targeted audits do not establish complete recall.",
+    "2004 uses archive links and 2024 uses an earlier PDF extraction implementation; method differences remain.",
+    "Citation links include procedural references and do not imply agreement or importance."
+  ],
+  "source_urls": [
+    "https://www.supremecourt.gov/opinions/slipopinion/23",
+    "https://scdb.la.psu.edu/data/2025-release-01/",
+    "https://static.case.law/"
+  ],
+  "input_sha256": {
+    "source_overrides.json": "c5eaa64ced6c3fba5c142c0661a5c231aa0f9cc4c13abc4fff9c3ad6dfb9fb98",
+    "scdb.zip": "bc2a4e3f1626c47a3242a149609fd081d4ee618ae0d47bc87e467d7d6f27b524",
+    "official-index.html": "edae15aeb8343425d8df02d43b414292cb753937edc6c8c81c73da0108a232a4",
+    "term-roster.json": "382d028d15df7d7e202eae3f8a5fa0096924eabb5acb91ecb51a634ee5fd48ae"
+  },
+  "unpaginated_links_resolved": 0,
+  "script_sha256": {
+    "collect_terms.py": "0980a40dcddc608b68bde41547c88f3e770c46cbcff4643ad7128021a7342549",
+    "build_term_dataset.py": "89f914b26cc55006d876d5586441086f4e92c981564f1697cc0348bc87b4dc82"
+  },
+  "id_policy": "Reuse published case IDs on exact reporter-citation matches; new IDs use us:volume:first_page."
+}

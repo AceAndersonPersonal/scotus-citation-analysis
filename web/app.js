@@ -46,7 +46,7 @@ function renderCitations() {
 function selectCase(item, updateUrl = true) {
   selectedCase = item;
   $("case-content").hidden = false; $("loading").hidden = true;
-  $("case-term").textContent = `October term ${activeTerm.term}`;
+  $("case-term").textContent = `October term ${activeTerm.term} (${activeTerm.term}–${activeTerm.term + 1})`;
   $("case-title").textContent = item.name;
   $("case-meta").textContent = `${item.citation} · Decision date: ${item.date}`;
   $("opinion-link").href = item.url;
@@ -55,6 +55,7 @@ function selectCase(item, updateUrl = true) {
   $("source-year").textContent = item.year;
   $("citation-search").value = "";
   $("term-coverage").textContent = `Term ${activeTerm.term}: ${activeTerm.source_count} source cases included; ${activeTerm.held_for_review} held for review; ${activeTerm.flagged_citations} flagged citation-review entries. Flagged entries are not a count of all missing citations.`;
+  $("term-method").textContent = `${activeTerm.method} Review status: ${activeTerm.review_status}.`;
   if (updateUrl) {
     const params = new URLSearchParams({term: String(activeTerm.term), case: item.id});
     history.replaceState(null, "", `${location.pathname}?${params}`);

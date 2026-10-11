@@ -1,10 +1,33 @@
 # Supreme Court Citation Network Analysis
 
-An exploratory Python analysis of citation patterns in selected majority and per-curiam opinions from the October 2004 and 2024 terms. Cases are represented as nodes; a directed edge connects a source case to a Supreme Court case it cites. Each distinct case pair counts once.
+An exploratory Python analysis of citation patterns in selected majority and per-curiam opinions from October Term 2004 and the consecutive October terms 2020–2024. Cases are represented as nodes; a directed edge connects a source case to a Supreme Court case it cites. Each distinct case pair counts once.
 
-The current datasets contain **128 source opinions and 1,802 citation links**. The comparison describes the collected data. Differences in extraction methods and coverage prevent interpreting the results as an established historical trend.
+The current datasets contain **349 source opinions and 5,164 citation links across six terms**. The 2020–2023 expansion is preliminary, with automated structural and boundary checks and targeted evidence checks; it has not received complete manual citation audits. The comparison describes the collected data. Differences in extraction methods and coverage prevent interpreting the results as an established historical trend.
 
-## Results
+## Annual coverage and results
+
+| October term | Included / eligible source cases | Citation links | Mean links per source | Mean of opinion mean ages (years) |
+| --- | ---: | ---: | ---: | ---: |
+| 2004 | 70 / 75 | 923 | 13.19 | 29.98 |
+| 2020 | 52 / 54 | 685 | 13.17 | 32.40 |
+| 2021 | 60 / 61 | 1,004 | 16.73 | 30.93 |
+| 2022 | 52 / 56 | 890 | 17.12 | 34.89 |
+| 2023 | 57 / 58 | 783 | 13.74 | 34.16 |
+| 2024 | 58 / 59 | 879 | 15.16 | 32.33 |
+
+Eligibility means an oral argument is recorded and SCDB decision type is 1 or 6. It is not the full Court docket. Age means exclude zero-link sources; citation-count means include them. New terms retain evidence for every edge and record held opinions and unresolved references.
+
+The equal-opinion mean age fluctuates across 2020–2024; the additional observations do not support describing the original two-term increase as a steady annual pattern. These descriptive results do not control for issue composition, missing references, or extraction differences.
+
+[Read the live annual summary](https://aceandersonpersonal.github.io/scotus-citation-analysis/annual_summary.html), including within-opinion age bands and the overlap of cited precedents between consecutive terms. Download the [term summaries](reports/annual_summary.csv) or [all opinion measurements](reports/annual_opinion_metrics.csv).
+
+```bash
+python3 annual_summary.py
+```
+
+The analysis discovers published `data/term_YYYY/` folders. Staged acquisition data do not appear in the website until promoted. The four new terms use a common parser; 2004 and 2024 retain their original extraction methods and datasets.
+
+## Original 2004–2024 comparison
 
 | Term | Source opinions | Citation links | Mean links per source | Mean citation age | Median citation age |
 | --- | ---: | ---: | ---: | ---: | ---: |
@@ -48,7 +71,7 @@ Python 3.12 is recommended for the complete project. The standard-library analys
 python3 start.py
 ```
 
-The analysis uses Python's standard library and the curated CSVs under `data/term_2004/` and `data/term_2024/`. It requires no API token or network connection.
+The analysis uses Python's standard library and the curated CSVs under each `data/term_YYYY/` folder. It requires no API token or network connection.
 
 To generate the report, set up the plotting environment once:
 
@@ -74,7 +97,7 @@ python3 -m http.server 8000 --directory web/dist
 
 Open `http://localhost:8000` in a browser. Use an HTTP server rather than opening `index.html` directly, because the interface fetches its local JSON dataset. Stop the server with Ctrl+C. Source files are in `web/`; generated output is ignored by Git. The [live explorer](https://aceandersonpersonal.github.io/scotus-citation-analysis/) is hosted on GitHub Pages and publicly accessible without signing in.
 
-The explorer automatically discovers `data/term_YYYY/` folders and checks their manifests before export. The comparative report currently covers 2004 and 2024; adding terms to that report is a separate analysis change. See [the term expansion guide](data/README.md) for the dataset contract and review process.
+The explorer automatically discovers `data/term_YYYY/` folders and checks their manifests before export. The Annual Summary covers every published term. The original comparative report remains focused on 2004 and 2024. See [the term expansion guide](data/README.md) for the dataset contract and review process.
 
 ## VS Code setup
 
@@ -94,7 +117,7 @@ To work on PDF extraction, install its additional dependencies in the same envir
 python3 -m unittest discover -s tests -v
 ```
 
-Tests cover directed paths, graph traversal with cycles, incoming citation counts, zero-citation source cases, citation ages, CSV reading, and duplicate-edge handling. Explorer tests also cover additional term discovery, partial dates, zero-link cases, inconsistent manifests, unknown case IDs, and invalid opinion links. Comparison tests verify the distinction between opinion and link weighting, omission arithmetic, undefined ages, and consistency with the original summaries. Dataset checks verify IDs, chronology, source flags, manifest counts, and evidence for every included edge.
+Tests cover directed paths, graph traversal with cycles, incoming citation counts, zero-citation source cases, citation ages, CSV reading, and duplicate-edge handling. Explorer tests also cover additional term discovery, partial dates, zero-link cases, inconsistent manifests, unknown case IDs, and invalid opinion links. Comparison tests verify the distinction between opinion and link weighting, omission arithmetic, undefined ages, and consistency with the original summaries. Dataset checks verify IDs across all terms, chronology, source flags, manifest counts, and evidence for every included edge. Acquisition regressions cover multi-case PDF volumes, split printed-page headers, separate-opinion boundaries, and ambiguous unpaginated citations. Annual tests verify age-band weighting and cited-precedent overlap.
 
 The [GitHub Actions workflow](.github/workflows/checks.yml) runs these tests, the analysis, both report builds, and an explorer export on pushes and pull requests. It uses only the committed curated data; no API credentials or raw caches are required. Successful pushes to `codex/initial-release` also publish the exported site to GitHub Pages. Pull requests run checks without publishing. The deployment uploads only the generated website directory.
 
@@ -105,6 +128,7 @@ SCOTUS Project/
     .github/workflows/          Automated tests and report build
     start.py                    Graph functions and term summaries
     compare_terms.py            Opinion-level weighting and sensitivity analysis
+    annual_summary.py           Annual metrics, age composition, and precedent overlap
     make_report.py              Chart and HTML report generation
     requirements-report.txt     Plotting dependency
     requirements-data.txt       Optional PDF extraction dependencies
@@ -114,7 +138,10 @@ SCOTUS Project/
     practice/                   Original learning exercises and toy CSV
     data/
         term_2004/              Active 2004 data, metadata, and audits
+        term_2020/ … term_2023/ Preliminary expanded datasets and check records
         term_2024/              Active 2024 data, metadata, and audits
+        staging/                Ignored acquisition and draft exports
+        reference_cache/        Ignored additional reporter metadata
         sample_3_cases/         Earlier CourtListener sample
         raw/                    Local sample API-response cache
         sample_manifest.json    Historical sample provenance
@@ -130,7 +157,7 @@ The hidden `.venv/` directory contains the local Python environment. The private
 
 Citation age is the source decision year minus the cited decision year, measured once per binary edge. Some older archive records provide only a year or month; those partial dates are preserved, and the age calculation uses their recorded year. A precedent cited by five source cases contributes five observations. Repeated mentions within one source contribute one observation. Zero-citation sources count toward the average links per source but contribute no citation ages.
 
-The 2004 data uses Harvard archive citation links attached to opinion blocks. The 2024 data uses official Supreme Court PDF text with resolved case metadata. Five additional 2004 source cases and one 2024 source case remain held for review. Unresolved and ambiguous references are omitted and logged. The selected opinion audits do not establish complete extraction recall.
+The 2004 data uses Harvard archive citation links attached to opinion blocks. The 2024 data uses official Supreme Court PDF text with resolved case metadata. Five additional 2004 source cases and one 2024 source case remain held for review. Eight eligible sources are held across the four new terms: seven extraction/section cases and one unavailable official PDF. The new collector handles report parts containing multiple cases and transformed PDF fonts, and resolves blank-page citations only when a full case name and reporter volume match uniquely. A verified date discrepancy for Mississippi v. Tennessee is recorded in `data/source_overrides.json`. Unresolved and ambiguous references are omitted and logged. The selected opinion audits do not establish complete extraction recall.
 
 The 2024 source set includes three argued per-curiam dismissals with no citation links. Term labels are not calendar years; the 2024 term includes decisions issued in 2025. A citation does not establish agreement with a precedent or its legal importance.
 
@@ -149,7 +176,7 @@ python3 practice/graph.py
 
 ## Planned development
 
-The current version provides the two-term datasets, graph analysis, descriptive report, case explorer, and selected citation audits. Further work is planned:
+The current version provides six term datasets, graph analysis, annual and pairwise summaries, a case explorer, and recorded checks. The entire 21st century is not yet covered. Further work is planned:
 
 - Apply a common extraction method and expand citation audits before interpreting differences between terms.
 - Compare citation ages and patterns within similar case categories.

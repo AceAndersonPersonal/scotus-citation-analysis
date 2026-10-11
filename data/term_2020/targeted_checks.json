@@ -1,0 +1,98 @@
+{
+  "term": 2020,
+  "selection_rule": "Purposive cases covering report-part PDFs, corrected metadata, narrative dissent references, major opinions, and zero-link decisions.",
+  "all_sources_checked": 52,
+  "checks": [
+    "Unique selected texts",
+    "Author agrees with official index",
+    "Separate-opinion boundary when separate headers exist",
+    "Disposition present near selected end",
+    "Sample citation evidence offsets and graph membership"
+  ],
+  "limitations": "Automated targeted checks; no claim of manual full-opinion review or measured citation recall. Footnotes spanning section boundaries and unnamed short forms may be missed.",
+  "samples": [
+    {
+      "scdb_id": "2020-001",
+      "case_name": "Texas v. New Mexico",
+      "pdf_url": "https://www.supremecourt.gov/opinions/preliminaryprint/592US1PP_web.pdf",
+      "pdf_sha256": "6bf297333aade78f011a1bc4fc79f1f4acad821152c7c56466996ac3548a323f",
+      "text_sha256": "2938293a6ed9891e3cc83909e2694553fb454c43e2a0a11dbd936a2c21a62309",
+      "pdf_page_range": [
+        138,
+        150
+      ],
+      "selected_start": "Justice Kavanaugh delivered the opinion of the Court.",
+      "selected_tail": "e it was released to Texas. Under those circumstances, as the River Master correctly concluded, New Mexico is entitled to delivery credit for the evaporated water. That result is both legally accurate and entirely fair. We deny Texas's motion for review. 2 It is so ordered. Justice Barrett took no part in the consideration or decision of this case.",
+      "next_section": "Justice Alito , concurring in the judgment in part and \ndissenting in part. \nI agree with the Court's rejection of Texas's argument \nthat New Mexico forfeited any objection to the River Mas-\n2 The Court has previously stated that the River Master's d",
+      "links": 4,
+      "citation_spot_checks": [
+        {
+          "citation": "482 U.S. 124",
+          "context": "number of early disputes, this Court determined that New Mexico was not allowing suffcient water to fow into Texas and was therefore breaching its Article III(a) obligations. Texas v. New Mexico , 482 U. S. 124, 127–128. The Court issued a decree setting forth the States' rights and duties. Id., at 135. In addition, in light o",
+          "target": "Texas v. New Mexico"
+        },
+        {
+          "citation": "485 U.S. 388",
+          "context": "annually and as promptly as possible as data are available.” Id., at 134. In 1988, the Court appointed Neil S. Grigg as River Master, and he continues to serve in that position. Texas v. New Mexico, 485 U. S. 388, 394 (per curiam ). The Court also issued an amended decree. The amended decree requires the River Master to annually",
+          "target": "STATE OF TEXAS v. STATE OF NEW MEXICO"
+        },
+        {
+          "citation": "562 U.S. 428",
+          "context": "e limits are plainly not jurisdictional. Among other things, the time limits do not “ `speak in jurisdictional terms or refer in any way to the jurisdiction' ” of this Court. Henderson v. Shinseki, 562 U. S. 428, 438 (2011) (quoting Zipes v. Trans World Airlines, Inc., 455 U. S. 385, 394 (1982)). We proceed to the merits. rely",
+          "target": "DORETHA H. HENDERSON, AUTHORIZED REPRESENTATIVE OF DAVID L. HENDERSON, DECEASED, PETITIONER v. ERIC K. SHINESKI, SECRETARY OF VETERANS AFFAIRS"
+        }
+      ],
+      "check_type": "automated targeted boundary and evidence checks"
+    },
+    {
+      "scdb_id": "2020-003",
+      "case_name": "Tanzin v. Tanvir",
+      "pdf_url": "https://www.supremecourt.gov/opinions/preliminaryprint/592US1PP_web.pdf",
+      "pdf_sha256": "6bf297333aade78f011a1bc4fc79f1f4acad821152c7c56466996ac3548a323f",
+      "text_sha256": "40766ed8f5edae85a310b95a9954210e4a4ab8500e759550669747acfc0011e9",
+      "pdf_page_range": [
+        83,
+        92
+      ],
+      "selected_start": "Justice Thomas delivered the opinion of the Court.",
+      "selected_tail": "* We conclude that RFRA's express remedies provision permits litigants, when appropriate, to obtain money damages against federal offcials in their individual capacities. The judgment of the United States Court of Appeals for the Second Circuit is affrmed. It is so ordered. Justice Barrett took no part in the consideration or decision of this case.",
+      "next_section": null,
+      "links": 19,
+      "citation_spot_checks": [
+        {
+          "citation": "494 U.S. 872",
+          "context": "Amendment, and it provides a remedy to redress violations of that right. Congress passed the Act in the wake of this Court's decision in Employment Div., Dept. of Human Resources of Ore. v. Smith, 494 U. S. 872, 885– 890 (1990), which held that the First Amendment tolerates neutral, generally applicable laws that burden or pro",
+          "target": "Employment Division v. Smith"
+        },
+        {
+          "citation": "587 U.S. 370",
+          "context": "ey damages against offcials. We granted certiorari, 589 U. S. 1078 (2019), and now affrm. II As usual, we start with the statutory text. E. g., Mission Product Holdings, Inc. v. Tempnology, LLC , 587 U. S. 370, 379 (2019). A person whose exercise of religion has been unlawfully burdened may “obtain appropriate relief against a",
+          "target": "Mission Product Holdings, Inc. v. Tempnology, LLC"
+        },
+        {
+          "citation": "473 U.S. 159",
+          "context": "mployees in their individual capacities, the Government argues, is not really “against a government” because relief “can be executed only against the offcial's personal assets.” Kentucky v. Graham, 473 U. S. 159, 166 (1985). The problem with this otherwise plausible argument is that Congress supplanted the ordinary meaning of “",
+          "target": "KENTUCKY, DBA BUREAU OF STATE POLICE v. GRAHAM et al."
+        }
+      ],
+      "check_type": "automated targeted boundary and evidence checks"
+    },
+    {
+      "scdb_id": "2020-028",
+      "case_name": "Henry Schein, Inc. v. Archer & White Sales, Inc.",
+      "pdf_url": "https://www.supremecourt.gov/opinions/preliminaryprint/592US1PP_web.pdf",
+      "pdf_sha256": "6bf297333aade78f011a1bc4fc79f1f4acad821152c7c56466996ac3548a323f",
+      "text_sha256": "088f32ae6cbd88c37dfb29485085e8b75c3db90e3c34cac6b76351bb0317d0b4",
+      "pdf_page_range": [
+        208,
+        208
+      ],
+      "selected_start": "Per Curiam.",
+      "selected_tail": "kner; for the Constitutional Accountability Center by Elizabeth B. Wydra, Brianne J. Gorod, and Ashwin P . Phatak; and for William R. Weinstein by William R. Weinstein, pro se. Briefs of amici curiae were fled for Daniel D. Barnhizer et al. by Erin Glenn Busby, Lisa R. Eskow, and Michael F. Sturley; and for George A. Bermann by J. Samuel Tenenbaum.",
+      "next_section": null,
+      "links": 0,
+      "citation_spot_checks": [],
+      "check_type": "automated targeted boundary and evidence checks"
+    }
+  ]
+}

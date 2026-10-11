@@ -1,0 +1,10 @@
+{
+  "2021-002": {
+    "date_discrepancy": {
+      "scdb": "2021-11-21",
+      "official": "2021-11-22"
+    },
+    "reason": "Use November 22, 2021: official index and the Decided line on printed page 15 agree; cached SCDB says November 21. Checked against the downloaded official PDF.",
+    "evidence_url": "https://www.supremecourt.gov/opinions/slipopinion/21"
+  }
+}

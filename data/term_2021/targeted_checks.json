@@ -1,0 +1,114 @@
+{
+  "term": 2021,
+  "selection_rule": "Purposive cases covering report-part PDFs, corrected metadata, narrative dissent references, major opinions, and zero-link decisions.",
+  "all_sources_checked": 60,
+  "checks": [
+    "Unique selected texts",
+    "Author agrees with official index",
+    "Separate-opinion boundary when separate headers exist",
+    "Disposition present near selected end",
+    "Sample citation evidence offsets and graph membership"
+  ],
+  "limitations": "Automated targeted checks; no claim of manual full-opinion review or measured citation recall. Footnotes spanning section boundaries and unnamed short forms may be missed.",
+  "samples": [
+    {
+      "scdb_id": "2021-002",
+      "case_name": "Mississippi v. Tennessee",
+      "pdf_url": "https://www.supremecourt.gov/opinions/21pdf/595us1r3_n758.pdf",
+      "pdf_sha256": "6d409061791d122ef2bde2da6f7f5fbc8393791fee1a194dd96ab80e4a4bf4c0",
+      "text_sha256": "920e9b7cf5b880943876194cb12b16c13e7886a61e00083d26956a90d3163eb8",
+      "pdf_page_range": [
+        2,
+        17
+      ],
+      "selected_start": "Chief Justice Roberts delivered the opinion of the Court.",
+      "selected_tail": "d a proposed complaint seeking equitable apportionment, we have no occasion to determine how these and other pertinent principles might apply. * * * Mississippi has failed to show that it is entitled to relief. We therefore overrule Mississippi's exceptions to the Special Master's report, sustain Tennessee's, and dismiss the case. It is so ordered.",
+      "next_section": null,
+      "links": 13,
+      "citation_spot_checks": [
+        {
+          "citation": "206 U.S. 46",
+          "context": "itable apportionment.” Under that doctrine, this Court allocates rights to a disputed interstate water resource after one State sues another under our original jurisdiction. See Kansas v. Colorado, 206 U. S. 46, 97–98 (1907). Traditionally, equitable apportionment has been the exclusive judicial remedy for interstate water disp",
+          "target": "Kansas v. Colorado"
+        },
+        {
+          "citation": "574 U.S. 445",
+          "context": "ation that we grant Mississippi leave to amend its complaint. We “conduct an independent review of the record, and assume the ultimate responsibility for deciding all matters.” Kansas v. Nebraska, 574 U. S. 445, 453 (2015) (internal quotation marks omitted). Based on that review, we dismiss Mississippi's complaint and decline t",
+          "target": "KANSAS v. NEBRASKA AND COLORADO"
+        },
+        {
+          "citation": "459 U.S. 176",
+          "context": "s complaint and decline to grant leave to amend. II A Equitable apportionment aims to produce a fair allocation of a shared water resource between two or more States. See Colorado v. New Mexico, 459 U. S. 176, 183 (1982). The doctrine's “guiding principle” is that States “have an equal right to make a reasonable use” of a sha",
+          "target": "COLORADO v. NEW MEXICO et al."
+        }
+      ],
+      "check_type": "automated targeted boundary and evidence checks"
+    },
+    {
+      "scdb_id": "2021-030",
+      "case_name": "Ramirez v. Collier",
+      "pdf_url": "https://www.supremecourt.gov/opinions/21pdf/595us2r18_a86c.pdf",
+      "pdf_sha256": "b41787594986dab5f455267fa334f36b29b34b654ed3e781019755cfecb6548f",
+      "text_sha256": "3758700fcfc8516a8dca1ae94d16ab9c683c5d93cc45c211bbdfc7c8c300fa13",
+      "pdf_page_range": [
+        2,
+        59
+      ],
+      "selected_start": "Chief Justice Roberts delivered the opinion of the Court.",
+      "selected_tail": "xas reschedules Ramirez's execution and declines to permit audible prayer or religious touch, the District Court should therefore enter appropriate preliminary relief. The judgment of the United States Court of Appeals for the Fifth Circuit is reversed, and the case is remanded for further proceedings consistent with this opinion. It is so ordered.",
+      "next_section": "Justice Sotomayor, concurring. \nThe opinion of the Court, which I join in full, explains why \nclear rules governing the presence of spiritual advisors at executions are necessary to ensure that any disputes are resolved \nin a timely fashion before a ",
+      "links": 16,
+      "citation_spot_checks": [
+        {
+          "citation": "555 U.S. 7",
+          "context": "rable harm in the absence of preliminary relief, that the balance of equities tips in his favor, and that an injunction is in the public interest.” Winter v. Natural Resources Defense Council, Inc., 555 U. S. 7, 20 (2008). II The prison offcials begin by arguing that Ramirez cannot hope to succeed on his claims, because he fa",
+          "target": "DONALD C. WINTER, SECRETARY OF THE NAV., et al. v. NATURAL RESOURCES DEFENSE COUNCIL, INC., et al."
+        },
+        {
+          "citation": "548 U.S. 81",
+          "context": "vailable remedies before fling suit. Such exhaustion is mandatory under the Prison Litigation Reform Act of 1995 (PLRA), 42 U. S. C. § 1997e(a), even in the execution context. See Woodford v. Ngo, 548 U. S. 81, 85 (2006); Porter v. Nussle, 534 U. S. 516, 520 (2002). The Act requires compliance with “deadlines and other critica",
+          "target": "JEANNE S. WOODFORD, et al. v. VIET MIKE NGO"
+        },
+        {
+          "citation": "534 U.S. 516",
+          "context": "xhaustion is mandatory under the Prison Litigation Reform Act of 1995 (PLRA), 42 U. S. C. § 1997e(a), even in the execution context. See Woodford v. Ngo, 548 U. S. 81, 85 (2006); Porter v. Nussle, 534 U. S. 516, 520 (2002). The Act requires compliance with “deadlines and other critical procedural rules,” Woodford, 548 U. S., at",
+          "target": "Porter v. Nussle"
+        }
+      ],
+      "check_type": "automated targeted boundary and evidence checks"
+    },
+    {
+      "scdb_id": "2021-055",
+      "case_name": "George v. McDonough",
+      "pdf_url": "https://www.supremecourt.gov/opinions/21pdf/596us2r47_m6hn.pdf",
+      "pdf_sha256": "f82ca55ec7e1045cde1dc649f1a88e5b39a0d643cefc4a486f850cc0212be749",
+      "text_sha256": "e0b527b62a73dfa9d33e2a1a39a6f3f8a522b0da3200c0d91882afd730df41f2",
+      "pdf_page_range": [
+        2,
+        25
+      ],
+      "selected_start": "Justice Barrett delivered the opinion of the Court.",
+      "selected_tail": " S. 233, 250 (2010). We decline George's invitation to gerrymander out this one feature of the prior practice. * * * The invalidation of a V A regulation after a veteran's benefts decision becomes fnal cannot support a claim for collateral relief based on clear and unmistakable error. We affrm the judgment of the Court of Appeals. It is so ordered.",
+      "next_section": "Justice Sotomayor, dissenting. \nI join all but Part II–C of Justice Gorsuch's dissent. \nThe Board of Veterans' Appeals (Board) clearly and unmistakably violated a statutory command in its decision denying \npetitioner Kevin George's application for se",
+      "links": 16,
+      "citation_spot_checks": [
+        {
+          "citation": "556 U.S. 396",
+          "context": "A “The law entitles veterans who have served on active duty in the United States military to receive benefts for disabilities caused or aggravated by their military service.” Shinseki v. Sanders, 556 U. S. 396, 400 (2009); see 38 U. S. C. § 1110. A veteran seeking such benefts must frst fle a claim with the V A. § 5101(a)(1)(",
+          "target": "ERIC K. SHINSEKI, SECRETARY OF VETERANS AFFAIRS v. WOODROW F. SANDERS"
+        },
+        {
+          "citation": "562 U.S. 428",
+          "context": "atutory claims, but since 1988 Congress has generally allowed veterans 120 days to appeal any Board decision to the Court of Appeals for Veterans Claims (Veterans Court). See Henderson v. Shinseki, 562 U. S. 428, 432, and n. 1 (2011); §§ 7252(a), 7261(a), 7266(a). A veteran dissatisfed with that court's decision may seek review",
+          "target": "DORETHA H. HENDERSON, AUTHORIZED REPRESENTATIVE OF DAVID L. HENDERSON, DECEASED, PETITIONER v. ERIC K. SHINESKI, SECRETARY OF VETERANS AFFAIRS"
+        },
+        {
+          "citation": "584 U.S. 59",
+          "context": "t had a long regulatory history in this very context. It enacted no new “defnition” or other provision indicating any departure from the “same meaning” that the V A had long applied. Hall v. Hall, 584 U. S. 59, 73 (2018). We therefore agree with the Federal Circuit that Congress “codif[ied] and adopt[ed] the [clear-and-unmist",
+          "target": "Hall v. Hall"
+        }
+      ],
+      "check_type": "automated targeted boundary and evidence checks"
+    }
+  ]
+}

@@ -1,0 +1,3324 @@
+{
+  "terms": [
+    {
+      "term": 2004,
+      "source_cases": 70,
+      "sources_with_age_data": 70,
+      "zero_link_sources": 0,
+      "citation_links": 923,
+      "mean_cited_cases": 13.185714285714285,
+      "median_cited_cases": 12.0,
+      "link_weighted_mean_age": 33.41711809317443,
+      "equal_opinion_mean_age": 29.98266451418534,
+      "median_of_opinion_mean_ages": 29.62121212121212,
+      "mean_share_0_to_10_years": 0.2774239799732051,
+      "mean_share_50_plus_years": 0.17764278582714146,
+      "eligible_source_cases": 75,
+      "held_for_review": 5,
+      "flagged_reference_entries": 83,
+      "method": "Harvard archive opinion-block citation links",
+      "review_status": "Selected opinion audits; full recall not measured",
+      "input_sha256": {
+        "cases.csv": "8871d91f01f94784f53d29af845090a4c454a4597d3eed79336f032a66a96b43",
+        "citations.csv": "b17ebaaacbaa02363904db6ea745a17974f4b84056387c3103e43729e824a873",
+        "manifest.json": "75379b1760977db4702da64fd1dc27cc9d5cea80052e96757434fefa53061655"
+      }
+    },
+    {
+      "term": 2020,
+      "source_cases": 52,
+      "sources_with_age_data": 50,
+      "zero_link_sources": 2,
+      "citation_links": 685,
+      "mean_cited_cases": 13.173076923076923,
+      "median_cited_cases": 11.0,
+      "link_weighted_mean_age": 34.442335766423355,
+      "equal_opinion_mean_age": 32.39843280719776,
+      "median_of_opinion_mean_ages": 30.0527950310559,
+      "mean_share_0_to_10_years": 0.2683296385013967,
+      "mean_share_50_plus_years": 0.16695188103214662,
+      "eligible_source_cases": 54,
+      "held_for_review": 2,
+      "flagged_reference_entries": 71,
+      "method": "Official Court PDFs; pypdf page-order text and supplemental body-font stream; common collector v1.",
+      "review_status": "preliminary; automated checks with separately recorded targeted audits",
+      "input_sha256": {
+        "cases.csv": "8ac662fe3b8f932245f1d55316edb1c47b7f56ffba043e19235a8576121803e5",
+        "citations.csv": "87b07805ab99efeb19bb37f835e9f17ba33ce2f66ff2173eb72780a1d966b557",
+        "manifest.json": "e1b42c0bc61817e37d0c0dccc8e4ca83cbe5b5cddde0520da366c8d30f1e871d"
+      }
+    },
+    {
+      "term": 2021,
+      "source_cases": 60,
+      "sources_with_age_data": 57,
+      "zero_link_sources": 3,
+      "citation_links": 1004,
+      "mean_cited_cases": 16.733333333333334,
+      "median_cited_cases": 13.0,
+      "link_weighted_mean_age": 38.169322709163346,
+      "equal_opinion_mean_age": 30.93248273058483,
+      "median_of_opinion_mean_ages": 27.5,
+      "mean_share_0_to_10_years": 0.2606811911566999,
+      "mean_share_50_plus_years": 0.14533602786082508,
+      "eligible_source_cases": 61,
+      "held_for_review": 1,
+      "flagged_reference_entries": 116,
+      "method": "Official Court PDFs; pypdf page-order text and supplemental body-font stream; common collector v1.",
+      "review_status": "preliminary; automated checks with separately recorded targeted audits",
+      "input_sha256": {
+        "cases.csv": "9abc563f59141a6efda9d6d2cb14065180bf6d54496993cfed7432bfb8076046",
+        "citations.csv": "364416214c15064e18c27c49eb8f3b84722c7df762ad72eb6bac7fdd7cea4da8",
+        "manifest.json": "cfc910598133a1d4af53a385b17ac2027454e9f8700037617b5e6667a8322b4e"
+      }
+    },
+    {
+      "term": 2022,
+      "source_cases": 52,
+      "sources_with_age_data": 50,
+      "zero_link_sources": 2,
+      "citation_links": 890,
+      "mean_cited_cases": 17.115384615384617,
+      "median_cited_cases": 13.0,
+      "link_weighted_mean_age": 40.29325842696629,
+      "equal_opinion_mean_age": 34.886523568729615,
+      "median_of_opinion_mean_ages": 32.99354838709678,
+      "mean_share_0_to_10_years": 0.27189067388856913,
+      "mean_share_50_plus_years": 0.19235193597584987,
+      "eligible_source_cases": 56,
+      "held_for_review": 4,
+      "flagged_reference_entries": 101,
+      "method": "Official Court PDFs; pypdf page-order text and supplemental body-font stream; common collector v1.",
+      "review_status": "preliminary; automated checks with separately recorded targeted audits",
+      "input_sha256": {
+        "cases.csv": "76d23f9046ca5eca724ea1a978ee3a883ea35edd068cc36181971d7cdb1e2218",
+        "citations.csv": "c76f52f0b5abec6192c6759bc61c613de233a18e438d1c347252b8bed7ea9d92",
+        "manifest.json": "c14fadb71aab60d4d818dd90b051346ac45942a2b0698d90d787c6c2cb8fc7d3"
+      }
+    },
+    {
+      "term": 2023,
+      "source_cases": 57,
+      "sources_with_age_data": 54,
+      "zero_link_sources": 3,
+      "citation_links": 783,
+      "mean_cited_cases": 13.736842105263158,
+      "median_cited_cases": 11,
+      "link_weighted_mean_age": 39.16475095785441,
+      "equal_opinion_mean_age": 34.15641799205078,
+      "median_of_opinion_mean_ages": 27.9875,
+      "mean_share_0_to_10_years": 0.3138464077218421,
+      "mean_share_50_plus_years": 0.19804661147603347,
+      "eligible_source_cases": 58,
+      "held_for_review": 1,
+      "flagged_reference_entries": 96,
+      "method": "Official Court PDFs; pypdf page-order text and supplemental body-font stream; common collector v1.",
+      "review_status": "preliminary; automated checks with separately recorded targeted audits",
+      "input_sha256": {
+        "cases.csv": "0dcd1c524b7b1f39ea66da5a6846ac02d9b6bc18510039d1f17f0c5a81f60b29",
+        "citations.csv": "039ac2e26a64a1c032a94676670c9ea3c97dc464caa1457e71b86e0ee60ad77e",
+        "manifest.json": "ede2e3ce5898c6972c0bccc4cdaf425181b4d71040967c0fd57cc7eb22ae390d"
+      }
+    },
+    {
+      "term": 2024,
+      "source_cases": 58,
+      "sources_with_age_data": 55,
+      "zero_link_sources": 3,
+      "citation_links": 879,
+      "mean_cited_cases": 15.155172413793103,
+      "median_cited_cases": 15.0,
+      "link_weighted_mean_age": 36.972696245733786,
+      "equal_opinion_mean_age": 32.334908487067516,
+      "median_of_opinion_mean_ages": 30.9,
+      "mean_share_0_to_10_years": 0.3116622276542175,
+      "mean_share_50_plus_years": 0.18208543479059175,
+      "eligible_source_cases": 59,
+      "held_for_review": 1,
+      "flagged_reference_entries": 68,
+      "method": "Official preliminary-print PDFs; pypdf page-order text plus pdfplumber body flow to bridge page breaks interrupted by footnotes. US Reports and nominative citations resolved via SCDB, official term indexes, and Harvard reporter metadata.",
+      "review_status": "Selected opinion audits; full recall not measured",
+      "input_sha256": {
+        "cases.csv": "b39117795e538391a1d187de6843d8cf621b4d035ce3ccb0a40bb4dbd9fc8e5d",
+        "citations.csv": "2e543791327ccfb67dca6e206d00c739c2fdeb4179e3ae195b32d55d93f7d070",
+        "manifest.json": "b709d1291c32e748839e50a2a0ab2ad4baad2995cab2950d8e8136de4a2e8d72"
+      }
+    }
+  ],
+  "opinions": [
+    {
+      "term": 2004,
+      "case_id": "cap:3427198",
+      "case_name": "Florida v. Nixon",
+      "cited_cases": 9,
+      "total_citation_age": 180,
+      "mean_citation_age": 20,
+      "median_citation_age": 20
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:3427314",
+      "case_name": "Cherokee Nation v. Leavitt",
+      "cited_cases": 9,
+      "total_citation_age": 356,
+      "mean_citation_age": 39.55555555555556,
+      "median_citation_age": 17
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:3440584",
+      "case_name": "Johnson v. California",
+      "cited_cases": 26,
+      "total_citation_age": 548,
+      "mean_citation_age": 21.076923076923077,
+      "median_citation_age": 15.5
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:3441929",
+      "case_name": "Kowalski v. Tesmer",
+      "cited_cases": 13,
+      "total_citation_age": 295,
+      "mean_citation_age": 22.692307692307693,
+      "median_citation_age": 20
+    },
+    {
+      "term": 2004,
+      "case_id": "137725",
+      "case_name": "Leocal v. Ashcroft",
+      "cited_cases": 4,
+      "total_citation_age": 35,
+      "mean_citation_age": 8.75,
+      "median_citation_age": 10.0
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:3442797",
+      "case_name": "Clark v. Martinez",
+      "cited_cases": 14,
+      "total_citation_age": 304,
+      "mean_citation_age": 21.714285714285715,
+      "median_citation_age": 13.5
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:3537908",
+      "case_name": "Jackson v. Birmingham Board of Education",
+      "cited_cases": 16,
+      "total_citation_age": 314,
+      "mean_citation_age": 19.625,
+      "median_citation_age": 19.5
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5867237",
+      "case_name": "Stewart v. Dutra Construction Co.",
+      "cited_cases": 17,
+      "total_citation_age": 936,
+      "mean_citation_age": 55.05882352941177,
+      "median_citation_age": 48
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5868782",
+      "case_name": "Cutter v. Wilkinson",
+      "cited_cases": 18,
+      "total_citation_age": 351,
+      "mean_citation_age": 19.5,
+      "median_citation_age": 18.0
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5869317",
+      "case_name": "Deck v. Missouri",
+      "cited_cases": 12,
+      "total_citation_age": 383,
+      "mean_citation_age": 31.916666666666668,
+      "median_citation_age": 27.5
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5869462",
+      "case_name": "Pace v. DiGuglielmo",
+      "cited_cases": 5,
+      "total_citation_age": 156,
+      "mean_citation_age": 31.2,
+      "median_citation_age": 5
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5870372",
+      "case_name": "Rousey v. Jacoway",
+      "cited_cases": 7,
+      "total_citation_age": 95,
+      "mean_citation_age": 13.571428571428571,
+      "median_citation_age": 10
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5872909",
+      "case_name": "Johanns v. Livestock Marketing Ass'n",
+      "cited_cases": 11,
+      "total_citation_age": 212,
+      "mean_citation_age": 19.272727272727273,
+      "median_citation_age": 15
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5872977",
+      "case_name": "Brown v. Payton",
+      "cited_cases": 7,
+      "total_citation_age": 57,
+      "mean_citation_age": 8.142857142857142,
+      "median_citation_age": 3
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5874681",
+      "case_name": "Rhines v. Weber",
+      "cited_cases": 7,
+      "total_citation_age": 166,
+      "mean_citation_age": 23.714285714285715,
+      "median_citation_age": 8
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5875345",
+      "case_name": "Johnson v. United States",
+      "cited_cases": 9,
+      "total_citation_age": 118,
+      "mean_citation_age": 13.11111111111111,
+      "median_citation_age": 8
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5878906",
+      "case_name": "Medellin v. Dretke",
+      "cited_cases": 8,
+      "total_citation_age": 142,
+      "mean_citation_age": 17.75,
+      "median_citation_age": 11.0
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5879370",
+      "case_name": "Lingle v. Chevron U. S. A. Inc.",
+      "cited_cases": 30,
+      "total_citation_age": 1154,
+      "mean_citation_age": 38.46666666666667,
+      "median_citation_age": 26.0
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5880369",
+      "case_name": "Bates v. Dow Agrosciences LLC",
+      "cited_cases": 7,
+      "total_citation_age": 146,
+      "mean_citation_age": 20.857142857142858,
+      "median_citation_age": 14
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5881392",
+      "case_name": "Tory v. Cochran",
+      "cited_cases": 7,
+      "total_citation_age": 219,
+      "mean_citation_age": 31.285714285714285,
+      "median_citation_age": 32
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5881890",
+      "case_name": "Granholm v. Heald",
+      "cited_cases": 43,
+      "total_citation_age": 2338,
+      "mean_citation_age": 54.372093023255815,
+      "median_citation_age": 41
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5883802",
+      "case_name": "Wilkinson v. Dotson",
+      "cited_cases": 9,
+      "total_citation_age": 184,
+      "mean_citation_age": 20.444444444444443,
+      "median_citation_age": 23
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5884234",
+      "case_name": "Jama v. Immigration & Customs Enforcement",
+      "cited_cases": 12,
+      "total_citation_age": 442,
+      "mean_citation_age": 36.833333333333336,
+      "median_citation_age": 31.5
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5885592",
+      "case_name": "Tenet v. Doe",
+      "cited_cases": 11,
+      "total_citation_age": 329,
+      "mean_citation_age": 29.90909090909091,
+      "median_citation_age": 20
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5888862",
+      "case_name": "City of Rancho Palos Verdes v. Abrams",
+      "cited_cases": 17,
+      "total_citation_age": 325,
+      "mean_citation_age": 19.11764705882353,
+      "median_citation_age": 18
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5891064",
+      "case_name": "Ballard v. Commissioner",
+      "cited_cases": 5,
+      "total_citation_age": 185,
+      "mean_citation_age": 37,
+      "median_citation_age": 46
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5891157",
+      "case_name": "Dura Pharmaceuticals, Inc. v. Broudo",
+      "cited_cases": 7,
+      "total_citation_age": 241,
+      "mean_citation_age": 34.42857142857143,
+      "median_citation_age": 19
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5902037",
+      "case_name": "Muehler v. Mena",
+      "cited_cases": 11,
+      "total_citation_age": 159,
+      "mean_citation_age": 14.454545454545455,
+      "median_citation_age": 14
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5902584",
+      "case_name": "Illinois v. Caballes",
+      "cited_cases": 4,
+      "total_citation_age": 52,
+      "mean_citation_age": 13,
+      "median_citation_age": 13.0
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5907297",
+      "case_name": "Pasquantino v. United States",
+      "cited_cases": 22,
+      "total_citation_age": 793,
+      "mean_citation_age": 36.04545454545455,
+      "median_citation_age": 13.0
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5909771",
+      "case_name": "Arthur Andersen LLP v. United States",
+      "cited_cases": 10,
+      "total_citation_age": 316,
+      "mean_citation_age": 31.6,
+      "median_citation_age": 20.0
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5913534",
+      "case_name": "City of Sherrill v. Oneida Indian Nation",
+      "cited_cases": 23,
+      "total_citation_age": 1538,
+      "mean_citation_age": 66.8695652173913,
+      "median_citation_age": 32
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5914041",
+      "case_name": "Small v. United States",
+      "cited_cases": 12,
+      "total_citation_age": 436,
+      "mean_citation_age": 36.333333333333336,
+      "median_citation_age": 23.0
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5916387",
+      "case_name": "KP Permanent Make-Up, Inc. v. Lasting Impression I, Inc.",
+      "cited_cases": 8,
+      "total_citation_age": 454,
+      "mean_citation_age": 56.75,
+      "median_citation_age": 50.5
+    },
+    {
+      "term": 2004,
+      "case_id": "137726",
+      "case_name": "Norfolk Southern Railway Co. v. James N. Kirby, Pty Ltd.",
+      "cited_cases": 21,
+      "total_citation_age": 1175,
+      "mean_citation_age": 55.95238095238095,
+      "median_citation_age": 45
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5916678",
+      "case_name": "Devenpeck v. Alford",
+      "cited_cases": 8,
+      "total_citation_age": 148,
+      "mean_citation_age": 18.5,
+      "median_citation_age": 13.5
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5919359",
+      "case_name": "Cooper Industries, Inc. v. Aviall Services, Inc.",
+      "cited_cases": 10,
+      "total_citation_age": 205,
+      "mean_citation_age": 20.5,
+      "median_citation_age": 17.5
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5920496",
+      "case_name": "Exxon Mobil Corp. v. Saudi Basic Industries Corp.",
+      "cited_cases": 21,
+      "total_citation_age": 714,
+      "mean_citation_age": 34,
+      "median_citation_age": 29
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5925862",
+      "case_name": "United States v. Booker",
+      "cited_cases": 30,
+      "total_citation_age": 487,
+      "mean_citation_age": 16.233333333333334,
+      "median_citation_age": 12.0
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5928574",
+      "case_name": "Roper v. Simmons",
+      "cited_cases": 18,
+      "total_citation_age": 528,
+      "mean_citation_age": 29.333333333333332,
+      "median_citation_age": 24.0
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5948643",
+      "case_name": "Whitfield v. United States",
+      "cited_cases": 11,
+      "total_citation_age": 464,
+      "mean_citation_age": 42.18181818181818,
+      "median_citation_age": 25
+    },
+    {
+      "term": 2004,
+      "case_id": "137728",
+      "case_name": "Koons Buick Pontiac GMC, Inc. v. Nigh",
+      "cited_cases": 6,
+      "total_citation_age": 143,
+      "mean_citation_age": 23.833333333333332,
+      "median_citation_age": 14.5
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5963304",
+      "case_name": "Kansas v. Colorado",
+      "cited_cases": 14,
+      "total_citation_age": 485,
+      "mean_citation_age": 34.642857142857146,
+      "median_citation_age": 22.5
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5967659",
+      "case_name": "Smith v. Massachusetts",
+      "cited_cases": 16,
+      "total_citation_age": 458,
+      "mean_citation_age": 28.625,
+      "median_citation_age": 27.5
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5977915",
+      "case_name": "Commissioner v. Banks",
+      "cited_cases": 13,
+      "total_citation_age": 560,
+      "mean_citation_age": 43.07692307692308,
+      "median_citation_age": 50
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:5980411",
+      "case_name": "Howell v. Mississippi",
+      "cited_cases": 17,
+      "total_citation_age": 804,
+      "mean_citation_age": 47.294117647058826,
+      "median_citation_age": 22
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8208788",
+      "case_name": "Gonzales v. Raich",
+      "cited_cases": 26,
+      "total_citation_age": 1465,
+      "mean_citation_age": 56.34615384615385,
+      "median_citation_age": 36.5
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8208840",
+      "case_name": "Alaska v. United States",
+      "cited_cases": 9,
+      "total_citation_age": 300,
+      "mean_citation_age": 33.333333333333336,
+      "median_citation_age": 27
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8208918",
+      "case_name": "Johnson v. California",
+      "cited_cases": 16,
+      "total_citation_age": 581,
+      "mean_citation_age": 36.3125,
+      "median_citation_age": 28.5
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8208966",
+      "case_name": "Bradshaw v. Stumpf",
+      "cited_cases": 9,
+      "total_citation_age": 200,
+      "mean_citation_age": 22.22222222222222,
+      "median_citation_age": 21
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8209013",
+      "case_name": "Merck KGaA v. Integra Lifesciences I, Ltd.",
+      "cited_cases": 1,
+      "total_citation_age": 15,
+      "mean_citation_age": 15,
+      "median_citation_age": 15
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8209063",
+      "case_name": "Wilkinson v. Austin",
+      "cited_cases": 12,
+      "total_citation_age": 430,
+      "mean_citation_age": 35.833333333333336,
+      "median_citation_age": 29.0
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8209132",
+      "case_name": "Miller-El v. Dretke",
+      "cited_cases": 15,
+      "total_citation_age": 481,
+      "mean_citation_age": 32.06666666666667,
+      "median_citation_age": 19
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8209152",
+      "case_name": "Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing",
+      "cited_cases": 12,
+      "total_citation_age": 719,
+      "mean_citation_age": 59.916666666666664,
+      "median_citation_age": 76.5
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8209191",
+      "case_name": "San Remo Hotel, L. P. v. City & County of San Francisco",
+      "cited_cases": 22,
+      "total_citation_age": 1001,
+      "mean_citation_age": 45.5,
+      "median_citation_age": 24.0
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8209230",
+      "case_name": "Dodd v. United States",
+      "cited_cases": 5,
+      "total_citation_age": 30,
+      "mean_citation_age": 6,
+      "median_citation_age": 5
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8209271",
+      "case_name": "Rompilla v. Beard",
+      "cited_cases": 5,
+      "total_citation_age": 57,
+      "mean_citation_age": 11.4,
+      "median_citation_age": 11
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8209311",
+      "case_name": "Graham County Soil & Water Conservation District v. United States ex rel. Wilson",
+      "cited_cases": 9,
+      "total_citation_age": 74,
+      "mean_citation_age": 8.222222222222221,
+      "median_citation_age": 8
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8209338",
+      "case_name": "American Trucking Associations, Inc. v. Michigan Public Service Commission",
+      "cited_cases": 13,
+      "total_citation_age": 406,
+      "mean_citation_age": 31.23076923076923,
+      "median_citation_age": 27
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8209431",
+      "case_name": "Kelo v. City of New London",
+      "cited_cases": 20,
+      "total_citation_age": 1359,
+      "mean_citation_age": 67.95,
+      "median_citation_age": 78.0
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8209485",
+      "case_name": "Gonzalez v. Crosby",
+      "cited_cases": 14,
+      "total_citation_age": 208,
+      "mean_citation_age": 14.857142857142858,
+      "median_citation_age": 7.0
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8209559",
+      "case_name": "Exxon Mobil Corp. v. Allapattah Services, Inc.",
+      "cited_cases": 14,
+      "total_citation_age": 581,
+      "mean_citation_age": 41.5,
+      "median_citation_age": 28.0
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8209584",
+      "case_name": "Orff v. United States",
+      "cited_cases": 5,
+      "total_citation_age": 134,
+      "mean_citation_age": 26.8,
+      "median_citation_age": 27
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8209670",
+      "case_name": "Halbert v. Michigan",
+      "cited_cases": 13,
+      "total_citation_age": 490,
+      "mean_citation_age": 37.69230769230769,
+      "median_citation_age": 38
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8209728",
+      "case_name": "Mayle v. Felix",
+      "cited_cases": 10,
+      "total_citation_age": 333,
+      "mean_citation_age": 33.3,
+      "median_citation_age": 30.0
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8209863",
+      "case_name": "Town of Castle Rock v. Gonzales",
+      "cited_cases": 18,
+      "total_citation_age": 438,
+      "mean_citation_age": 24.333333333333332,
+      "median_citation_age": 16.0
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8209946",
+      "case_name": "Bell v. Thompson",
+      "cited_cases": 6,
+      "total_citation_age": 61,
+      "mean_citation_age": 10.166666666666666,
+      "median_citation_age": 11.0
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8210003",
+      "case_name": "McCreary County v. American Civil Liberties Union",
+      "cited_cases": 28,
+      "total_citation_age": 812,
+      "mean_citation_age": 29,
+      "median_citation_age": 20.5
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8210147",
+      "case_name": "Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd.",
+      "cited_cases": 7,
+      "total_citation_age": 364,
+      "mean_citation_age": 52,
+      "median_citation_age": 41
+    },
+    {
+      "term": 2004,
+      "case_id": "cap:8210237",
+      "case_name": "National Cable & Telecommunications Ass'n v. Brand X Internet Services",
+      "cited_cases": 19,
+      "total_citation_age": 175,
+      "mean_citation_age": 9.210526315789474,
+      "median_citation_age": 9
+    },
+    {
+      "term": 2020,
+      "case_id": "us:592:125",
+      "case_name": "Trump v. New York",
+      "cited_cases": 16,
+      "total_citation_age": 259,
+      "mean_citation_age": 16.1875,
+      "median_citation_age": 16.0
+    },
+    {
+      "term": 2020,
+      "case_id": "us:592:154",
+      "case_name": "Chicago v. Fulton",
+      "cited_cases": 5,
+      "total_citation_age": 83,
+      "mean_citation_age": 16.6,
+      "median_citation_age": 12
+    },
+    {
+      "term": 2020,
+      "case_id": "us:592:168",
+      "case_name": "Henry Schein, Inc. v. Archer & White Sales, Inc.",
+      "cited_cases": 0,
+      "total_citation_age": 0,
+      "mean_citation_age": null,
+      "median_citation_age": null
+    },
+    {
+      "term": 2020,
+      "case_id": "us:592:169",
+      "case_name": "Federal Republic of Germany v. Philipp",
+      "cited_cases": 11,
+      "total_citation_age": 265,
+      "mean_citation_age": 24.09090909090909,
+      "median_citation_age": 14
+    },
+    {
+      "term": 2020,
+      "case_id": "us:592:188",
+      "case_name": "Salinas v. Railroad Retirement Bd.",
+      "cited_cases": 10,
+      "total_citation_age": 223,
+      "mean_citation_age": 22.3,
+      "median_citation_age": 23.0
+    },
+    {
+      "term": 2020,
+      "case_id": "us:592:207",
+      "case_name": "Republic of Hungary v. Simon",
+      "cited_cases": 5,
+      "total_citation_age": 4,
+      "mean_citation_age": 0.8,
+      "median_citation_age": 1
+    },
+    {
+      "term": 2020,
+      "case_id": "us:592:209",
+      "case_name": "Brownback v. King",
+      "cited_cases": 12,
+      "total_citation_age": 296,
+      "mean_citation_age": 24.666666666666668,
+      "median_citation_age": 17.5
+    },
+    {
+      "term": 2020,
+      "case_id": "us:592:224",
+      "case_name": "Pereida v. Wilkinson",
+      "cited_cases": 13,
+      "total_citation_age": 235,
+      "mean_citation_age": 18.076923076923077,
+      "median_citation_age": 12
+    },
+    {
+      "term": 2020,
+      "case_id": "us:592:261",
+      "case_name": "United States Fish and Wildlife Serv. v. Sierra Club, Inc.",
+      "cited_cases": 5,
+      "total_citation_age": 184,
+      "mean_citation_age": 36.8,
+      "median_citation_age": 46
+    },
+    {
+      "term": 2020,
+      "case_id": "us:592:279",
+      "case_name": "Uzuegbunam v. Preczewski",
+      "cited_cases": 14,
+      "total_citation_age": 318,
+      "mean_citation_age": 22.714285714285715,
+      "median_citation_age": 26.0
+    },
+    {
+      "term": 2020,
+      "case_id": "us:592:306",
+      "case_name": "Torres v. Madrid",
+      "cited_cases": 27,
+      "total_citation_age": 1102,
+      "mean_citation_age": 40.81481481481482,
+      "median_citation_age": 30
+    },
+    {
+      "term": 2020,
+      "case_id": "us:592:351",
+      "case_name": "Ford Motor Co. v. Montana Eighth Judicial Dist.",
+      "cited_cases": 11,
+      "total_citation_age": 352,
+      "mean_citation_age": 32,
+      "median_citation_age": 36
+    },
+    {
+      "term": 2020,
+      "case_id": "us:592:395",
+      "case_name": "Facebook, Inc. v. Duguid",
+      "cited_cases": 11,
+      "total_citation_age": 263,
+      "mean_citation_age": 23.90909090909091,
+      "median_citation_age": 16
+    },
+    {
+      "term": 2020,
+      "case_id": "us:592:414",
+      "case_name": "FCC v. Prometheus Radio Project",
+      "cited_cases": 5,
+      "total_citation_age": 176,
+      "mean_citation_age": 35.2,
+      "median_citation_age": 40
+    },
+    {
+      "term": 2020,
+      "case_id": "us:592:43",
+      "case_name": "Tanzin v. Tanvir",
+      "cited_cases": 19,
+      "total_citation_age": 1088,
+      "mean_citation_age": 57.26315789473684,
+      "median_citation_age": 30
+    },
+    {
+      "term": 2020,
+      "case_id": "us:592:433",
+      "case_name": "Florida v. Georgia",
+      "cited_cases": 4,
+      "total_citation_age": 182,
+      "mean_citation_age": 45.5,
+      "median_citation_age": 38.0
+    },
+    {
+      "term": 2020,
+      "case_id": "us:592:53",
+      "case_name": "Carney v. Adams",
+      "cited_cases": 15,
+      "total_citation_age": 510,
+      "mean_citation_age": 34,
+      "median_citation_age": 28
+    },
+    {
+      "term": 2020,
+      "case_id": "us:592:69",
+      "case_name": "United States v. Briggs",
+      "cited_cases": 14,
+      "total_citation_age": 415,
+      "mean_citation_age": 29.642857142857142,
+      "median_citation_age": 29.0
+    },
+    {
+      "term": 2020,
+      "case_id": "us:592:80",
+      "case_name": "Rutledge v. Pharmaceutical Care Management Assn.",
+      "cited_cases": 8,
+      "total_citation_age": 193,
+      "mean_citation_age": 24.125,
+      "median_citation_age": 24.0
+    },
+    {
+      "term": 2020,
+      "case_id": "us:592:98",
+      "case_name": "Texas v. New Mexico",
+      "cited_cases": 4,
+      "total_citation_age": 112,
+      "mean_citation_age": 28,
+      "median_citation_age": 32.5
+    },
+    {
+      "term": 2020,
+      "case_id": "us:593:1",
+      "case_name": "Google LLC v. Oracle America, Inc.",
+      "cited_cases": 12,
+      "total_citation_age": 523,
+      "mean_citation_age": 43.583333333333336,
+      "median_citation_age": 33.5
+    },
+    {
+      "term": 2020,
+      "case_id": "us:593:155",
+      "case_name": "Niz-Chavez v. Garland",
+      "cited_cases": 4,
+      "total_citation_age": 51,
+      "mean_citation_age": 12.75,
+      "median_citation_age": 10.0
+    },
+    {
+      "term": 2020,
+      "case_id": "us:593:194",
+      "case_name": "Caniglia v. Strom",
+      "cited_cases": 6,
+      "total_citation_age": 134,
+      "mean_citation_age": 22.333333333333332,
+      "median_citation_age": 12.5
+    },
+    {
+      "term": 2020,
+      "case_id": "us:593:209",
+      "case_name": "CIC Servs., LLC v. IRS",
+      "cited_cases": 8,
+      "total_citation_age": 478,
+      "mean_citation_age": 59.75,
+      "median_citation_age": 47.0
+    },
+    {
+      "term": 2020,
+      "case_id": "us:593:230",
+      "case_name": "BP p.l.c. v. Mayor and City Council of Baltimore",
+      "cited_cases": 19,
+      "total_citation_age": 482,
+      "mean_citation_age": 25.36842105263158,
+      "median_citation_age": 10
+    },
+    {
+      "term": 2020,
+      "case_id": "us:593:255",
+      "case_name": "Edwards v. Vannoy",
+      "cited_cases": 42,
+      "total_citation_age": 1333,
+      "mean_citation_age": 31.738095238095237,
+      "median_citation_age": 32.0
+    },
+    {
+      "term": 2020,
+      "case_id": "us:593:310",
+      "case_name": "Guam v. United States",
+      "cited_cases": 12,
+      "total_citation_age": 191,
+      "mean_citation_age": 15.916666666666666,
+      "median_citation_age": 12.0
+    },
+    {
+      "term": 2020,
+      "case_id": "us:593:321",
+      "case_name": "United States v. Palomar-Santiago",
+      "cited_cases": 7,
+      "total_citation_age": 208,
+      "mean_citation_age": 29.714285714285715,
+      "median_citation_age": 20
+    },
+    {
+      "term": 2020,
+      "case_id": "us:593:330",
+      "case_name": "San Antonio v. Hotels.com, L. P.",
+      "cited_cases": 6,
+      "total_citation_age": 261,
+      "mean_citation_age": 43.5,
+      "median_citation_age": 19.0
+    },
+    {
+      "term": 2020,
+      "case_id": "us:593:345",
+      "case_name": "United States v. Cooley",
+      "cited_cases": 12,
+      "total_citation_age": 490,
+      "mean_citation_age": 40.833333333333336,
+      "median_citation_age": 29.5
+    },
+    {
+      "term": 2020,
+      "case_id": "us:593:357",
+      "case_name": "Garland v. Ming Dai",
+      "cited_cases": 10,
+      "total_citation_age": 534,
+      "mean_citation_age": 53.4,
+      "median_citation_age": 45.0
+    },
+    {
+      "term": 2020,
+      "case_id": "us:593:374",
+      "case_name": "Van Buren v. United States",
+      "cited_cases": 11,
+      "total_citation_age": 78,
+      "mean_citation_age": 7.090909090909091,
+      "median_citation_age": 5
+    },
+    {
+      "term": 2020,
+      "case_id": "us:593:409",
+      "case_name": "Sanchez v. Mayorkas",
+      "cited_cases": 0,
+      "total_citation_age": 0,
+      "mean_citation_age": null,
+      "median_citation_age": null
+    },
+    {
+      "term": 2020,
+      "case_id": "us:593:486",
+      "case_name": "Terry v. United States",
+      "cited_cases": 2,
+      "total_citation_age": 121,
+      "mean_citation_age": 60.5,
+      "median_citation_age": 60.5
+    },
+    {
+      "term": 2020,
+      "case_id": "us:593:503",
+      "case_name": "Greer v. United States",
+      "cited_cases": 12,
+      "total_citation_age": 208,
+      "mean_citation_age": 17.333333333333332,
+      "median_citation_age": 19.0
+    },
+    {
+      "term": 2020,
+      "case_id": "us:593:522",
+      "case_name": "Fulton v. Philadelphia",
+      "cited_cases": 15,
+      "total_citation_age": 398,
+      "mean_citation_age": 26.533333333333335,
+      "median_citation_age": 28
+    },
+    {
+      "term": 2020,
+      "case_id": "us:593:659",
+      "case_name": "California v. Texas",
+      "cited_cases": 23,
+      "total_citation_age": 699,
+      "mean_citation_age": 30.391304347826086,
+      "median_citation_age": 23
+    },
+    {
+      "term": 2020,
+      "case_id": "us:593:67",
+      "case_name": "AMG Capital Management, LLC v. FTC",
+      "cited_cases": 8,
+      "total_citation_age": 331,
+      "mean_citation_age": 41.375,
+      "median_citation_age": 30.5
+    },
+    {
+      "term": 2020,
+      "case_id": "us:593:83",
+      "case_name": "Carr v. Saul",
+      "cited_cases": 16,
+      "total_citation_age": 751,
+      "mean_citation_age": 46.9375,
+      "median_citation_age": 45.0
+    },
+    {
+      "term": 2020,
+      "case_id": "us:593:98",
+      "case_name": "Jones v. Mississippi",
+      "cited_cases": 21,
+      "total_citation_age": 489,
+      "mean_citation_age": 23.285714285714285,
+      "median_citation_age": 21
+    },
+    {
+      "term": 2020,
+      "case_id": "us:594:113",
+      "case_name": "Goldman Sachs Group, Inc. v. Arkansas Teacher Retirement System",
+      "cited_cases": 10,
+      "total_citation_age": 232,
+      "mean_citation_age": 23.2,
+      "median_citation_age": 19.5
+    },
+    {
+      "term": 2020,
+      "case_id": "us:594:139",
+      "case_name": "Cedar Point Nursery v. Hassid",
+      "cited_cases": 34,
+      "total_citation_age": 1783,
+      "mean_citation_age": 52.44117647058823,
+      "median_citation_age": 42.0
+    },
+    {
+      "term": 2020,
+      "case_id": "us:594:180",
+      "case_name": "Mahanoy Area School Dist. v. B. L.",
+      "cited_cases": 10,
+      "total_citation_age": 411,
+      "mean_citation_age": 41.1,
+      "median_citation_age": 34.5
+    },
+    {
+      "term": 2020,
+      "case_id": "us:594:220",
+      "case_name": "Collins v. Yellen",
+      "cited_cases": 21,
+      "total_citation_age": 835,
+      "mean_citation_age": 39.76190476190476,
+      "median_citation_age": 33
+    },
+    {
+      "term": 2020,
+      "case_id": "us:594:295",
+      "case_name": "Lange v. California",
+      "cited_cases": 21,
+      "total_citation_age": 479,
+      "mean_citation_age": 22.80952380952381,
+      "median_citation_age": 15
+    },
+    {
+      "term": 2020,
+      "case_id": "us:594:338",
+      "case_name": "Yellen v. Confederated Tribes of Chehalis Reservation",
+      "cited_cases": 11,
+      "total_citation_age": 152,
+      "mean_citation_age": 13.818181818181818,
+      "median_citation_age": 10
+    },
+    {
+      "term": 2020,
+      "case_id": "us:594:382",
+      "case_name": "HollyFrontier Cheyenne Refining, LLC v. Renewable Fuels Assn.",
+      "cited_cases": 5,
+      "total_citation_age": 92,
+      "mean_citation_age": 18.4,
+      "median_citation_age": 24
+    },
+    {
+      "term": 2020,
+      "case_id": "us:594:413",
+      "case_name": "TransUnion LLC v. Ramirez",
+      "cited_cases": 30,
+      "total_citation_age": 1100,
+      "mean_citation_age": 36.666666666666664,
+      "median_citation_age": 30.0
+    },
+    {
+      "term": 2020,
+      "case_id": "us:594:482",
+      "case_name": "PennEast Pipeline Co. v. New Jersey",
+      "cited_cases": 29,
+      "total_citation_age": 2096,
+      "mean_citation_age": 72.27586206896552,
+      "median_citation_age": 45
+    },
+    {
+      "term": 2020,
+      "case_id": "us:594:559",
+      "case_name": "Minerva Surgical, Inc. v. Hologic, Inc.",
+      "cited_cases": 5,
+      "total_citation_age": 274,
+      "mean_citation_age": 54.8,
+      "median_citation_age": 52
+    },
+    {
+      "term": 2020,
+      "case_id": "us:594:647",
+      "case_name": "Brnovich v. Democratic National Committee",
+      "cited_cases": 35,
+      "total_citation_age": 1326,
+      "mean_citation_age": 37.885714285714286,
+      "median_citation_age": 35
+    },
+    {
+      "term": 2020,
+      "case_id": "us:594:69",
+      "case_name": "National Collegiate Athletic Assn. v. Alston",
+      "cited_cases": 19,
+      "total_citation_age": 793,
+      "mean_citation_age": 41.73684210526316,
+      "median_citation_age": 37
+    },
+    {
+      "term": 2021,
+      "case_id": "us:595:109",
+      "case_name": "NFIB v. OSHA",
+      "cited_cases": 2,
+      "total_citation_age": 13,
+      "mean_citation_age": 6.5,
+      "median_citation_age": 6.5
+    },
+    {
+      "term": 2021,
+      "case_id": "us:595:140",
+      "case_name": "Hemphill v. New York",
+      "cited_cases": 22,
+      "total_citation_age": 797,
+      "mean_citation_age": 36.22727272727273,
+      "median_citation_age": 34.0
+    },
+    {
+      "term": 2021,
+      "case_id": "us:595:15",
+      "case_name": "Mississippi v. Tennessee",
+      "cited_cases": 13,
+      "total_citation_age": 557,
+      "mean_citation_age": 42.84615384615385,
+      "median_citation_age": 38
+    },
+    {
+      "term": 2021,
+      "case_id": "us:595:170",
+      "case_name": "Hughes v. Northwestern Univ.",
+      "cited_cases": 5,
+      "total_citation_age": 46,
+      "mean_citation_age": 9.2,
+      "median_citation_age": 8
+    },
+    {
+      "term": 2021,
+      "case_id": "us:595:178",
+      "case_name": "Unicolors, Inc. v. H&M Hennes & Mauritz, L. P.",
+      "cited_cases": 6,
+      "total_citation_age": 72,
+      "mean_citation_age": 12,
+      "median_citation_age": 10.5
+    },
+    {
+      "term": 2021,
+      "case_id": "us:595:267",
+      "case_name": "Cameron v. EMW Women\u2019s Surgical Center, P. S. C.",
+      "cited_cases": 19,
+      "total_citation_age": 576,
+      "mean_citation_age": 30.31578947368421,
+      "median_citation_age": 25
+    },
+    {
+      "term": 2021,
+      "case_id": "us:595:302",
+      "case_name": "United States v. Tsarnaev",
+      "cited_cases": 36,
+      "total_citation_age": 1552,
+      "mean_citation_age": 43.111111111111114,
+      "median_citation_age": 36.5
+    },
+    {
+      "term": 2021,
+      "case_id": "us:595:344",
+      "case_name": "FBI v. Fazaga",
+      "cited_cases": 7,
+      "total_citation_age": 292,
+      "mean_citation_age": 41.714285714285715,
+      "median_citation_age": 17
+    },
+    {
+      "term": 2021,
+      "case_id": "us:595:360",
+      "case_name": "Wooden v. United States",
+      "cited_cases": 4,
+      "total_citation_age": 102,
+      "mean_citation_age": 25.5,
+      "median_citation_age": 23.0
+    },
+    {
+      "term": 2021,
+      "case_id": "us:595:411",
+      "case_name": "Ramirez v. Collier",
+      "cited_cases": 16,
+      "total_citation_age": 440,
+      "mean_citation_age": 27.5,
+      "median_citation_age": 16.5
+    },
+    {
+      "term": 2021,
+      "case_id": "us:595:468",
+      "case_name": "Houston Community College System v. Wilson",
+      "cited_cases": 17,
+      "total_citation_age": 1026,
+      "mean_citation_age": 60.35294117647059,
+      "median_citation_age": 53
+    },
+    {
+      "term": 2021,
+      "case_id": "us:595:74",
+      "case_name": "United States v. Texas",
+      "cited_cases": 0,
+      "total_citation_age": 0,
+      "mean_citation_age": null,
+      "median_citation_age": null
+    },
+    {
+      "term": 2021,
+      "case_id": "us:595:77",
+      "case_name": "Babcock v. Kijakazi",
+      "cited_cases": 3,
+      "total_citation_age": 44,
+      "mean_citation_age": 14.666666666666666,
+      "median_citation_age": 12
+    },
+    {
+      "term": 2021,
+      "case_id": "us:595:87",
+      "case_name": "Biden v. Missouri",
+      "cited_cases": 2,
+      "total_citation_age": 40,
+      "mean_citation_age": 20,
+      "median_citation_age": 20.0
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:1",
+      "case_name": "Badgerow v. Walters",
+      "cited_cases": 12,
+      "total_citation_age": 264,
+      "mean_citation_age": 22,
+      "median_citation_age": 22.5
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:107",
+      "case_name": "Cassirer v. Thyssen-Bornemisza Collection Foundation",
+      "cited_cases": 3,
+      "total_citation_age": 161,
+      "mean_citation_age": 53.666666666666664,
+      "median_citation_age": 41
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:118",
+      "case_name": "Brown v. Davenport",
+      "cited_cases": 62,
+      "total_citation_age": 4099,
+      "mean_citation_age": 66.11290322580645,
+      "median_citation_age": 33.5
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:159",
+      "case_name": "United States v. Vaello Madero",
+      "cited_cases": 2,
+      "total_citation_age": 86,
+      "mean_citation_age": 43,
+      "median_citation_age": 43.0
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:199",
+      "case_name": "Boechler v. Commissioner",
+      "cited_cases": 12,
+      "total_citation_age": 211,
+      "mean_citation_age": 17.583333333333332,
+      "median_citation_age": 14.0
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:212",
+      "case_name": "Cummings v. Premier Rehab Keller",
+      "cited_cases": 9,
+      "total_citation_age": 208,
+      "mean_citation_age": 23.11111111111111,
+      "median_citation_age": 21
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:243",
+      "case_name": "Shurtleff v. Boston",
+      "cited_cases": 5,
+      "total_citation_age": 90,
+      "mean_citation_age": 18,
+      "median_citation_age": 21
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:289",
+      "case_name": "Federal Election Comm\u2019n v. Ted Cruz",
+      "cited_cases": 26,
+      "total_citation_age": 637,
+      "mean_citation_age": 24.5,
+      "median_citation_age": 22.0
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:328",
+      "case_name": "Patel v. Garland",
+      "cited_cases": 13,
+      "total_citation_age": 255,
+      "mean_citation_age": 19.615384615384617,
+      "median_citation_age": 12
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:36",
+      "case_name": "Thompson v. Clark",
+      "cited_cases": 4,
+      "total_citation_age": 62,
+      "mean_citation_age": 15.5,
+      "median_citation_age": 15.5
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:366",
+      "case_name": "Shinn v. Martinez Ramirez",
+      "cited_cases": 34,
+      "total_citation_age": 981,
+      "mean_citation_age": 28.852941176470587,
+      "median_citation_age": 22.5
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:411",
+      "case_name": "Morgan v. Sundance, Inc.",
+      "cited_cases": 6,
+      "total_citation_age": 175,
+      "mean_citation_age": 29.166666666666668,
+      "median_citation_age": 33.0
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:420",
+      "case_name": "Gallardo v. Marstiller",
+      "cited_cases": 6,
+      "total_citation_age": 139,
+      "mean_citation_age": 23.166666666666668,
+      "median_citation_age": 20.5
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:450",
+      "case_name": "Southwest Airlines Co. v. Saxon",
+      "cited_cases": 13,
+      "total_citation_age": 440,
+      "mean_citation_age": 33.84615384615385,
+      "median_citation_age": 21
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:464",
+      "case_name": "Siegel v. Fitzgerald",
+      "cited_cases": 5,
+      "total_citation_age": 309,
+      "mean_citation_age": 61.8,
+      "median_citation_age": 48
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:482",
+      "case_name": "Egbert v. Boule",
+      "cited_cases": 22,
+      "total_citation_age": 536,
+      "mean_citation_age": 24.363636363636363,
+      "median_citation_age": 26.0
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:528",
+      "case_name": "Kemp v. United States",
+      "cited_cases": 8,
+      "total_citation_age": 258,
+      "mean_citation_age": 32.25,
+      "median_citation_age": 18.0
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:543",
+      "case_name": "Garland v. Gonzalez",
+      "cited_cases": 14,
+      "total_citation_age": 385,
+      "mean_citation_age": 27.5,
+      "median_citation_age": 21.0
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:573",
+      "case_name": "Johnson v. Arteaga-Martinez",
+      "cited_cases": 6,
+      "total_citation_age": 137,
+      "mean_citation_age": 22.833333333333332,
+      "median_citation_age": 19.0
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:591",
+      "case_name": "Denezpi v. United States",
+      "cited_cases": 13,
+      "total_citation_age": 1110,
+      "mean_citation_age": 85.38461538461539,
+      "median_citation_age": 63
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:61",
+      "case_name": "City of Austin v. Reagan National Advertising of Austin, LLC",
+      "cited_cases": 14,
+      "total_citation_age": 559,
+      "mean_citation_age": 39.92857142857143,
+      "median_citation_age": 41.0
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:619",
+      "case_name": "ZF Automotive U. S., Inc. v. Luxshare, Ltd.",
+      "cited_cases": 6,
+      "total_citation_age": 97,
+      "mean_citation_age": 16.166666666666668,
+      "median_citation_age": 12.0
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:639",
+      "case_name": "Viking River Cruises, Inc. v. Moriana",
+      "cited_cases": 23,
+      "total_citation_age": 545,
+      "mean_citation_age": 23.695652173913043,
+      "median_citation_age": 14
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:666",
+      "case_name": "Golan v. Saada",
+      "cited_cases": 5,
+      "total_citation_age": 48,
+      "mean_citation_age": 9.6,
+      "median_citation_age": 9
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:685",
+      "case_name": "Ysleta del Sur Pueblo v. Texas",
+      "cited_cases": 13,
+      "total_citation_age": 368,
+      "mean_citation_age": 28.307692307692307,
+      "median_citation_age": 27
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:724",
+      "case_name": "American Hospital Assn. v. Becerra",
+      "cited_cases": 7,
+      "total_citation_age": 76,
+      "mean_citation_age": 10.857142857142858,
+      "median_citation_age": 4
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:740",
+      "case_name": "George v. McDonough",
+      "cited_cases": 16,
+      "total_citation_age": 269,
+      "mean_citation_age": 16.8125,
+      "median_citation_age": 12.0
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:763",
+      "case_name": "Arizona v. City and County of San Francisco",
+      "cited_cases": 0,
+      "total_citation_age": 0,
+      "mean_citation_age": null,
+      "median_citation_age": null
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:767",
+      "case_name": "Carson v. Makin",
+      "cited_cases": 17,
+      "total_citation_age": 502,
+      "mean_citation_age": 29.529411764705884,
+      "median_citation_age": 29
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:811",
+      "case_name": "Shoop v. Twyford",
+      "cited_cases": 15,
+      "total_citation_age": 458,
+      "mean_citation_age": 30.533333333333335,
+      "median_citation_age": 24
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:832",
+      "case_name": "United States v. Washington",
+      "cited_cases": 13,
+      "total_citation_age": 514,
+      "mean_citation_age": 39.53846153846154,
+      "median_citation_age": 34
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:845",
+      "case_name": "United States v. Taylor",
+      "cited_cases": 10,
+      "total_citation_age": 276,
+      "mean_citation_age": 27.6,
+      "median_citation_age": 16.5
+    },
+    {
+      "term": 2021,
+      "case_id": "us:596:880",
+      "case_name": "Marietta Memorial Hospital Employee Health Benefit Plan v. DaVita Inc.",
+      "cited_cases": 0,
+      "total_citation_age": 0,
+      "mean_citation_age": null,
+      "median_citation_age": null
+    },
+    {
+      "term": 2021,
+      "case_id": "us:597:1",
+      "case_name": "New York State Rifle & Pistol Assn., Inc. v. Bruen",
+      "cited_cases": 45,
+      "total_citation_age": 2442,
+      "mean_citation_age": 54.266666666666666,
+      "median_citation_age": 24
+    },
+    {
+      "term": 2021,
+      "case_id": "us:597:134",
+      "case_name": "Vega v. Tekoh",
+      "cited_cases": 39,
+      "total_citation_age": 1486,
+      "mean_citation_age": 38.1025641025641,
+      "median_citation_age": 38
+    },
+    {
+      "term": 2021,
+      "case_id": "us:597:159",
+      "case_name": "Nance v. Ward",
+      "cited_cases": 13,
+      "total_citation_age": 286,
+      "mean_citation_age": 22,
+      "median_citation_age": 17
+    },
+    {
+      "term": 2021,
+      "case_id": "us:597:179",
+      "case_name": "Berger v. North Carolina State Conference of the NAACP",
+      "cited_cases": 18,
+      "total_citation_age": 471,
+      "mean_citation_age": 26.166666666666668,
+      "median_citation_age": 17.0
+    },
+    {
+      "term": 2021,
+      "case_id": "us:597:215",
+      "case_name": "Dobbs v. Jackson Women\u2019s Health Organization",
+      "cited_cases": 134,
+      "total_citation_age": 7101,
+      "mean_citation_age": 52.992537313432834,
+      "median_citation_age": 46.0
+    },
+    {
+      "term": 2021,
+      "case_id": "us:597:424",
+      "case_name": "Becerra v. Empire Health Foundation, For Valley Hospital Medical Center",
+      "cited_cases": 4,
+      "total_citation_age": 64,
+      "mean_citation_age": 16,
+      "median_citation_age": 15.0
+    },
+    {
+      "term": 2021,
+      "case_id": "us:597:450",
+      "case_name": "Xiulu Ruan v. United States",
+      "cited_cases": 19,
+      "total_citation_age": 576,
+      "mean_citation_age": 30.31578947368421,
+      "median_citation_age": 28
+    },
+    {
+      "term": 2021,
+      "case_id": "us:597:481",
+      "case_name": "Concepcion v. United States",
+      "cited_cases": 15,
+      "total_citation_age": 313,
+      "mean_citation_age": 20.866666666666667,
+      "median_citation_age": 15
+    },
+    {
+      "term": 2021,
+      "case_id": "us:597:507",
+      "case_name": "Kennedy v. Bremerton School Dist.",
+      "cited_cases": 39,
+      "total_citation_age": 1192,
+      "mean_citation_age": 30.564102564102566,
+      "median_citation_age": 27
+    },
+    {
+      "term": 2021,
+      "case_id": "us:597:580",
+      "case_name": "Torres v. Texas Department of Public Safety",
+      "cited_cases": 27,
+      "total_citation_age": 1647,
+      "mean_citation_age": 61,
+      "median_citation_age": 46
+    },
+    {
+      "term": 2021,
+      "case_id": "us:597:629",
+      "case_name": "Oklahoma v. Castro-Huerta",
+      "cited_cases": 34,
+      "total_citation_age": 1918,
+      "mean_citation_age": 56.411764705882355,
+      "median_citation_age": 42.0
+    },
+    {
+      "term": 2021,
+      "case_id": "us:597:697",
+      "case_name": "West Virginia v. EPA",
+      "cited_cases": 26,
+      "total_citation_age": 554,
+      "mean_citation_age": 21.307692307692307,
+      "median_citation_age": 19.5
+    },
+    {
+      "term": 2021,
+      "case_id": "us:597:785",
+      "case_name": "Biden v. Texas",
+      "cited_cases": 25,
+      "total_citation_age": 460,
+      "mean_citation_age": 18.4,
+      "median_citation_age": 10
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:1",
+      "case_name": "Arellano v. McDonough",
+      "cited_cases": 10,
+      "total_citation_age": 173,
+      "mean_citation_age": 17.3,
+      "median_citation_age": 18.0
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:142",
+      "case_name": "Luna Perez v. Sturgis Public Schools",
+      "cited_cases": 6,
+      "total_citation_age": 111,
+      "mean_citation_age": 18.5,
+      "median_citation_age": 13.0
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:15",
+      "case_name": "In re Grand Jury",
+      "cited_cases": 0,
+      "total_citation_age": 0,
+      "mean_citation_age": null,
+      "median_citation_age": null
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:152",
+      "case_name": "Wilkins v. United States",
+      "cited_cases": 20,
+      "total_citation_age": 466,
+      "mean_citation_age": 23.3,
+      "median_citation_age": 20.5
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:17",
+      "case_name": "Cruz v. Arizona",
+      "cited_cases": 15,
+      "total_citation_age": 479,
+      "mean_citation_age": 31.933333333333334,
+      "median_citation_age": 22
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:175",
+      "case_name": "Axon Enterprise, Inc. v. FTC",
+      "cited_cases": 13,
+      "total_citation_age": 392,
+      "mean_citation_age": 30.153846153846153,
+      "median_citation_age": 29
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:218",
+      "case_name": "New York v. New Jersey",
+      "cited_cases": 7,
+      "total_citation_age": 330,
+      "mean_citation_age": 47.142857142857146,
+      "median_citation_age": 25
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:230",
+      "case_name": "Reed v. Goertz",
+      "cited_cases": 10,
+      "total_citation_age": 381,
+      "mean_citation_age": 38.1,
+      "median_citation_age": 23.5
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:264",
+      "case_name": "Turkiye Halk Bankasi A.S. v. United States",
+      "cited_cases": 17,
+      "total_citation_age": 621,
+      "mean_citation_age": 36.529411764705884,
+      "median_citation_age": 20
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:288",
+      "case_name": "MOAC Mall Holdings LLC v. Transform Holdco LLC",
+      "cited_cases": 18,
+      "total_citation_age": 206,
+      "mean_citation_age": 11.444444444444445,
+      "median_citation_age": 10.5
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:306",
+      "case_name": "Ciminelli v. United States",
+      "cited_cases": 8,
+      "total_citation_age": 204,
+      "mean_citation_age": 25.5,
+      "median_citation_age": 27.5
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:319",
+      "case_name": "Percoco v. United States",
+      "cited_cases": 3,
+      "total_citation_age": 56,
+      "mean_citation_age": 18.666666666666668,
+      "median_citation_age": 13
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:339",
+      "case_name": "Financial Oversight and Management Bd. for P. R. v. Centro De Periodismo Investigativo, Inc.",
+      "cited_cases": 16,
+      "total_citation_age": 392,
+      "mean_citation_age": 24.5,
+      "median_citation_age": 19.0
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:39",
+      "case_name": "Helix Energy Solutions Group, Inc. v. Hewitt",
+      "cited_cases": 7,
+      "total_citation_age": 248,
+      "mean_citation_age": 35.42857142857143,
+      "median_citation_age": 27
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:411",
+      "case_name": "Santos-Zacaria v. Garland",
+      "cited_cases": 24,
+      "total_citation_age": 274,
+      "mean_citation_age": 11.416666666666666,
+      "median_citation_age": 11.5
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:432",
+      "case_name": "Polselli v. IRS",
+      "cited_cases": 12,
+      "total_citation_age": 289,
+      "mean_citation_age": 24.083333333333332,
+      "median_citation_age": 19.0
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:449",
+      "case_name": "Ohio Adjutant General\u2019s Dept. v. FLRA",
+      "cited_cases": 4,
+      "total_citation_age": 46,
+      "mean_citation_age": 11.5,
+      "median_citation_age": 2.5
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:471",
+      "case_name": "Twitter, Inc. v. Taamneh",
+      "cited_cases": 9,
+      "total_citation_age": 353,
+      "mean_citation_age": 39.22222222222222,
+      "median_citation_age": 29
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:508",
+      "case_name": "Andy Warhol Foundation for Visual Arts, Inc. v. Goldsmith",
+      "cited_cases": 7,
+      "total_citation_age": 309,
+      "mean_citation_age": 44.142857142857146,
+      "median_citation_age": 38
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:594",
+      "case_name": "Amgen Inc. v. Sanofi",
+      "cited_cases": 17,
+      "total_citation_age": 1915,
+      "mean_citation_age": 112.6470588235294,
+      "median_citation_age": 115
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:617",
+      "case_name": "Gonzalez v. Google LLC",
+      "cited_cases": 1,
+      "total_citation_age": 0,
+      "mean_citation_age": 0,
+      "median_citation_age": 0
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:631",
+      "case_name": "Tyler v. Hennepin County",
+      "cited_cases": 19,
+      "total_citation_age": 1216,
+      "mean_citation_age": 64,
+      "median_citation_age": 43
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:651",
+      "case_name": "Sackett v. EPA",
+      "cited_cases": 32,
+      "total_citation_age": 1090,
+      "mean_citation_age": 34.0625,
+      "median_citation_age": 19.0
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:69",
+      "case_name": "Bartenwerfer v. Buckley",
+      "cited_cases": 19,
+      "total_citation_age": 705,
+      "mean_citation_age": 37.10526315789474,
+      "median_citation_age": 16
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:729",
+      "case_name": "Dupree v. Younger",
+      "cited_cases": 10,
+      "total_citation_age": 326,
+      "mean_citation_age": 32.6,
+      "median_citation_age": 34.5
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:739",
+      "case_name": "United States ex rel. Schutte v. Supervalu Inc.",
+      "cited_cases": 7,
+      "total_citation_age": 87,
+      "mean_citation_age": 12.428571428571429,
+      "median_citation_age": 12
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:759",
+      "case_name": "Slack Technologies, LLC v. Pirani",
+      "cited_cases": 4,
+      "total_citation_age": 122,
+      "mean_citation_age": 30.5,
+      "median_citation_age": 34.0
+    },
+    {
+      "term": 2022,
+      "case_id": "us:598:771",
+      "case_name": "Glacier Northwest, Inc. v. Teamsters",
+      "cited_cases": 6,
+      "total_citation_age": 261,
+      "mean_citation_age": 43.5,
+      "median_citation_age": 41.0
+    },
+    {
+      "term": 2022,
+      "case_id": "us:599:110",
+      "case_name": "Dubin v. United States",
+      "cited_cases": 22,
+      "total_citation_age": 517,
+      "mean_citation_age": 23.5,
+      "median_citation_age": 16.0
+    },
+    {
+      "term": 2022,
+      "case_id": "us:599:140",
+      "case_name": "Jack Daniel\u2019s Properties, Inc. v. VIP Products LLC",
+      "cited_cases": 8,
+      "total_citation_age": 273,
+      "mean_citation_age": 34.125,
+      "median_citation_age": 25.5
+    },
+    {
+      "term": 2022,
+      "case_id": "us:599:166",
+      "case_name": "Health and Hospital Corporation of Marion Cty. v. Talevski",
+      "cited_cases": 35,
+      "total_citation_age": 1379,
+      "mean_citation_age": 39.4,
+      "median_citation_age": 31
+    },
+    {
+      "term": 2022,
+      "case_id": "us:599:236",
+      "case_name": "Smith v. United States",
+      "cited_cases": 34,
+      "total_citation_age": 1834,
+      "mean_citation_age": 53.94117647058823,
+      "median_citation_age": 45.5
+    },
+    {
+      "term": 2022,
+      "case_id": "us:599:255",
+      "case_name": "Haaland v. Brackeen",
+      "cited_cases": 62,
+      "total_citation_age": 3153,
+      "mean_citation_age": 50.854838709677416,
+      "median_citation_age": 41.5
+    },
+    {
+      "term": 2022,
+      "case_id": "us:599:382",
+      "case_name": "Lac du Flambeau Band of Lake Superior Chippewa Indians v. Coughlin",
+      "cited_cases": 13,
+      "total_citation_age": 281,
+      "mean_citation_age": 21.615384615384617,
+      "median_citation_age": 11
+    },
+    {
+      "term": 2022,
+      "case_id": "us:599:419",
+      "case_name": "United States ex rel. Polansky v. Executive Health Resources, Inc.",
+      "cited_cases": 9,
+      "total_citation_age": 507,
+      "mean_citation_age": 56.333333333333336,
+      "median_citation_age": 38
+    },
+    {
+      "term": 2022,
+      "case_id": "us:599:453",
+      "case_name": "Lora v. United States",
+      "cited_cases": 0,
+      "total_citation_age": 0,
+      "mean_citation_age": null,
+      "median_citation_age": null
+    },
+    {
+      "term": 2022,
+      "case_id": "us:599:465",
+      "case_name": "Jones v. Hendrix",
+      "cited_cases": 52,
+      "total_citation_age": 3790,
+      "mean_citation_age": 72.88461538461539,
+      "median_citation_age": 45.0
+    },
+    {
+      "term": 2022,
+      "case_id": "us:599:533",
+      "case_name": "Yegiazaryan v. Smagin",
+      "cited_cases": 10,
+      "total_citation_age": 206,
+      "mean_citation_age": 20.6,
+      "median_citation_age": 20.0
+    },
+    {
+      "term": 2022,
+      "case_id": "us:599:555",
+      "case_name": "Arizona v. Navajo Nation",
+      "cited_cases": 15,
+      "total_citation_age": 661,
+      "mean_citation_age": 44.06666666666667,
+      "median_citation_age": 43
+    },
+    {
+      "term": 2022,
+      "case_id": "us:599:600",
+      "case_name": "Pugin v. Garland",
+      "cited_cases": 16,
+      "total_citation_age": 270,
+      "mean_citation_age": 16.875,
+      "median_citation_age": 7.5
+    },
+    {
+      "term": 2022,
+      "case_id": "us:599:635",
+      "case_name": "Samia v. United States",
+      "cited_cases": 17,
+      "total_citation_age": 1100,
+      "mean_citation_age": 64.70588235294117,
+      "median_citation_age": 52
+    },
+    {
+      "term": 2022,
+      "case_id": "us:599:670",
+      "case_name": "United States v. Texas",
+      "cited_cases": 39,
+      "total_citation_age": 1060,
+      "mean_citation_age": 27.17948717948718,
+      "median_citation_age": 26
+    },
+    {
+      "term": 2022,
+      "case_id": "us:599:736",
+      "case_name": "Coinbase, Inc. v. Bielski",
+      "cited_cases": 9,
+      "total_citation_age": 348,
+      "mean_citation_age": 38.666666666666664,
+      "median_citation_age": 38
+    },
+    {
+      "term": 2022,
+      "case_id": "us:599:762",
+      "case_name": "United States v. Hansen",
+      "cited_cases": 31,
+      "total_citation_age": 1035,
+      "mean_citation_age": 33.38709677419355,
+      "median_citation_age": 25
+    },
+    {
+      "term": 2022,
+      "case_id": "us:600:1",
+      "case_name": "Moore v. Harper",
+      "cited_cases": 35,
+      "total_citation_age": 1876,
+      "mean_citation_age": 53.6,
+      "median_citation_age": 42
+    },
+    {
+      "term": 2022,
+      "case_id": "us:600:181",
+      "case_name": "Students for Fair Admissions, Inc. v. President and Fellows of Harvard College",
+      "cited_cases": 50,
+      "total_citation_age": 2684,
+      "mean_citation_age": 53.68,
+      "median_citation_age": 47.0
+    },
+    {
+      "term": 2022,
+      "case_id": "us:600:412",
+      "case_name": "Abitron Austria GmbH v. Hetronic Int\u2019l, Inc.",
+      "cited_cases": 13,
+      "total_citation_age": 375,
+      "mean_citation_age": 28.846153846153847,
+      "median_citation_age": 13
+    },
+    {
+      "term": 2022,
+      "case_id": "us:600:447",
+      "case_name": "Groff v. DeJoy",
+      "cited_cases": 11,
+      "total_citation_age": 261,
+      "mean_citation_age": 23.727272727272727,
+      "median_citation_age": 8
+    },
+    {
+      "term": 2022,
+      "case_id": "us:600:477",
+      "case_name": "Biden v. Nebraska",
+      "cited_cases": 17,
+      "total_citation_age": 342,
+      "mean_citation_age": 20.11764705882353,
+      "median_citation_age": 17
+    },
+    {
+      "term": 2022,
+      "case_id": "us:600:551",
+      "case_name": "Department of Education v. Brown",
+      "cited_cases": 12,
+      "total_citation_age": 261,
+      "mean_citation_age": 21.75,
+      "median_citation_age": 20.0
+    },
+    {
+      "term": 2022,
+      "case_id": "us:600:570",
+      "case_name": "303 Creative LLC v. Elenis",
+      "cited_cases": 34,
+      "total_citation_age": 1424,
+      "mean_citation_age": 41.88235294117647,
+      "median_citation_age": 37.0
+    },
+    {
+      "term": 2022,
+      "case_id": "us:600:66",
+      "case_name": "Counterman v. Colorado",
+      "cited_cases": 25,
+      "total_citation_age": 1172,
+      "mean_citation_age": 46.88,
+      "median_citation_age": 49
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:1",
+      "case_name": "Acheson Hotels, LLC v. Laufer",
+      "cited_cases": 5,
+      "total_citation_age": 225,
+      "mean_citation_age": 45,
+      "median_citation_age": 44
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:100",
+      "case_name": "Trump v. Anderson",
+      "cited_cases": 18,
+      "total_citation_age": 1234,
+      "mean_citation_age": 68.55555555555556,
+      "median_citation_age": 35.0
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:124",
+      "case_name": "Pulsifer v. United States",
+      "cited_cases": 7,
+      "total_citation_age": 56,
+      "mean_citation_age": 8,
+      "median_citation_age": 6
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:187",
+      "case_name": "Lindke v. Freed",
+      "cited_cases": 23,
+      "total_citation_age": 1083,
+      "mean_citation_age": 47.08695652173913,
+      "median_citation_age": 46
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:205",
+      "case_name": "O\u2019Connor-Ratcliff v. Garnier",
+      "cited_cases": 1,
+      "total_citation_age": 0,
+      "mean_citation_age": 0,
+      "median_citation_age": 0
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:209",
+      "case_name": "Wilkinson v. Garland",
+      "cited_cases": 7,
+      "total_citation_age": 201,
+      "mean_citation_age": 28.714285714285715,
+      "median_citation_age": 23
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:23",
+      "case_name": "Murray v. UBS Securities, LLC",
+      "cited_cases": 10,
+      "total_citation_age": 215,
+      "mean_citation_age": 21.5,
+      "median_citation_age": 22.5
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:234",
+      "case_name": "FBI v. Fikre",
+      "cited_cases": 13,
+      "total_citation_age": 560,
+      "mean_citation_age": 43.07692307692308,
+      "median_citation_age": 26
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:246",
+      "case_name": "Bissonnette v. LePage Bakeries Park St., LLC",
+      "cited_cases": 5,
+      "total_citation_age": 75,
+      "mean_citation_age": 15,
+      "median_citation_age": 16
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:257",
+      "case_name": "Macquarie Infrastructure Corp. v. Moab Partners, L. P.",
+      "cited_cases": 8,
+      "total_citation_age": 223,
+      "mean_citation_age": 27.875,
+      "median_citation_age": 26.0
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:267",
+      "case_name": "Sheetz v. El Dorado County",
+      "cited_cases": 19,
+      "total_citation_age": 792,
+      "mean_citation_age": 41.68421052631579,
+      "median_citation_age": 37
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:285",
+      "case_name": "DeVillier v. Texas",
+      "cited_cases": 11,
+      "total_citation_age": 647,
+      "mean_citation_age": 58.81818181818182,
+      "median_citation_age": 37
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:294",
+      "case_name": "Rudisill v. McDonough",
+      "cited_cases": 2,
+      "total_citation_age": 11,
+      "mean_citation_age": 5.5,
+      "median_citation_age": 5.5
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:330",
+      "case_name": "McIntosh v. United States",
+      "cited_cases": 14,
+      "total_citation_age": 390,
+      "mean_citation_age": 27.857142857142858,
+      "median_citation_age": 16.5
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:346",
+      "case_name": "Muldrow v. City of St. Louis",
+      "cited_cases": 5,
+      "total_citation_age": 95,
+      "mean_citation_age": 19,
+      "median_citation_age": 18
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:366",
+      "case_name": "Warner Chappell Music, Inc. v. Nealy",
+      "cited_cases": 3,
+      "total_citation_age": 61,
+      "mean_citation_age": 20.333333333333332,
+      "median_citation_age": 19
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:377",
+      "case_name": "Culley v. Marshall",
+      "cited_cases": 12,
+      "total_citation_age": 481,
+      "mean_citation_age": 40.083333333333336,
+      "median_citation_age": 39.5
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:416",
+      "case_name": "Consumer Financial Protection Bureau v. Community Financial Services Assn. of America, Ltd.",
+      "cited_cases": 6,
+      "total_citation_age": 338,
+      "mean_citation_age": 56.333333333333336,
+      "median_citation_age": 36.0
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:42",
+      "case_name": "Department of Agriculture Rural Development Rural Housing Service v. Kirtz",
+      "cited_cases": 33,
+      "total_citation_age": 741,
+      "mean_citation_age": 22.454545454545453,
+      "median_citation_age": 24
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:472",
+      "case_name": "Smith v. Spizzirri",
+      "cited_cases": 9,
+      "total_citation_age": 187,
+      "mean_citation_age": 20.77777777777778,
+      "median_citation_age": 24
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:480",
+      "case_name": "Harrow v. Department of Defense",
+      "cited_cases": 13,
+      "total_citation_age": 155,
+      "mean_citation_age": 11.923076923076923,
+      "median_citation_age": 10
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:65",
+      "case_name": "Great Lakes Ins. SE v. Raiders Retreat Realty Co.",
+      "cited_cases": 18,
+      "total_citation_age": 1058,
+      "mean_citation_age": 58.77777777777778,
+      "median_citation_age": 45.0
+    },
+    {
+      "term": 2023,
+      "case_id": "us:601:87",
+      "case_name": "McElrath v. Georgia",
+      "cited_cases": 13,
+      "total_citation_age": 575,
+      "mean_citation_age": 44.23076923076923,
+      "median_citation_age": 43
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:1",
+      "case_name": "Alexander v. South Carolina State Conference of the NAACP",
+      "cited_cases": 16,
+      "total_citation_age": 412,
+      "mean_citation_age": 25.75,
+      "median_citation_age": 26.5
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:101",
+      "case_name": "Brown v. United States",
+      "cited_cases": 18,
+      "total_citation_age": 445,
+      "mean_citation_age": 24.72222222222222,
+      "median_citation_age": 12.5
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:143",
+      "case_name": "Coinbase v. Suski",
+      "cited_cases": 8,
+      "total_citation_age": 180,
+      "mean_citation_age": 22.5,
+      "median_citation_age": 16.0
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:154",
+      "case_name": "Thornell v. Jones",
+      "cited_cases": 8,
+      "total_citation_age": 189,
+      "mean_citation_age": 23.625,
+      "median_citation_age": 20.0
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:175",
+      "case_name": "National Rifle Association of America v. Vullo",
+      "cited_cases": 9,
+      "total_citation_age": 259,
+      "mean_citation_age": 28.77777777777778,
+      "median_citation_age": 17
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:205",
+      "case_name": "Cantero v. Bank of America, N. A.",
+      "cited_cases": 8,
+      "total_citation_age": 809,
+      "mean_citation_age": 101.125,
+      "median_citation_age": 90.5
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:222",
+      "case_name": "Becerra v. San Carlos Apache Tribe",
+      "cited_cases": 0,
+      "total_citation_age": 0,
+      "mean_citation_age": null,
+      "median_citation_age": null
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:257",
+      "case_name": "Connelly v. United States",
+      "cited_cases": 0,
+      "total_citation_age": 0,
+      "mean_citation_age": null,
+      "median_citation_age": null
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:268",
+      "case_name": "Truck Insurance Exchange v. Kaiser Gypsum Co.",
+      "cited_cases": 9,
+      "total_citation_age": 372,
+      "mean_citation_age": 41.333333333333336,
+      "median_citation_age": 25
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:339",
+      "case_name": "Starbucks Corp. v. McKinney",
+      "cited_cases": 10,
+      "total_citation_age": 371,
+      "mean_citation_age": 37.1,
+      "median_citation_age": 36.5
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:367",
+      "case_name": "FDA v. Alliance for Hippocratic Medicine",
+      "cited_cases": 30,
+      "total_citation_age": 1103,
+      "mean_citation_age": 36.766666666666666,
+      "median_citation_age": 29.5
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:406",
+      "case_name": "Garland v. Cargill",
+      "cited_cases": 3,
+      "total_citation_age": 217,
+      "mean_citation_age": 72.33333333333333,
+      "median_citation_age": 10
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:447",
+      "case_name": "Campos-Chaves v. Garland",
+      "cited_cases": 11,
+      "total_citation_age": 183,
+      "mean_citation_age": 16.636363636363637,
+      "median_citation_age": 6
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:487",
+      "case_name": "United States Trustee v. John Q. Hammons Fall 2006, LLC",
+      "cited_cases": 14,
+      "total_citation_age": 310,
+      "mean_citation_age": 22.142857142857142,
+      "median_citation_age": 22.0
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:526",
+      "case_name": "Diaz v. United States",
+      "cited_cases": 4,
+      "total_citation_age": 191,
+      "mean_citation_age": 47.75,
+      "median_citation_age": 44.5
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:556",
+      "case_name": "Chiaverini v. City of Napoleon",
+      "cited_cases": 3,
+      "total_citation_age": 30,
+      "mean_citation_age": 10,
+      "median_citation_age": 9
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:572",
+      "case_name": "Moore v. United States",
+      "cited_cases": 27,
+      "total_citation_age": 2037,
+      "mean_citation_age": 75.44444444444444,
+      "median_citation_age": 86
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:653",
+      "case_name": "Gonzalez v. Trevino",
+      "cited_cases": 1,
+      "total_citation_age": 5,
+      "mean_citation_age": 5,
+      "median_citation_age": 5
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:680",
+      "case_name": "United States v. Rahimi",
+      "cited_cases": 5,
+      "total_citation_age": 70,
+      "mean_citation_age": 14,
+      "median_citation_age": 14
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:779",
+      "case_name": "Smith v. Arizona",
+      "cited_cases": 10,
+      "total_citation_age": 243,
+      "mean_citation_age": 24.3,
+      "median_citation_age": 18.5
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:821",
+      "case_name": "Erlinger v. United States",
+      "cited_cases": 33,
+      "total_citation_age": 1036,
+      "mean_citation_age": 31.393939393939394,
+      "median_citation_age": 26
+    },
+    {
+      "term": 2023,
+      "case_id": "us:602:899",
+      "case_name": "Department of State v. Munoz",
+      "cited_cases": 15,
+      "total_citation_age": 809,
+      "mean_citation_age": 53.93333333333333,
+      "median_citation_age": 47
+    },
+    {
+      "term": 2023,
+      "case_id": "us:603:1",
+      "case_name": "Snyder v. United States",
+      "cited_cases": 8,
+      "total_citation_age": 133,
+      "mean_citation_age": 16.625,
+      "median_citation_age": 11.0
+    },
+    {
+      "term": 2023,
+      "case_id": "us:603:109",
+      "case_name": "SEC v. Jarkesy",
+      "cited_cases": 37,
+      "total_citation_age": 2217,
+      "mean_citation_age": 59.91891891891892,
+      "median_citation_age": 44
+    },
+    {
+      "term": 2023,
+      "case_id": "us:603:204",
+      "case_name": "Harrington v. Purdue Pharma L.P.",
+      "cited_cases": 16,
+      "total_citation_age": 575,
+      "mean_citation_age": 35.9375,
+      "median_citation_age": 15.5
+    },
+    {
+      "term": 2023,
+      "case_id": "us:603:279",
+      "case_name": "Ohio v. Environmental Protection Agency",
+      "cited_cases": 12,
+      "total_citation_age": 277,
+      "mean_citation_age": 23.083333333333332,
+      "median_citation_age": 13.5
+    },
+    {
+      "term": 2023,
+      "case_id": "us:603:324",
+      "case_name": "Moyle v. United States",
+      "cited_cases": 0,
+      "total_citation_age": 0,
+      "mean_citation_age": null,
+      "median_citation_age": null
+    },
+    {
+      "term": 2023,
+      "case_id": "us:603:369",
+      "case_name": "Loper Bright Enterprises v. Raimondo",
+      "cited_cases": 70,
+      "total_citation_age": 3788,
+      "mean_citation_age": 54.114285714285714,
+      "median_citation_age": 27.5
+    },
+    {
+      "term": 2023,
+      "case_id": "us:603:43",
+      "case_name": "Murthy v. Missouri",
+      "cited_cases": 23,
+      "total_citation_age": 479,
+      "mean_citation_age": 20.82608695652174,
+      "median_citation_age": 16
+    },
+    {
+      "term": 2023,
+      "case_id": "us:603:480",
+      "case_name": "Fischer v. United States",
+      "cited_cases": 23,
+      "total_citation_age": 604,
+      "mean_citation_age": 26.26086956521739,
+      "median_citation_age": 16
+    },
+    {
+      "term": 2023,
+      "case_id": "us:603:520",
+      "case_name": "City of Grants Pass v. Johnson",
+      "cited_cases": 13,
+      "total_citation_age": 708,
+      "mean_citation_age": 54.46153846153846,
+      "median_citation_age": 47
+    },
+    {
+      "term": 2023,
+      "case_id": "us:603:593",
+      "case_name": "Trump v. United States",
+      "cited_cases": 39,
+      "total_citation_age": 1954,
+      "mean_citation_age": 50.1025641025641,
+      "median_citation_age": 39
+    },
+    {
+      "term": 2023,
+      "case_id": "us:603:707",
+      "case_name": "Moody v. NetChoice, LLC",
+      "cited_cases": 20,
+      "total_citation_age": 562,
+      "mean_citation_age": 28.1,
+      "median_citation_age": 27.5
+    },
+    {
+      "term": 2023,
+      "case_id": "us:603:799",
+      "case_name": "Corner Post, Inc. v. Board of Governors",
+      "cited_cases": 25,
+      "total_citation_age": 695,
+      "mean_citation_age": 27.8,
+      "median_citation_age": 19
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:115",
+      "case_name": "Hungary v. Simon",
+      "cited_cases": 12,
+      "total_citation_age": 290,
+      "mean_citation_age": 24.166666666666668,
+      "median_citation_age": 12.5
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:140",
+      "case_name": "Wisconsin Bell, Inc. v. United States ex rel. Heath",
+      "cited_cases": 3,
+      "total_citation_age": 16,
+      "mean_citation_age": 5.333333333333333,
+      "median_citation_age": 5
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:168",
+      "case_name": "Williams v. Reed",
+      "cited_cases": 5,
+      "total_citation_age": 133,
+      "mean_citation_age": 26.6,
+      "median_citation_age": 35
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:192",
+      "case_name": "Lackey v. Stinnie",
+      "cited_cases": 21,
+      "total_citation_age": 797,
+      "mean_citation_age": 37.95238095238095,
+      "median_citation_age": 33
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:20",
+      "case_name": "NVIDIA v. E. Ohman J:or Fonder AB",
+      "cited_cases": 0,
+      "total_citation_age": 0,
+      "mean_citation_age": null,
+      "median_citation_age": null
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:22",
+      "case_name": "Royal Canin U. S. A. v. Wullschleger",
+      "cited_cases": 22,
+      "total_citation_age": 919,
+      "mean_citation_age": 41.77272727272727,
+      "median_citation_age": 32.5
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:226",
+      "case_name": "Glossip v. Oklahoma",
+      "cited_cases": 18,
+      "total_citation_age": 677,
+      "mean_citation_age": 37.611111111111114,
+      "median_citation_age": 40.0
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:305",
+      "case_name": "Waetzig v. Halliburton Energy Services, Inc.",
+      "cited_cases": 15,
+      "total_citation_age": 606,
+      "mean_citation_age": 40.4,
+      "median_citation_age": 23
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:321",
+      "case_name": "Dewberry Group, Inc. v. Dewberry Engineers Inc.",
+      "cited_cases": 3,
+      "total_citation_age": 54,
+      "mean_citation_age": 18,
+      "median_citation_age": 22
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:334",
+      "case_name": "City and County of San Francisco v. EPA",
+      "cited_cases": 14,
+      "total_citation_age": 192,
+      "mean_citation_age": 13.714285714285714,
+      "median_citation_age": 8.0
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:369",
+      "case_name": "Bufkin v. Collins",
+      "cited_cases": 17,
+      "total_citation_age": 300,
+      "mean_citation_age": 17.647058823529413,
+      "median_citation_age": 14
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:4",
+      "case_name": "Facebook, Inc. v. Amalgamated Bank",
+      "cited_cases": 0,
+      "total_citation_age": 0,
+      "mean_citation_age": null,
+      "median_citation_age": null
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:408",
+      "case_name": "Thompson v. United States",
+      "cited_cases": 12,
+      "total_citation_age": 396,
+      "mean_citation_age": 33,
+      "median_citation_age": 29.0
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:423",
+      "case_name": "Delligatti v. United States",
+      "cited_cases": 12,
+      "total_citation_age": 162,
+      "mean_citation_age": 13.5,
+      "median_citation_age": 11.0
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:45",
+      "case_name": "E.M.D. Sales, Inc. v. Carrera",
+      "cited_cases": 18,
+      "total_citation_age": 936,
+      "mean_citation_age": 52,
+      "median_citation_age": 44.5
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:458",
+      "case_name": "Bondi v. Vanderstok",
+      "cited_cases": 11,
+      "total_citation_age": 278,
+      "mean_citation_age": 25.272727272727273,
+      "median_citation_age": 6
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:518",
+      "case_name": "United States v. Miller",
+      "cited_cases": 16,
+      "total_citation_age": 434,
+      "mean_citation_age": 27.125,
+      "median_citation_age": 32.0
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:542",
+      "case_name": "FDA v. Wages and White Lion Investments, LLC",
+      "cited_cases": 23,
+      "total_citation_age": 680,
+      "mean_citation_age": 29.565217391304348,
+      "median_citation_age": 20
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:56",
+      "case_name": "TikTok Inc. v. Garland",
+      "cited_cases": 23,
+      "total_citation_age": 697,
+      "mean_citation_age": 30.304347826086957,
+      "median_citation_age": 31
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:593",
+      "case_name": "Medical Marijuana, Inc. v. Horn",
+      "cited_cases": 24,
+      "total_citation_age": 757,
+      "mean_citation_age": 31.541666666666668,
+      "median_citation_age": 30.5
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:6",
+      "case_name": "Bouarfa v. Mayorkas",
+      "cited_cases": 8,
+      "total_citation_age": 116,
+      "mean_citation_age": 14.5,
+      "median_citation_age": 9.0
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:693",
+      "case_name": "Cunningham v. Cornell Univ.",
+      "cited_cases": 25,
+      "total_citation_age": 1060,
+      "mean_citation_age": 42.4,
+      "median_citation_age": 20
+    },
+    {
+      "term": 2024,
+      "case_id": "us:604:712",
+      "case_name": "Monsalvo Velazquez v. Bondi",
+      "cited_cases": 8,
+      "total_citation_age": 172,
+      "mean_citation_age": 21.5,
+      "median_citation_age": 17.5
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:1",
+      "case_name": "Advocate Christ Medical Center v. Kennedy",
+      "cited_cases": 11,
+      "total_citation_age": 204,
+      "mean_citation_age": 18.545454545454547,
+      "median_citation_age": 12
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:114",
+      "case_name": "Kousisis v. United States",
+      "cited_cases": 20,
+      "total_citation_age": 937,
+      "mean_citation_age": 46.85,
+      "median_citation_age": 20.0
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:168",
+      "case_name": "Seven County Infrastructure Coalition v. Eagle County",
+      "cited_cases": 12,
+      "total_citation_age": 415,
+      "mean_citation_age": 34.583333333333336,
+      "median_citation_age": 42.0
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:204",
+      "case_name": "BLOM Bank SAL v. Honickman",
+      "cited_cases": 18,
+      "total_citation_age": 479,
+      "mean_citation_age": 26.61111111111111,
+      "median_citation_age": 22.0
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:223",
+      "case_name": "CC/Devas (Mauritius) Ltd. v. Antrix Corp.",
+      "cited_cases": 18,
+      "total_citation_age": 420,
+      "mean_citation_age": 23.333333333333332,
+      "median_citation_age": 17.5
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:238",
+      "case_name": "Catholic Charities Bureau, Inc. v. Wisconsin Labor and Industry Review Comm\u2019n.",
+      "cited_cases": 9,
+      "total_citation_age": 550,
+      "mean_citation_age": 61.111111111111114,
+      "median_citation_age": 57
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:280",
+      "case_name": "Smith & Wesson Brands, Inc. v. Estados Unidos Mexicanos",
+      "cited_cases": 7,
+      "total_citation_age": 283,
+      "mean_citation_age": 40.42857142857143,
+      "median_citation_age": 16
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:303",
+      "case_name": "Ames v. Ohio Department of Youth Services",
+      "cited_cases": 9,
+      "total_citation_age": 364,
+      "mean_citation_age": 40.44444444444444,
+      "median_citation_age": 47
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:327",
+      "case_name": "Laboratory Corp. of America Holdings v. Davis",
+      "cited_cases": 0,
+      "total_citation_age": 0,
+      "mean_citation_age": null,
+      "median_citation_age": null
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:335",
+      "case_name": "A. J. T. v. Osseo Area Schools, Independent School Dist. No. 279",
+      "cited_cases": 10,
+      "total_citation_age": 189,
+      "mean_citation_age": 18.9,
+      "median_citation_age": 16.5
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:360",
+      "case_name": "Soto v. United States",
+      "cited_cases": 6,
+      "total_citation_age": 151,
+      "mean_citation_age": 25.166666666666668,
+      "median_citation_age": 10.5
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:376",
+      "case_name": "Parrish v. United States",
+      "cited_cases": 16,
+      "total_citation_age": 681,
+      "mean_citation_age": 42.5625,
+      "median_citation_age": 29.0
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:38",
+      "case_name": "Feliciano v. Department Of Transportation",
+      "cited_cases": 10,
+      "total_citation_age": 68,
+      "mean_citation_age": 6.8,
+      "median_citation_age": 6.5
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:395",
+      "case_name": "Martin v. United States",
+      "cited_cases": 19,
+      "total_citation_age": 944,
+      "mean_citation_age": 49.68421052631579,
+      "median_citation_age": 20
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:422",
+      "case_name": "Commissioner v. Zuch",
+      "cited_cases": 1,
+      "total_citation_age": 38,
+      "mean_citation_age": 38,
+      "median_citation_age": 38
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:443",
+      "case_name": "Rivers v. Guerrero",
+      "cited_cases": 13,
+      "total_citation_age": 201,
+      "mean_citation_age": 15.461538461538462,
+      "median_citation_age": 20
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:460",
+      "case_name": "Perttu v. Richards",
+      "cited_cases": 23,
+      "total_citation_age": 1238,
+      "mean_citation_age": 53.82608695652174,
+      "median_citation_age": 46
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:495",
+      "case_name": "United States v. Skrmetti",
+      "cited_cases": 20,
+      "total_citation_age": 782,
+      "mean_citation_age": 39.1,
+      "median_citation_age": 36.0
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:609",
+      "case_name": "Oklahoma v. EPA",
+      "cited_cases": 3,
+      "total_citation_age": 4,
+      "mean_citation_age": 1.3333333333333333,
+      "median_citation_age": 1
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:627",
+      "case_name": "EPA v. Calumet Shreveport Refining, L.L.C.",
+      "cited_cases": 18,
+      "total_citation_age": 451,
+      "mean_citation_age": 25.055555555555557,
+      "median_citation_age": 16.0
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:665",
+      "case_name": "NRC v. Texas",
+      "cited_cases": 9,
+      "total_citation_age": 481,
+      "mean_citation_age": 53.44444444444444,
+      "median_citation_age": 42
+    },
+    {
+      "term": 2024,
+      "case_id": "us:605:73",
+      "case_name": "Barnes v. Felix",
+      "cited_cases": 7,
+      "total_citation_age": 142,
+      "mean_citation_age": 20.285714285714285,
+      "median_citation_age": 18
+    },
+    {
+      "term": 2024,
+      "case_id": "us:606:1",
+      "case_name": "Fuld v. Palestine Liberation Organization",
+      "cited_cases": 27,
+      "total_citation_age": 1213,
+      "mean_citation_age": 44.925925925925924,
+      "median_citation_age": 38
+    },
+    {
+      "term": 2024,
+      "case_id": "us:606:100",
+      "case_name": "Diamond Alternative Energy, LLC v. EPA",
+      "cited_cases": 15,
+      "total_citation_age": 358,
+      "mean_citation_age": 23.866666666666667,
+      "median_citation_age": 5
+    },
+    {
+      "term": 2024,
+      "case_id": "us:606:146",
+      "case_name": "McLaughlin Chiropractic Associates, Inc. v. McKesson Corp.",
+      "cited_cases": 20,
+      "total_citation_age": 624,
+      "mean_citation_age": 31.2,
+      "median_citation_age": 13.0
+    },
+    {
+      "term": 2024,
+      "case_id": "us:606:185",
+      "case_name": "Esteras v. United States",
+      "cited_cases": 13,
+      "total_citation_age": 204,
+      "mean_citation_age": 15.692307692307692,
+      "median_citation_age": 14
+    },
+    {
+      "term": 2024,
+      "case_id": "us:606:226",
+      "case_name": "FDA v. R. J. Reynolds Vapor Co.",
+      "cited_cases": 17,
+      "total_citation_age": 633,
+      "mean_citation_age": 37.23529411764706,
+      "median_citation_age": 28
+    },
+    {
+      "term": 2024,
+      "case_id": "us:606:259",
+      "case_name": "Riley v. Bondi",
+      "cited_cases": 19,
+      "total_citation_age": 528,
+      "mean_citation_age": 27.789473684210527,
+      "median_citation_age": 14
+    },
+    {
+      "term": 2024,
+      "case_id": "us:606:305",
+      "case_name": "Gutierrez v. Saenz",
+      "cited_cases": 10,
+      "total_citation_age": 189,
+      "mean_citation_age": 18.9,
+      "median_citation_age": 15.0
+    },
+    {
+      "term": 2024,
+      "case_id": "us:606:357",
+      "case_name": "Medina v. Planned Parenthood South Atlantic",
+      "cited_cases": 38,
+      "total_citation_age": 2007,
+      "mean_citation_age": 52.81578947368421,
+      "median_citation_age": 33.5
+    },
+    {
+      "term": 2024,
+      "case_id": "us:606:461",
+      "case_name": "Free Speech Coalition, Inc. v. Paxton",
+      "cited_cases": 40,
+      "total_citation_age": 1236,
+      "mean_citation_age": 30.9,
+      "median_citation_age": 25.0
+    },
+    {
+      "term": 2024,
+      "case_id": "us:606:522",
+      "case_name": "Mahmoud v. Taylor",
+      "cited_cases": 25,
+      "total_citation_age": 833,
+      "mean_citation_age": 33.32,
+      "median_citation_age": 33
+    },
+    {
+      "term": 2024,
+      "case_id": "us:606:656",
+      "case_name": "FCC v. Consumers\u2019 Research",
+      "cited_cases": 26,
+      "total_citation_age": 1577,
+      "mean_citation_age": 60.65384615384615,
+      "median_citation_age": 65.0
+    },
+    {
+      "term": 2024,
+      "case_id": "us:606:748",
+      "case_name": "Kennedy v. Braidwood Management, Inc.",
+      "cited_cases": 17,
+      "total_citation_age": 936,
+      "mean_citation_age": 55.05882352941177,
+      "median_citation_age": 34
+    },
+    {
+      "term": 2024,
+      "case_id": "us:606:831",
+      "case_name": "Trump v. CASA, Inc.",
+      "cited_cases": 43,
+      "total_citation_age": 3467,
+      "mean_citation_age": 80.62790697674419,
+      "median_citation_age": 78
+    }
+  ],
+  "consecutive_term_overlap": [
+    {
+      "earlier_term": 2020,
+      "later_term": 2021,
+      "shared_precedents": 132,
+      "union_precedents": 1329,
+      "jaccard_share": 0.09932279909706546
+    },
+    {
+      "earlier_term": 2021,
+      "later_term": 2022,
+      "shared_precedents": 176,
+      "union_precedents": 1463,
+      "jaccard_share": 0.12030075187969924
+    },
+    {
+      "earlier_term": 2022,
+      "later_term": 2023,
+      "shared_precedents": 170,
+      "union_precedents": 1294,
+      "jaccard_share": 0.13137557959814528
+    },
+    {
+      "earlier_term": 2023,
+      "later_term": 2024,
+      "shared_precedents": 146,
+      "union_precedents": 1303,
+      "jaccard_share": 0.11204911742133537
+    }
+  ],
+  "limitations": "Descriptive selected subsets. Coverage, unresolved references, issue composition, and extraction methods can affect comparisons. Additional terms do not by themselves establish a historical trend.",
+  "age_band_definition": "Mean within-opinion proportion of distinct cited cases aged 0\u201310 or at least 50 calendar years. Zero-link opinions are excluded only from age measures.",
+  "script_sha256": "4ffb28590665f7cbed63a506c06f27ba0763d8803eb466109992177abd72fe4a"
+}

@@ -1,0 +1,98 @@
+{
+  "term": 2023,
+  "selection_rule": "Purposive cases covering report-part PDFs, corrected metadata, narrative dissent references, major opinions, and zero-link decisions.",
+  "all_sources_checked": 57,
+  "checks": [
+    "Unique selected texts",
+    "Author agrees with official index",
+    "Separate-opinion boundary when separate headers exist",
+    "Disposition present near selected end",
+    "Sample citation evidence offsets and graph membership"
+  ],
+  "limitations": "Automated targeted checks; no claim of manual full-opinion review or measured citation recall. Footnotes spanning section boundaries and unnamed short forms may be missed.",
+  "samples": [
+    {
+      "scdb_id": "2023-015",
+      "case_name": "Loper Bright Enterprises v. Raimondo",
+      "pdf_url": "https://www.supremecourt.gov/opinions/23pdf/603us1r54_o7jp.pdf",
+      "pdf_sha256": "c497dcce12d9831f9e59879c2133a9ffd7732f7110db9bf051cb37e5dfee7c89",
+      "text_sha256": "d8c4f400822931b9718f55ffe61d068f4412dc30a81328767244be01e530a2d7",
+      "pdf_page_range": [
+        2,
+        113
+      ],
+      "selected_start": "Chief Justice Roberts delivered the opinion of the Court.",
+      "selected_tail": "t courts need not and under the APA may not defer to an agency interpretation of the law simply because a statute is ambiguous. Because the D. C. and First Circuits relied on Chevron in deciding whether to uphold the Rule, their judgments are vacated, and the cases are remanded for further proceedings consistent with this opinion. It is so ordered.",
+      "next_section": "Justice Thomas, concurring. \nI join the Court's opinion in full because it correctly concludes that Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U. S. 837 (1984), must fnally be overruled. Under Chevron, a judge was required ",
+      "links": 70,
+      "citation_spot_checks": [
+        {
+          "citation": "467 U.S. 837",
+          "context": "Chief Justice Roberts delivered the opinion of the Court. Since our decision in Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U. S. 837 (1984), we have gers of Nebraska, John M. Formella of New Hampshire, Drew Wrigley of North Dakota, Dave Yost of Ohio,",
+          "target": "Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc."
+        },
+        {
+          "citation": "535 U.S. 212",
+          "context": "ation of its authority to require at-sea monitors who are paid for by owners of regulated vessels does not `exceed[ ] the bounds of the permissible.' ” Id., at 633–634 (quoting Barnhart v. Walton, 535 U. S. 212, 218 (2002); alteration in original). In reaching that conclusion, the First Circuit stated that it was applying Chev",
+          "target": "Barnhart v. Walton"
+        },
+        {
+          "citation": "564 U.S. 462",
+          "context": "e laws,” the Framers structured the Constitution to allow judges to exercise that judgment independent of infuence from the political branches. Id., at 522; see id., at 522–524; Stern v. Marshall, 564 U. S. 462, 484 (2011). This Court embraced the Framers' understanding of the judicial function early on. In the foundational de",
+          "target": "Stern v. Marshall"
+        }
+      ],
+      "check_type": "automated targeted boundary and evidence checks"
+    },
+    {
+      "scdb_id": "2023-048",
+      "case_name": "Harrow v. Department of Defense",
+      "pdf_url": "https://www.supremecourt.gov/opinions/23pdf/601us2r23_khlp.pdf",
+      "pdf_sha256": "8a05736d69fc9f0ed415f6fdf6c1a8609798017644489f3b5f4799369d3e5712",
+      "text_sha256": "c68d26c324931a955b36b16689a1d8d13cd4cf08358ff6edff247ec397efd1d1",
+      "pdf_page_range": [
+        2,
+        13
+      ],
+      "selected_start": "Justice Kagan delivered the opinion of the Court.",
+      "selected_tail": "iver issues involved) to the Federal Circuit on remand. And if that court fnds equitable tolling available, it should decide whether, on the facts here, Harrow is entitled to that relief. For the reasons stated, we vacate the judgment of the Court of Appeals and remand the case for further proceedings consistent with this opinion. It is so ordered.",
+      "next_section": null,
+      "links": 13,
+      "citation_spot_checks": [
+        {
+          "citation": "594 U.S. 559",
+          "context": "ng documents”). But Congress legislates against the backdrop of judicial doctrines creating exceptions, and typically expects those doctrines to apply. See Minerva Surgical, Inc. v. Hologic, Inc., 594 U. S. 559, 571–572 (2021). So a court will not enforce a procedural rule against a non-complying party if his opponent has for-",
+          "target": "Minerva Surgical, Inc. v. Hologic, Inc."
+        },
+        {
+          "citation": "596 U.S. 199",
+          "context": "nacts a jurisdictional requirement, it “mark[s] the bounds” of a court's power: A litigant's failure to follow the rule “deprives a court of all authority to hear a case.” Boechler v. Commissioner, 596 U. S. 199, 203 (2022); United States v. Kwai Fun Wong , 575 U. S. 402, 409 (2015). So a court must enforce the rule even if no",
+          "target": "Boechler v. Commissioner"
+        },
+        {
+          "citation": "575 U.S. 402",
+          "context": "of a court's power: A litigant's failure to follow the rule “deprives a court of all authority to hear a case.” Boechler v. Commissioner, 596 U. S. 199, 203 (2022); United States v. Kwai Fun Wong , 575 U. S. 402, 409 (2015). So a court must enforce the rule even if no party has raised it. And a court must adhere to the rule “ev",
+          "target": "UNITED STATES v. KWAI FUN WONG"
+        }
+      ],
+      "check_type": "automated targeted boundary and evidence checks"
+    },
+    {
+      "scdb_id": "2023-060",
+      "case_name": "Moyle v. United States",
+      "pdf_url": "https://www.supremecourt.gov/opinions/23pdf/603us1r53_l5gm.pdf",
+      "pdf_sha256": "55d11c7541629015f71018779c4aa16cbf033c5a7948e8d4bc2bfdf8f015e62b",
+      "text_sha256": "e0ea18bee90ce5bee601bb28164192594edc0590e45dc51fbf6c88ac06a63d44",
+      "pdf_page_range": [
+        2,
+        47
+      ],
+      "selected_start": "Per Curiam.",
+      "selected_tail": "Per Curiam. The writs of certiorari before judgment are dismissed as improvidently granted, and the stays entered by the Court on January 5, 2024, are vacated. It is so ordered.",
+      "next_section": "Justice Kagan, with whom Justice Sotomayor joins, and \nwith whom Justice Jackson joins as to Part II, concurring. \nAn Idaho law prohibits abortions unless necessary to prevent a pregnant woman's death; the law makes no exception \nsee, Ken Paxton of T",
+      "links": 0,
+      "citation_spot_checks": [],
+      "check_type": "automated targeted boundary and evidence checks"
+    }
+  ]
+}

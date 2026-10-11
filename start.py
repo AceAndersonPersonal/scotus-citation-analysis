@@ -8,6 +8,11 @@ from statistics import median
 DATA_DIR = Path(__file__).resolve().parent / "data"
 TERMS = (2004, 2024)
 
+def available_terms(data_dir=DATA_DIR):
+    """Return published term years; staging folders are outside this pattern."""
+    return sorted(int(path.name[5:]) for path in Path(data_dir).glob("term_*")
+                  if path.is_dir() and path.name[5:].isdigit())
+
 def load_cases(filename):
     """Return name and year dictionaries, plus a list of source case IDs."""
     case_names = {}
@@ -324,7 +329,7 @@ def print_summary(summary):
         print("Percentages include zero-citation sources in the denominator.")
 
 def main():
-    for term in TERMS:
+    for term in available_terms():
         print_summary(summarize_term(term))
         print()
 

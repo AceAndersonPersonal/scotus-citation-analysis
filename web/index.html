@@ -4,14 +4,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Supreme Court Citation Explorer</title>
-  <meta name="description" content="Case-level citation records for selected Supreme Court opinions from the 2004 and 2024 terms.">
+  <meta name="description" content="Case-level citation records for selected Supreme Court opinions across selected October terms.">
   <link rel="stylesheet" href="style.css">
   <script defer src="app.js"></script>
 </head>
 <body>
 <a class="skip" href="#case-detail">Skip to selected case</a>
 <main>
-  <p class="document-links"><a href="comparison-report.html">Comparative Report</a><a href="https://github.com/AceAndersonPersonal/scotus-citation-analysis" target="_blank" rel="noopener noreferrer">Source Code</a></p>
+  <p class="document-links"><a href="annual_summary.html">Annual Summary</a><a href="comparison-report.html">2004–2024 Comparative Report</a><a href="https://github.com/AceAndersonPersonal/scotus-citation-analysis" target="_blank" rel="noopener noreferrer">Source Code</a></p>
   <h1>Supreme Court Citation Explorer</h1>
   <p class="coverage">Current Coverage: <span id="term-range">Loading terms</span>. <span id="coverage-total">Loading datasets…</span>.</p>
 
@@ -61,13 +61,14 @@
   <section id="methodology" class="methodology">
     <h2>Data and methodology</h2>
     <p>The datasets contain selected argued majority and per-curiam opinions, including dismissals with no citation links. The case selector lists source opinions; outgoing citations were not collected for cited-only cases.</p>
-    <p>The 2004 data use Harvard archive opinion-block citation links. The 2024 data use official Supreme Court PDF extraction. Unresolved and ambiguous references are omitted. Audits cover selected opinions and do not establish complete citation recall.</p>
+    <p>The 2004 data use Harvard archive links. The 2020–2023 data use a common official-PDF extraction process; the 2024 data use an earlier PDF extraction implementation. Unresolved and ambiguous references are omitted. The new terms have automated boundary checks and targeted evidence checks; complete citation recall has not been measured.</p>
     <p id="term-coverage"></p>
-    <p>Reviewed subsets, not a complete historical series. Extraction methods differ between terms. A citation does not imply agreement or legal importance.</p>
+    <p id="term-method"></p>
+    <p>Selected subsets, not a complete historical series. Extraction methods differ between terms. A citation does not imply agreement or legal importance.</p>
     <p>Terms refer to October terms, not calendar years. Citation ages use decision years; some historical dates have only year or month precision.</p>
     <p>Dataset manifests, exclusions, review records, and acquisition scripts are available in the <a href="https://github.com/AceAndersonPersonal/scotus-citation-analysis" target="_blank" rel="noopener noreferrer">repository</a>.</p>
   </section>
-  <noscript><p>JavaScript is required for case selection. The <a href="comparison-report.html">Comparative Report</a> is available without JavaScript.</p></noscript>
+  <noscript><p>JavaScript is required for case selection. The <a href="annual_summary.html">Annual Summary</a> and <a href="comparison-report.html">2004–2024 Comparative Report</a> are available without JavaScript.</p></noscript>
 </main>
 </body>
 </html>

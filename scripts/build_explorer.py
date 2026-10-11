@@ -13,6 +13,7 @@ from urllib.parse import urlsplit
 PROJECT_DIR = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(PROJECT_DIR))
 from start import load_term
+from annual_summary import collect_annual, write_outputs as write_annual_outputs
 
 
 def opinion_url(value):
@@ -68,6 +69,7 @@ def export_term(folder):
         "edge_count": manifest["binary_edges"], "sources": sources,
         "held_for_review": manifest.get("cases_needing_review", manifest.get("case_review_counts", {}).get("needs_review", 0)),
         "flagged_citations": sum(manifest["citation_review_counts"].values()),
+        "review_status": manifest.get("review_status", "Selected opinion audits; full recall not measured"),
         "method": manifest.get("input_method", "Harvard archive opinion-block citation links; see the term manifest for selection and exclusions."),
         "input_sha256": {name: hashlib.sha256((folder / name).read_bytes()).hexdigest()
                          for name in ("cases.csv", "citations.csv", "manifest.json")},
@@ -89,6 +91,7 @@ def build_explorer(data_dir, output_dir, assets_dir=None, report_path=None):
     (output_dir / "data.json").write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
     report_path = Path(report_path) if report_path else PROJECT_DIR / "reports/citation_age_report.html"
     shutil.copy2(report_path, output_dir / "comparison-report.html")
+    write_annual_outputs(collect_annual(data_dir), output_dir)
     return payload
 
 
